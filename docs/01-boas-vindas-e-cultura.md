@@ -113,6 +113,7 @@ Na **studio4you**, tratamos você como um futuro engenheiro de software, não co
 | Receber correções e code reviews com maturidade | Fazer drama, melindre ou levar feedback técnico para o lado pessoal |
 | Conversas profissionais e objetivas no expediente | Transformar reuniões de trabalho em conversa fiada sem foco |
 | Entregar tarefas pequenas e consistentes no Trello | Tentar abraçar o mundo e travar tudo no final da Sprint |
+| Usar as ferramentas (Claude Code/IDEs) com foco nos projetos da empresa | Usar IA e acessos corporativos para demandas pessoais sem pedir autorização |
 | Atualizar seu relatório quinzenal com frequência | Lembrar do relatório 10 minutos antes de entregar ao professor |
 
 ---

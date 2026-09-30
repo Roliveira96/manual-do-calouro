@@ -31,6 +31,24 @@ Na **studio4you**, acreditamos que para aprender o padrão da indústria, você 
 
 ---
 
+### 🔒 "Posso usar o Claude Code e as ferramentas da empresa para coisas pessoais?"
+
+> [!CAUTION]
+> **RESPOSTA DIRETA: NÃO.**  
+> Todas as ferramentas, licenças de IA (**Claude Code**), suíte JetBrains e acessos de infraestrutura fornecidos pela studio4you são de **uso estritamente corporativo**, voltados para os projetos e aprendizado dentro da empresa.
+
+#### ⚠️ Por que essa regra é inegociável? (Persistência de Dados & Privacidade)
+1. **Os dados são persistidos e auditáveis:** As ferramentas corporativas mantêm histórico de prompts, logs de terminal, transcripts de sessão e código gerado armazenados na plataforma da organização.
+2. **Proteja sua privacidade:** Ao colar trabalhos de outras disciplinas sem relação com a empresa, senhas, dados bancários, mensagens pessoais ou códigos de terceiros, essas informações ficam gravadas nos registros corporativos.
+3. **Custos e Recursos de Infraestrutura:** Licenças de IA corporativas possuem cotas de consumo e custos mantidos pela studio4you para gerar valor aos nossos clientes e projetos.
+
+#### 💡 A Exceção: Autorização Prévia do Gestor
+Quer utilizar o Claude Code para auxiliar em um trabalho acadêmico específico da UTFPR ou um estudo técnico paralelo?  
+**Converse antes com o Ricardo!**  
+Se for solicitado com transparência e houver **autorização explícita prévia**, não há problema algum. O que é estritamente proibido é o uso velado ou indiscriminado sem o conhecimento da liderança.
+
+---
+
 ## 🏢 Espaço Físico & Convivência em Guarapuava
 
 Mesmo sendo uma oportunidade com rotina remota e flexível, o contato humano e o networking presencial aceleram carreiras:
