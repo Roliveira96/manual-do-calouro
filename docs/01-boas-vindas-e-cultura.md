@@ -85,6 +85,22 @@ Você terá liberdade para testar abordagens, sugerir melhorias e organizar seu 
 ### 4. Camaradagem e Espírito de Time
 Trabalho em equipe significa que a vitória de um é a vitória de todos. Ajudar um colega a destravar uma dependência ou compartilhar um link útil no Discord enriquece toda a equipe.
 
+### 5. Maturidade Profissional: Menos Melindre, Mais Engenharia (Zero "Mimimi") 🎯
+
+> *"Feedback técnico em código não é ataque pessoal; é controle de qualidade e respeito ao cliente que paga a conta."*
+
+Na **studio4you**, tratamos você como um futuro engenheiro de software, não como uma criança. Por isso, adotamos uma postura adulta e realista:
+
+1. **Conversas Profissionais no Expediente:**
+   - Nas Dailies, reuniões com o gestor, Pull Requests e canais de projeto, o diálogo é **direto, educado, objetivo e focado em resolver problemas**.
+   - O tempo de todos é precioso. Evite rodeios, desculpas vazias ou postura vitimista quando algo der errado.
+2. **Code Review não é julgamento moral:**
+   - Se o gestor apontar que sua função está confusa, que seu commit está desorganizado ou que a lógica quebrou o padrão do projeto, **não leve para o lado pessoal**.
+   - Feedback técnico rigoroso é o maior acelerador de carreira que existe. Quem quer crescer agradece o apontamento, ajusta o código e aprende a lição.
+3. **Cada coisa no seu lugar (Trabalho vs Descontração):**
+   - **Na hora de trabalhar:** Postura, comprometimento, respeito aos prazos e foco total no terminal.
+   - **Na hora de descontrair:** Somos um time acolhedor e parceiro! Para memes, risadas e conversas aleatórias, use o canal `#geral-bate-papo`. E para quem está em Guarapuava, o **Happy Hour mensal presencial (100% pago pela empresa)** é o palco sagrado para relaxar, trocar ideias e celebrar as conquistas da Sprint.
+
 ---
 
 ## 💡 Como ter uma trajetória de sucesso aqui
@@ -94,6 +110,8 @@ Trabalho em equipe significa que a vitória de um é a vitória de todos. Ajudar
 | Curiosidade ativa e vontade de aprender | Fingir que entendeu uma instrução sem ter entendido |
 | Anotar instruções importantes e criar documentação | Repetir a mesma dúvida básica 5 vezes por não anotar |
 | Manter câmera ligada nas reuniões com postura engajada | Virar "fantasma" no Discord sem responder mensagens |
+| Receber correções e code reviews com maturidade | Fazer drama, melindre ou levar feedback técnico para o lado pessoal |
+| Conversas profissionais e objetivas no expediente | Transformar reuniões de trabalho em conversa fiada sem foco |
 | Entregar tarefas pequenas e consistentes no Trello | Tentar abraçar o mundo e travar tudo no final da Sprint |
 | Atualizar seu relatório quinzenal com frequência | Lembrar do relatório 10 minutos antes de entregar ao professor |
 

@@ -64,6 +64,10 @@ Nosso servidor no Discord é enxuto e organizado para ninguém perder foco com s
    - Está em aula na UTFPR? Defina o status como *"Em aula"*.
    - Saiu para o almoço? Deixe visível.
    - Está focado codando? Status *"Codando card #123"*.
+4. **Comunicação Profissional (Zero Drama):**
+   - Nos canais de projeto (`#avisos`, `#duvidas`, voz de daily e pareamento), o tom é sempre sério, objetivo e técnico.
+   - Ninguém aqui é criança: receba sugestões e correções técnicas com postura profissional.
+   - Guarde as brincadeiras, zoeiras e memes para o `#geral-bate-papo` ou para o nosso Happy Hour presencial!
 
 ---
 

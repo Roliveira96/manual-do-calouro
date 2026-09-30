@@ -14,7 +14,7 @@ Aqui não tem pegadinha: tudo o que você precisa saber sobre ferramentas, reuni
 
 ---
 
-## ⚡ As 6 Leis Sagradas do Estágio na studio4you
+## ⚡ As 7 Leis Sagradas do Estágio na studio4you
 
 Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole num post-it no monitor):
 
@@ -24,6 +24,7 @@ Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole n
 4. **💥 Quebrou? Não Esconda!** Errou um comando ou quebrou o build? Avise imediatamente! Lembra da analogia da luz da injeção do motor: fita isolante preta por cima da lâmpada não impede o motor de fundir na estrada. Honestidade técnica sempre!
 5. **🐧 Alma Linux:** Seu ambiente de desenvolvimento é Linux (Ubuntu recomendado). Domine o terminal, ame a linha de comando e documente tudo no `README.md`.
 6. **📝 Relatório Quinzenal em Dia:** O estágio é uma parceria com a **UTFPR (TSI)**. Relatório feito a cada 15 dias poupa desespero no fim do semestre.
+7. **👔 Postura Adulta & Sem Melindres:** No trabalho, foco, maturidade e conversas profissionais. Code review não é ataque pessoal; é engenharia de software pura. Descontração tem hora e lugar: no `#geral-bate-papo` e no Happy Hour mensal!
 
 ---
 
