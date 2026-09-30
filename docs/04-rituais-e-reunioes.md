@@ -48,7 +48,8 @@ Ao falar, você deve responder apenas a 3 perguntas essenciais:
 3. **O que está me travando (Impedimentos):** *(ex: "Estou com dúvida sobre onde guardar o JWT no localStorage ou em cookies.")*
 
 > [!TIP]
-> **Regra de Ouro da Daily:** O objetivo não é prestar contas detalhadas de cada linha de código, mas **destravar impedimentos técnicos** e garantir que ninguém passe o dia batendo a cabeça na parede.
+> **Regra de Ouro da Daily:** O objetivo não é prestar contas detalhadas de cada linha de código, mas **destravar impedimentos técnicos**.  
+> Quebrou a branch? Rodou comando errado no banco? Não esconda com vergonha. A Daily é o local seguro para levantar a mão. Um erro dito em 1 minuto vira solução imediata com a equipe!
 
 ---
 

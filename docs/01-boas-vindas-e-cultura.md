@@ -17,8 +17,32 @@ O estágio na studio4you é uma ponte entre o mundo acadêmico (aulas, provas, t
 
 ## 🎯 Nossos Pilares de Convivência e Trabalho
 
-### 1. Transparência Radical
-Se algo deu errado, conte. Se você não entendeu a tarefa, fale imediatamente. Se achou um bug sinistro, mostre. Nós premiamos a honestidade intelectual e a comunicação rápida.
+### 1. Transparência Radical & "Quebrou? Não Esconda!" 💥
+
+> [!CAUTION]
+> **A REGRA DE OURO DOS ERROS: Se você quebrou algo, NUNCA esconda.**  
+> O problema nunca é o erro. O verdadeiro desastre é o silêncio.
+
+Para entender por que levamos isso tão a sério, pense em duas analogias da vida real:
+
+#### 🚗 A Analogia da Luz da Injeção no Painel
+Imagine que você está dirigindo e, de repente, acende a luz vermelha da **injeção eletrônica** no painel. Em vez de parar o carro ou avisar o mecânico, você pega um pedaço de **fita isolante preta e cola por cima da lâmpada** porque *"se eu não estou vendo a luz acesa, o problema não existe"*.  
+O que acontece? Três quilômetros depois, o motor ferve, funde o cabeçote no meio da estrada e um conserto simples de sensor vira um prejuízo catastrófico com guincho.
+
+#### ☕ A Analogia da Xícara Quebrada no Chão
+Se você esbarra numa xícara, ela quebra e você avisa na hora: *"Pessoal, derrubei a xícara aqui perto da bancada!"*, o gestor ou colega pega a vassoura, passa um pano e em 30 segundos tudo está limpo e seguro.  
+Mas se você varre os cacos afiados **para debaixo do tapete**, alguém vai pisar descalço amanhã de manhã, cortar o pé e o estrago será dez vezes pior.
+
+#### 💻 Como isso funciona no Software?
+* Rodou um comando perigoso no terminal?
+* Deletou sem querer um arquivo ou branch de trabalho?
+* Fez um commit errado ou quebrou a migration do banco?
+* A API parou de responder e você não sabe o que alterou?
+
+**Respire fundo e avise na hora no `#duvidas` do Discord ou na Daily.**  
+Você está aqui para aprender. Erros técnicos fazem parte da evolução de todo desenvolvedor (inclusive dos seniores!).  
+* Um erro comunicado em 5 minutos é resolvido em 1 ou 2 comandos com seu mentor (um simples `git reflog`, rollback de container ou `docker compose down -v`).  
+* Um erro escondido vira uma bola de neve que explode na mão do cliente na sexta-feira no final do expediente. Seja transparente sempre!
 
 ### 2. A Regra dos 20 Minutos
 Quando encontrar um erro misterioso:

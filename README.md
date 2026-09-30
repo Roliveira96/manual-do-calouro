@@ -14,15 +14,16 @@ Aqui não tem pegadinha: tudo o que você precisa saber sobre ferramentas, reuni
 
 ---
 
-## ⚡ As 5 Leis Sagradas do Estágio na studio4you
+## ⚡ As 6 Leis Sagradas do Estágio na studio4you
 
 Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole num post-it no monitor):
 
 1. **📹 Câmera Ligada nas Reuniões:** Nada de foto estática ou tela preta de podcast fantasma! Nas dailies e reuniões, olho no olho. A presença humana aproxima o time.
 2. **🎯 1 Card por Vez no Trello:** A regra de ouro do `Em Andamento`. Termine uma coisa antes de começar outra. Foco vence multitarefa caótica.
 3. **💬 Comunicação Ativa no Discord:** Travou mais de 20 minutos tentando resolver algo? Peça ajuda no `#duvidas`. Ninguém ganha medalha por sofrer em silêncio.
-4. **🐧 Alma Linux:** Seu ambiente de desenvolvimento é Linux (Ubuntu recomendado). Domine o terminal, ame a linha de comando e documente tudo no `README.md`.
-5. **📝 Relatório Quinzenal em Dia:** O estágio é uma parceria com a **UTFPR (TSI)**. Relatório feito a cada 15 dias poupa desespero no fim do semestre.
+4. **💥 Quebrou? Não Esconda!** Errou um comando ou quebrou o build? Avise imediatamente! Lembra da analogia da luz da injeção do motor: fita isolante preta por cima da lâmpada não impede o motor de fundir na estrada. Honestidade técnica sempre!
+5. **🐧 Alma Linux:** Seu ambiente de desenvolvimento é Linux (Ubuntu recomendado). Domine o terminal, ame a linha de comando e documente tudo no `README.md`.
+6. **📝 Relatório Quinzenal em Dia:** O estágio é uma parceria com a **UTFPR (TSI)**. Relatório feito a cada 15 dias poupa desespero no fim do semestre.
 
 ---
 
