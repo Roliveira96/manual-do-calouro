@@ -1,0 +1,10 @@
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporários
+*.tmp
+*.bak
+*.swp

@@ -1,0 +1,70 @@
+# 💬 02. Comunicação Oficial :: Discord & E-mails
+
+> *"Se não está no Discord ou no Trello, não aconteceu no mundo real."*
+
+---
+
+## 🎧 Por que o Discord?
+
+O Discord é o nosso QG virtual da **studio4you**. É nele que o time se encontra, tira dúvidas rápidas, comemora deploys bem-sucedidos e realiza as reuniões por voz e vídeo.
+
+---
+
+## 📧 Política de E-mails & Contas (Zero Burocracia)
+
+> [!IMPORTANT]
+> **Você NÃO receberá uma caixa de e-mail corporativa na hospedagem da empresa.**  
+> A studio4you preza pela simplicidade operacional. Usamos o **mesmo e-mail cadastrado na sua conta do GitHub** (seja o seu e-mail pessoal ou o e-mail acadêmico `@alunos.utfpr.edu.br`).
+
+Esse único e-mail será o seu passaporte para:
+- O servidor oficial da studio4you no **Discord**.
+- O Workspace e quadros de projeto no **Trello**.
+- As permissões e repositórios de código no **GitHub**.
+
+---
+
+## 🏛️ Estrutura dos Canais no Servidor
+
+Nosso servidor no Discord é enxuto e organizado para ninguém perder foco com spam. Conheça os canais:
+
+### 📝 Canais de Texto
+
+| Canal | Para que serve? | Exemplo de uso |
+| :--- | :--- | :--- |
+| **`#avisos`** | **Comunicados oficiais e imperdíveis.** Notificações de horários, mudanças de escopo, avisos do gestor. | *"Reunião de alinhamento hoje antecipada para as 14h."* |
+| **`#duvidas`** | **O laboratório aberto de socorro mútuo.** Onde você posta prints de erros, logs do terminal e pede apoio. | *"Pessoal, erro no `npm install` no Ubuntu 24.04: `EACCES: permission denied`..."* |
+| **`#links-uteis`** | **Biblioteca viva da equipe.** Artigos, docs da comunidade, tutoriais de Linux, dicas de Git e extensões úteis. | *"Documentação excelente sobre Flexbox e CSS Grid para quem for estilizar os cards!"* |
+| **`#geral-bate-papo`** | **A máquina de café virtual.** Memes saudáveis, cumprimentos de bom dia e descontração. | *"Bom dia galera! Mais café, menos bugs."* |
+
+---
+
+### 🎙️ Canais de Voz & Vídeo
+
+| Canal de Voz | Finalidade | Regra Principal |
+| :--- | :--- | :--- |
+| **`🔊 Dailies & Rituais`** | Sala para a Daily diária, alinhamento de segunda e fechamento de sexta. | **Câmera Ligada Obrigatória!** |
+| **`🔊 Pareamento / Shadowing`** | Sala para sessões práticas com o gestor ou colegas codando juntos. | Compartilhe a tela com fonte legível (Zoom no VS Code: `Ctrl + +`). |
+| **`🔊 Sala de Foco / Coworking`** | Para quem quer ficar na sala com microfone mutado enquanto coda ouvindo lofi. | Ideal para saber quem está online no momento. |
+
+---
+
+## 🤝 Manual de Boas Maneiras no Discord
+
+1. **Como pedir ajuda no `#duvidas` (A arte do post perfeito):**
+   - ❌ *Ruim:* "Gente, meu código não tá funcionando. Alguém ajuda?" (Ninguém adivinha o que houve!).
+   - ✅ *Excelente:*
+     > *"Estou no card 'Configurar banco local'. Rodei o comando `docker compose up` e recebi o erro `bind: address already in use :3306`. Já verifiquei com `sudo lsof -i :3306` e parece que o MySQL local estava rodando. Como podemos contornar?"*
+2. **Prints e Código:**
+   - Nunca tire foto da tela do monitor com o celular! Use captura de tela no Linux (`Shift + PrintScreen` ou app de screenshot).
+   - Use blocos de código markdown com três crases (```` ```bash ```` ou ```` ```json ````) para colar logs e comandos legíveis.
+3. **Mantenha seu Status Atualizado:**
+   - Está em aula na UTFPR? Defina o status como *"Em aula"*.
+   - Saiu para o almoço? Deixe visível.
+   - Está focado codando? Status *"Codando card #123"*.
+
+---
+
+## 🔗 Próximo Passo
+
+Agora que sua voz e teclado estão calibrados no Discord, vamos entender como as tarefas nascem, vivem e morrem no Trello:  
+👉 [Vá para o Guia do Trello & Sprints](file:///home/ricardo/manual-do-calouro/docs/03-fluxo-trello-e-sprints.md)
