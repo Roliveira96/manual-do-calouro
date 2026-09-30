@@ -93,25 +93,26 @@ A cada 15 dias, você terá uma conversa individual de 30 minutos com o seu gest
 
 ---
 
-## 🎓 6. Semanas de Provas e Exames na UTFPR: Como Proceder?
+## 🎓 6. Dias de Prova na UTFPR: FOLGA TOTAL PARA ESTUDAR! (Trabalho Não Permitido)
 
-> *"Nós queremos você formado! Sua aprovação e sua graduação na UTFPR são prioridades inegociáveis."*
+> *"Em dia de prova na UTFPR, você NÃO trabalha no estágio. Sua obrigação exclusiva é estudar, tirar uma boa nota e garantir sua aprovação!"*
 
-A rotina de provas do curso (TSI / Engenharia / Computação) pode ser intensa, especialmente nas semanas de **P1, P2, exames finais ou entregas de projetos integradores**.
+Seguindo as diretrizes da **Lei do Estágio (Lei nº 11.788/2008)** e a política interna de valorização acadêmica da **studio4you**:
 
-Na **studio4you**, temos uma política clara de apoio ao estudante:
+> [!IMPORTANT]
+> **REGRA OFICIAL: DIA DE PROVA = FOLGA TOTAL PARA ESTUDO.**  
+> - Em dias de avaliação, provas teóricas, exames práticos ou bancas de TCC da UTFPR, **não é permitido trabalhar no estágio**.  
+> - Você **NÃO** deve abrir cards do Trello, não precisa participar de Dailies e não deve mexer em código da empresa nesses dias.  
+> - O tempo é 100% reservado para seus cadernos, livros, exercícios e descanso mental pré-prova.
 
-### 📋 O Protocolo das Semanas de Prova:
-1. **Avisar com Antecedência (A Regra de Ouro):**
-   - ❌ *O que NÃO fazer:* Sumir sem avisar ou mandar mensagem 10 minutos antes da Daily dizendo: *"Professor marcou prova agora e não vou conseguir entrar"*.
-   - ✅ *O que fazer:* Avise o gestor na reunião de alinhamento da **Segunda-feira** ou com pelo menos **48 horas de antecedência** no canal `#avisos` do Discord.
-2. **Redução e Ajuste de Escopo na Sprint:**
-   - Durante a sua semana de provas, o gestor irá **reduzir intencionalmente o volume de cards** atribuídos a você no Trello.
-   - Demandas críticas ou prazos apertados não serão colocados nas suas costas nesses dias.
-3. **Ausência em Cerimônias e Flexibilidade:**
-   - Se o horário da prova ou aula presencial coincidir com a Daily, você está liberado, desde que pré-comunique no Discord.
-   - Concentre-se nos estudos, faça uma boa prova e volte com a cabeça tranquila para programar depois.
-   - Comunicação transparente com antecedência constrói confiança mútua!
+### 📋 O que você precisa fazer:
+1. **Avisar as Datas com Antecedência (Obrigatório):**
+   - No início do semestre ou assim que o professor publicar o cronograma de provas (P1, P2 e Exames Finais), envie as datas no canal `#avisos` do Discord ou na reunião de alinhamento de **Segunda-feira** (com no mínimo 48h de antecedência).
+2. **Organização da Sprint pelo Gestor:**
+   - Sabendo que você terá prova na quarta ou quinta-feira, o Ricardo simplesmente **não atribuirá demandas** para aquele dia no Trello.
+   - Sua semana é planejada já considerando os dias de folga de estudo.
+3. **Zero Estresse e Zero Culpa:**
+   - Faça sua prova com calma. Após o término da prova, você descansa e retorna às atividades no dia útil seguinte com a mente limpa. Transparência prévia garante que tudo funcione sem atritos!
 
 ---
 

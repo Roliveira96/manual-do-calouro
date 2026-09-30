@@ -90,9 +90,10 @@ Com a rotina quinzenal estabelecida:
 - A empresa possui histórico documentado de cada quinzena trabalhada.
 - O aluno precisa apenas unificar os relatórios quinzenais no relatório final da universidade.
 
-### 🛡️ Gestão de Semanas de Prova:
-- Nas semanas de provas da UTFPR (P1, P2, exames finais e TCC), **reduza deliberadamente o volume de cards** atribuídos ao estudante na coluna `A Fazer`.
-- Incentive o aviso prévio na segunda-feira. Estudante com apoio nos estudos produz com muito mais qualidade e fidelidade ao time no restante do semestre.
+### 🛡️ Gestão de Dias de Prova (Folga Integral para Estudos):
+- **Trabalho não permitido:** Em dias de provas, avaliações teóricas/práticas ou bancas da UTFPR, **o estagiário tem folga total**. Ele não deve mexer em código, não deve participar de cerimônias e não deve ter cards atribuídos no Trello nesses dias.
+- **Conformidade Legal & Parceria:** Essa política atende à Lei Federal de Estágio (Lei nº 11.788/2008) e fortalece o compromisso formativo da studio4you com a UTFPR.
+- Exija apenas o aviso prévio das datas para organizar o backlog da semana sem surpresas.
 
 ---
 
