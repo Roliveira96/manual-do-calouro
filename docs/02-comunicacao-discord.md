@@ -50,10 +50,13 @@ Nosso servidor no Discord é enxuto e organizado para ninguém perder foco com s
 
 ## 🤝 Manual de Boas Maneiras no Discord
 
-1. **Como pedir ajuda no `#duvidas` (A arte do post perfeito):**
-   - ❌ *Ruim:* "Gente, meu código não tá funcionando. Alguém ajuda?" (Ninguém adivinha o que houve!).
-   - ✅ *Excelente:*
-     > *"Estou no card 'Configurar banco local'. Rodei o comando `docker compose up` e recebi o erro `bind: address already in use :3306`. Já verifiquei com `sudo lsof -i :3306` e parece que o MySQL local estava rodando. Como podemos contornar?"*
+1. **A Escadinha do Canal `#duvidas` (Pesquise ➡️ Colega ➡️ Gestor):**
+   - **Passo 1 (Você):** Pesquise na documentação, Stack Overflow e ferramentas de IA (Claude Code).
+   - **Passo 2 (Seu Colega):** Publique no `#duvidas` e marque seu colega estagiário para tentarem achar a solução em dupla.
+   - **Passo 3 (O Gestor):** Se mesmo pesquisando e trocando ideia com o colega o problema continuar, aí sim marque o Ricardo com a explicação do que já foi investigado e tentado.
+   - ❌ *Post Ruim:* "Gente, meu código não tá funcionando. Alguém ajuda?" (Ninguém adivinha o que houve!).
+   - ✅ *Post Excelente:*
+     > *"Estou no card 'Configurar banco local'. Rodei o comando `docker compose up` e recebi o erro `bind: address already in use :3306`. Já consultei a doc, verifiquei com `sudo lsof -i :3306` com o [Colega] e vimos que o MySQL local do sistema está ativo. @Ricardo, como padronizamos a porta no compose?"*
 2. **Prints e Código:**
    - Nunca tire foto da tela do monitor com o celular! Use captura de tela no Linux (`Shift + PrintScreen` ou app de screenshot).
    - Use blocos de código markdown com três crases (```` ```bash ```` ou ```` ```json ````) para colar logs e comandos legíveis.

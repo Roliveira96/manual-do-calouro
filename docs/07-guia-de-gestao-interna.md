@@ -57,6 +57,7 @@ flowchart TD
   2. O que vai fazer hoje.
   3. O que está travando o trabalho.
 - **Regra de Ouro do Gestor:** Mantenha o foco exclusivamente em destravar impedimentos técnicos e alinhar prioridades. Se um problema exigir discussão técnica longa, isole o assunto para uma sessão pós-daily de pareamento.
+- **Cobrança da Escadinha dos 3 Níveis:** Antes de responder diretamente a uma dúvida de código, sempre pergunte: *"O que a documentação diz e o que você e seu colega já tentaram juntos?"*. Isso reforça autonomia e evita dependência do gestor para dúvidas triviais.
 
 ### 2. Alinhamento da Sprint (Segunda-feira)
 - Revisão rápida do backlog e priorização das tarefas que vão para `A Fazer`.

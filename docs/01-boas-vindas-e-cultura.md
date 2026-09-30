@@ -44,11 +44,37 @@ Você está aqui para aprender. Erros técnicos fazem parte da evolução de tod
 * Um erro comunicado em 5 minutos é resolvido em 1 ou 2 comandos com seu mentor (um simples `git reflog`, rollback de container ou `docker compose down -v`).  
 * Um erro escondido vira uma bola de neve que explode na mão do cliente na sexta-feira no final do expediente. Seja transparente sempre!
 
-### 2. A Regra dos 20 Minutos
-Quando encontrar um erro misterioso:
-1. **Minutos 0 a 10:** Leia atentamente a mensagem de erro (o terminal costuma dizer exatamente onde doeu!).
-2. **Minutos 10 a 20:** Pesquise na documentação oficial, Stack Overflow ou faça um teste isolado.
-3. **Passou de 20 minutos sem sair do lugar?** Chame alguém no canal `#duvidas` do Discord ou anote para a Daily. Não fique 6 horas congelado olhando para a tela.
+### 2. O Funil de Resolução em 3 Níveis (A Escadinha do Desbloqueio) 🧗‍♂️
+
+> *"Antes de terceirizar a dúvida para o gestor, exercite a musculatura da investigação e a força do trabalho em equipe."*
+
+Quando você encontrar um bug, comportamento inesperado ou erro de compilação, **siga obrigatoriamente estes 3 passos sequenciais**:
+
+```mermaid
+flowchart TD
+    N1["🔍 Nível 1: Pesquisa Própria\n(Terminal, Docs oficiais, Stack Overflow, Claude Code)\nTempo sugerido: 15 a 20 min"] -->|Não resolveu?| N2["👥 Nível 2: Converse com seu Colega\n(Troque ideia no Discord, veja se ele já passou por isso)\nDuas mentes encontram pontos cegos!"]
+    N2 -->|Os dois continuam travados?| N3["🚨 Nível 3: Acione o Gestor (Ricardo)\n(Apresente o erro + o que já foi testado)\nMentoria cirúrgica e objetiva!"]
+```
+
+#### 🔍 Nível 1: Pesquisa Própria & Autonomia
+* **Leia o erro de verdade:** 90% das respostas estão na última linha do terminal ou no console do navegador.
+* **Consulte a documentação:** Acesse os docs oficiais da linguagem, biblioteca ou framework.
+* **Use as ferramentas certas:** Busque no Google, Stack Overflow, issues do GitHub e consulte o **Claude Code** para entender a causa raiz.
+* *Atenção:* O gestor não é um mecanismo de busca! Criar o hábito de pesquisar é o que vai transformar você em um desenvolvedor sênior no futuro.
+
+#### 👥 Nível 2: Converse com o seu Colega de Estágio
+* Pesquisou, testou e ainda está na dúvida? **Não venha direto no gestor ainda!**
+* Chame seu colega de estágio no Discord (canal `#duvidas` ou puxem uma salinha de voz).
+* Muitas vezes o seu colega acabou de passar por esse mesmo problema ontem ao configurar o ambiente dele, ou consegue enxergar uma vírgula ou dependência que você não viu por estar cansado.
+* **Ajudar o colega consolida o aprendizado dos dois.**
+
+#### 🚨 Nível 3: Aí sim, venha falar com o Gestor (Ricardo)!
+* Se você pesquisou com calma (Nível 1) e você e seu colega tentaram juntos e continuam travados (Nível 2): **agora é a hora perfeita de me chamar!**
+* **Como me apresentar a dúvida:**
+  * ❌ *Forma errada:* "Ricardo, não tá dando certo aqui, olha pra mim?"
+  * ✅ *Forma profissional da studio4you:*
+    > *"Ricardo, estou travado no card X com o erro Y. Já pesquisei na documentação, tentei a solução Z, conversei com o [Nome do Colega] e testamos a abordagem W, mas o erro persiste no Linux. Pode nos ajudar a destravar?"*
+* Dessa forma, a mentoria é rápida, direta ao ponto e resolve exatamente o nó que nenhum de vocês conseguiu desatar.
 
 ### 3. Autonomia com Responsabilidade
 Você terá liberdade para testar abordagens, sugerir melhorias e organizar seu código. Mas autonomia anda de mãos dadas com responsabilidade:

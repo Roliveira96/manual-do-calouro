@@ -20,7 +20,7 @@ Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole n
 
 1. **📹 Câmera Ligada nas Reuniões:** Nada de foto estática ou tela preta de podcast fantasma! Nas dailies e reuniões, olho no olho. A presença humana aproxima o time.
 2. **🎯 1 Card por Vez no Trello:** A regra de ouro do `Em Andamento`. Termine uma coisa antes de começar outra. Foco vence multitarefa caótica.
-3. **💬 Comunicação Ativa no Discord:** Travou mais de 20 minutos tentando resolver algo? Peça ajuda no `#duvidas`. Ninguém ganha medalha por sofrer em silêncio.
+3. **💬 A Escadinha do Desbloqueio (Pesquise ➡️ Colega ➡️ Gestor):** Travou em um erro de código ou bug? Primeiro pesquise na documentação e IA (~15 min). Ainda travou? Converse com seu colega de estágio. Se continuarem sem solução, aí sim venham falar com o Ricardo trazendo o que já foi tentado!
 4. **💥 Quebrou? Não Esconda!** Errou um comando ou quebrou o build? Avise imediatamente! Lembra da analogia da luz da injeção do motor: fita isolante preta por cima da lâmpada não impede o motor de fundir na estrada. Honestidade técnica sempre!
 5. **🐧 Alma Linux:** Seu ambiente de desenvolvimento é Linux (Ubuntu recomendado). Domine o terminal, ame a linha de comando e documente tudo no `README.md`.
 6. **📝 Relatório Quinzenal em Dia:** O estágio é uma parceria com a **UTFPR (TSI)**. Relatório feito a cada 15 dias poupa desespero no fim do semestre.
