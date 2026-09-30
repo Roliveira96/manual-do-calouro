@@ -7,7 +7,7 @@
 ## 1. Identificação
 * **Nome do Estagiário:** Dev Silva Júnior
 * **Curso / Instituição:** Tecnologia em Sistemas para Internet (TSI) - UTFPR
-* **Empresa Concedente:** studio4you
+* **Empresa Concedente:** Studio4You
 * **Supervisor Responsável:** Ricardo (Gestor Técnico)
 * **Período da Quinzena:** 01/10/2026 a 15/10/2026
 * **Quinzena Nº:** 01

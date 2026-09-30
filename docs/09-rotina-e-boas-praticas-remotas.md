@@ -16,7 +16,7 @@ Quando as pessoas pensam em trabalho remoto, muitos imaginam aquela cena de film
 2. Fazer o seu cérebro achar que você está de folga (e a produtividade cair para zero);
 3. Passar uma imagem completamente amadora nas reuniões com a câmera ligada.
 
-Na **studio4you**, nós valorizamos a flexibilidade remota, mas cobramos **postura profissional de engenharia**. Para ajudar você a construir esse hábito vencedor, documentamos abaixo a **rotina real do nosso Tech Lead (Ricardo)**, um passo a passo testado no campo de batalha para você adotar no seu dia a dia.
+Na **Studio4You**, nós valorizamos a flexibilidade remota, mas cobramos **postura profissional de engenharia**. Para ajudar você a construir esse hábito vencedor, documentamos abaixo a **rotina real do nosso Tech Lead (Ricardo)**, um passo a passo testado no campo de batalha para você adotar no seu dia a dia.
 
 ---
 
@@ -102,4 +102,4 @@ docker compose up -d
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 08. Benefícios & Ferramentas Top](./08-beneficios-e-ferramentas-premium.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 10. Conhecendo a studio4you ➡️](./10-sobre-a-studio4you.md)
+[⬅️ Anterior: 08. Benefícios & Ferramentas Top](./08-beneficios-e-ferramentas-premium.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 10. Conhecendo a Studio4You ➡️](./10-sobre-a-studio4you.md)

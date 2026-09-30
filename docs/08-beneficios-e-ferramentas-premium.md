@@ -1,12 +1,12 @@
 # 🎁 08. Benefícios, Ferramentas de Ponta & Networking
 
-> *"Trabalho voluntário focado em mentoria não significa trabalhar sem recursos — muito pelo contrário. Na studio4you, você tem acesso às melhores ferramentas do mercado global de tecnologia."*
+> *"Trabalho voluntário focado em mentoria não significa trabalhar sem recursos — muito pelo contrário. Na Studio4You, você tem acesso às melhores ferramentas do mercado global de tecnologia."*
 
 ---
 
 ## 🚀 Ferramentas Profissionais à Sua Disposição
 
-Na **studio4you**, acreditamos que para aprender o padrão da indústria, você deve usar as mesmas ferramentas que os desenvolvedores seniores usam ao redor do mundo.
+Na **Studio4You**, acreditamos que para aprender o padrão da indústria, você deve usar as mesmas ferramentas que os desenvolvedores seniores usam ao redor do mundo.
 
 ### 🧠 1. Inteligência Artificial com Claude Code
 - Você terá acesso guiado a ferramentas de IA de última geração (**Claude Code** e assistentes de ponta).
@@ -31,12 +31,12 @@ Na **studio4you**, acreditamos que para aprender o padrão da indústria, você 
 
 > [!CAUTION]
 > **RESPOSTA DIRETA: NÃO.**  
-> Todas as ferramentas, licenças de IA (**Claude Code**) e acessos de infraestrutura fornecidos pela studio4you são de **uso estritamente corporativo**, voltados para os projetos e aprendizado dentro da empresa.
+> Todas as ferramentas, licenças de IA (**Claude Code**) e acessos de infraestrutura fornecidos pela Studio4You são de **uso estritamente corporativo**, voltados para os projetos e aprendizado dentro da empresa.
 
 #### ⚠️ Por que essa regra é inegociável? (Persistência de Dados & Privacidade)
 1. **Os dados são persistidos e auditáveis:** As ferramentas corporativas mantêm histórico de prompts, logs de terminal, transcripts de sessão e código gerado armazenados na plataforma da organização.
 2. **Proteja sua privacidade:** Ao colar trabalhos de outras disciplinas sem relação com a empresa, senhas, dados bancários, mensagens pessoais ou códigos de terceiros, essas informações ficam gravadas nos registros corporativos.
-3. **Custos e Recursos de Infraestrutura:** Licenças de IA corporativas possuem cotas de consumo e custos mantidos pela studio4you para gerar valor aos nossos clientes e projetos.
+3. **Custos e Recursos de Infraestrutura:** Licenças de IA corporativas possuem cotas de consumo e custos mantidos pela Studio4You para gerar valor aos nossos clientes e projetos.
 
 #### 💡 A Exceção: Autorização Prévia do Gestor
 Quer utilizar o Claude Code para auxiliar em um trabalho acadêmico específico da UTFPR ou um estudo técnico paralelo?  
@@ -52,7 +52,7 @@ Mesmo sendo uma oportunidade com rotina remota e flexível, o contato humano e o
 ```mermaid
 flowchart TD
     Hub["📍 Inova Guarapuava\nCoworking & Conexões"] --> Work["Ambiente silencioso, internet de alta velocidade\ne networking com outras startups da região"]
-    HH["🍔 Happy Hour Mensal\n100% Pago pela studio4you"] --> Conn["Integração do time, conversas descontraídas\ne celebração das entregas do mês"]
+    HH["🍔 Happy Hour Mensal\n100% Pago pela Studio4You"] --> Conn["Integração do time, conversas descontraídas\ne celebração das entregas do mês"]
 ```
 
 ### 📍 4. Coworking no Inova Guarapuava
@@ -61,7 +61,7 @@ flowchart TD
 
 ### 🍔 5. O Lendário Happy Hour Mensal (100% Pago pela Empresa!)
 - Para os integrantes residentes em **Guarapuava e região**, realizamos **1 Happy Hour presencial por mês**!
-- **Tudo por conta da studio4you (Orçamento por pessoa):**
+- **Tudo por conta da Studio4You (Orçamento por pessoa):**
   - 🍔 **1 Lanche de até R$ 60,00** (hambúrguer artesanal, prato ou lanche à sua escolha);
   - 🥤 **Até R$ 20,00 em bebidas não alcoólicas** (sucos, refrigerantes, água, etc.).
 - Momento exclusivo para comemorar os merges do mês, dar risada dos bugs superados, trocar ideias fora das telas e fortalecer os laços do time.
@@ -81,12 +81,12 @@ flowchart TD
 ## 💰 6. Programa "Indique e Ganhe": 5% de Bonificação no PIX!
 
 > [!TIP]
-> **Monetize seu networking indicando novos clientes para a studio4you!**  
-> Se você (seja estagiário ou colaborador) indicar uma empresa, comércio, startup ou profissional que fechar contrato com a studio4you, você ganha **5% de bonificação sobre o valor total pago pelo cliente**, transferido **diretamente via PIX** para a sua conta!
+> **Monetize seu networking indicando novos clientes para a Studio4You!**  
+> Se você (seja estagiário ou colaborador) indicar uma empresa, comércio, startup ou profissional que fechar contrato com a Studio4You, você ganha **5% de bonificação sobre o valor total pago pelo cliente**, transferido **diretamente via PIX** para a sua conta!
 
 ```mermaid
 flowchart LR
-    A["🤝 1. Você Indica\nPassa o contato do cliente\npara o Ricardo"] --> B["📑 2. Proposta & Fechamento\nstudio4you negocia e\nassina o contrato"]
+    A["🤝 1. Você Indica\nPassa o contato do cliente\npara o Ricardo"] --> B["📑 2. Proposta & Fechamento\nStudio4You negocia e\nassina o contrato"]
     B --> C["💳 3. Pagamento do Cliente\nCliente quita a fatura\nou parcelas do projeto"]
     C --> D["💸 4. PIX na Sua Conta!\nVocê recebe 5% do valor\npago em bonificação"]
 ```
@@ -98,7 +98,7 @@ Conhece alguém que precisa de:
 * **Migração Profissional de E-mails Corporativos** com registros de reputação DNS (SPF, DKIM, DMARC);
 * **Hospedagem & Infraestrutura Cloud Enterprise** em alta disponibilidade (AWS / Google Cloud).
 
-Basta você fazer a ponte e apresentar o contato para o gestor (**Ricardo**). A equipe da studio4you assume toda a parte de diagnóstico comercial, alinhamento técnico de escopo e elaboração da proposta.
+Basta você fazer a ponte e apresentar o contato para o gestor (**Ricardo**). A equipe da Studio4You assume toda a parte de diagnóstico comercial, alinhamento técnico de escopo e elaboração da proposta.
 
 ### 💵 Exemplos Reais de Bonificação no Seu Bolso:
 | Tipo de Projeto Contratado | Valor Pago pelo Cliente | Sua Bonificação (5% via PIX) |
@@ -109,7 +109,7 @@ Basta você fazer a ponte e apresentar o contato para o gestor (**Ricardo**). A 
 | **Plataforma Enterprise / Software House** | R$ 40.000,00 | **R$ 2.000,00 no PIX** |
 
 ### 📌 Regras Claras e Transparentes:
-1. **Quem pode participar:** Qualquer estagiário ou colaborador ativo da studio4you.
+1. **Quem pode participar:** Qualquer estagiário ou colaborador ativo da Studio4You.
 2. **Gatilho de Pagamento:** A bonificação de 5% é creditada via PIX proporcionalmente aos valores efetivamente quitados pelo cliente na conta da empresa (ex: se o projeto for pago em 2 parcelas de R$ 5.000, você recebe R$ 250 a cada parcela recebida).
 3. **Sem Teto de Ganhos:** Não existe limite! Quanto mais clientes você indicar que fecharem com a empresa, mais bonificações você acumula no mês.
 4. **Como Fazer a Indicação:** Basta chamar o Ricardo no Discord ou WhatsApp informando o nome da pessoa/empresa, contato e a demanda.

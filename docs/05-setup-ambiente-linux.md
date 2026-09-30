@@ -6,7 +6,7 @@
 
 ## 🧭 1. Flexibilidade de Sistema Operacional: Escolha o Seu
 
-Na **studio4you**, **você NÃO é obrigado a usar exclusivamente Linux nativo**.  
+Na **Studio4You**, **você NÃO é obrigado a usar exclusivamente Linux nativo**.  
 Reconhecemos que cada estudante possui sua própria máquina, e você tem total liberdade para trabalhar em:
 * 🐧 **Linux Nativo (Ubuntu / Debian / Fedora / Arch)**;
 * 🪟 **Windows (com WSL 2)**;
@@ -82,7 +82,7 @@ sudo usermod -aG docker $USER
 
 > [!CAUTION]
 > **A SEGURANÇA DA SUA MÁQUINA É PRIMORDIAL PARA A EMPRESA.**  
-> Como desenvolvedor, seu computador guarda chaves SSH de servidores, tokens de API, credenciais de repositórios e código de clientes. Um único descuido pode comprometer toda a infraestrutura da studio4you.
+> Como desenvolvedor, seu computador guarda chaves SSH de servidores, tokens de API, credenciais de repositórios e código de clientes. Um único descuido pode comprometer toda a infraestrutura da Studio4You.
 
 ---
 
@@ -132,7 +132,7 @@ flowchart TD
 ## 📜 Regra de Ouro: Documente o README.md do Projeto!
 
 > [!IMPORTANT]
-> Toda vez que você clonar um repositório da studio4you para trabalhar:
+> Toda vez que você clonar um repositório da Studio4You para trabalhar:
 > 1. Verifique se as instruções do `README.md` funcionam no seu ambiente (seja Linux, WSL ou Mac).
 > 2. Se você precisou instalar uma biblioteca, extensão ou rodar uma migration que **NÃO** estava descrita no `README.md`: **atualize o README imediatamente e envie junto com o seu Pull Request!**
 > 3. Um bom engenheiro deixa a trilha limpa e documentada para o próximo colega.

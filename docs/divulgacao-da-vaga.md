@@ -1,4 +1,4 @@
-# 📢 Modelos de Divulgação da Vaga de Estágio :: studio4you
+# 📢 Modelos de Divulgação da Vaga de Estágio :: Studio4You
 
 > *Modelos prontos para você copiar, colar e compartilhar em murais da UTFPR, LinkedIn, WhatsApp e Discord para atrair os melhores talentos.*
 
@@ -9,7 +9,7 @@
 ```markdown
 **Quer transformar a teoria da faculdade em experiência prática de mercado?**
 
-Na **studio4you**, abrimos oportunidade de estágio voluntário (não remunerado) focado em mentoria e capacitação prática, ideal para quem quer construir um portfólio de peso e vivenciar o ambiente corporativo de tecnologia.
+Na **Studio4You**, abrimos oportunidade de estágio voluntário (não remunerado) focado em mentoria e capacitação prática, ideal para quem quer construir um portfólio de peso e vivenciar o ambiente corporativo de tecnologia.
 
 O foco central deste estágio é a sua evolução técnica: realizamos um nivelamento inicial para passar demandas que desafiem seu conhecimento na medida certa, sem sobrecarga, com orientação próxima para acelerar sua entrada no mercado de trabalho.
 
@@ -34,7 +34,7 @@ O foco central deste estágio é a sua evolução técnica: realizamos um nivela
 
 ---
 
-### Benefícios e contrapartidas oferecidos pela studio4you
+### Benefícios e contrapartidas oferecidos pela Studio4You
 
 * **Estágio voluntário focado em mentoria e geração de portfólio profissional;**
 * **Horário altamente flexível:** carga horária adaptada para conciliar perfeitamente com a faculdade;
@@ -50,7 +50,7 @@ O foco central deste estágio é a sua evolução técnica: realizamos um nivela
 **Início:** Imediato  
 
 **Como participar da seleção:**  
-Envie uma breve apresentação, seu currículo atualizado e o link do seu perfil no GitHub (caso possua) para `[seu-email-ou-contato]` com o assunto **"Estágio Voluntário Dev - studio4you"**.
+Envie uma breve apresentação, seu currículo atualizado e o link do seu perfil no GitHub (caso possua) para `[seu-email-ou-contato]` com o assunto **"Estágio Voluntário Dev - Studio4You"**.
 ```
 
 ---
@@ -58,11 +58,11 @@ Envie uma breve apresentação, seu currículo atualizado e o link do seu perfil
 ## 💼 Opção 2: Post Otimizado para LinkedIn
 
 ```markdown
-🚀 Vaga de Estágio Dev (Mentoria & Portfólio) na studio4you! 💻
+🚀 Vaga de Estágio Dev (Mentoria & Portfólio) na Studio4You! 💻
 
 Quer transformar a teoria da faculdade em experiência prática de mercado?
 
-Abrimos oportunidade de estágio voluntário na studio4you, desenhado especialmente para estudantes que querem acelerar seu aprendizado, codar em projetos reais e construir um portfólio sólido com mentoria direta de quem já está no campo de batalha.
+Abrimos oportunidade de estágio voluntário na Studio4You, desenhado especialmente para estudantes que querem acelerar seu aprendizado, codar em projetos reais e construir um portfólio sólido com mentoria direta de quem já está no campo de batalha.
 
 🎯 O que você vai viver na prática:
 ✔️ Dailies e fluxo ágil no Trello (sem burocracia desnecessária)
@@ -70,7 +70,7 @@ Abrimos oportunidade de estágio voluntário na studio4you, desenhado especialme
 ✔️ Arquitetura Web moderna e containers com Docker
 ✔️ Troubleshooting e resolução de problemas reais de clientes
 
-🎁 O que a studio4you oferece para o seu crescimento:
+🎁 O que a Studio4You oferece para o seu crescimento:
 🔹 Mentoria próxima e nivelamento técnico individualizado
 🔹 Horário 100% flexível para não atrapalhar seus estudos
 🔹 Acesso a ferramentas de IA de ponta com Claude Code
@@ -82,7 +82,7 @@ Abrimos oportunidade de estágio voluntário na studio4you, desenhado especialme
 🎓 Público: Estudantes de TSI, ADS, Ciência da Computação, Engenharia de Software ou áreas afins.
 
 📩 Como se candidatar:
-Envie seu currículo, apresentação breve e perfil do GitHub para [seu-email-ou-contato] com o assunto "Estágio Voluntário Dev - studio4you".
+Envie seu currículo, apresentação breve e perfil do GitHub para [seu-email-ou-contato] com o assunto "Estágio Voluntário Dev - Studio4You".
 
 Compartilhe com quem está buscando uma oportunidade real de crescer na área! 🚀
 
@@ -94,10 +94,10 @@ Compartilhe com quem está buscando uma oportunidade real de crescer na área! �
 ## 📱 Opção 3: Versão Rápida para Grupos de WhatsApp / Telegram / Discord
 
 ```markdown
-🚀 *Oportunidade de Estágio Dev na studio4you!* 💻
+🚀 *Oportunidade de Estágio Dev na Studio4You!* 💻
 (Foco em Mentoria, Portfólio Real e Ferramentas Profissionais)
 
-Fala galera da área de TI! 👋 A *studio4you* abriu vaga de estágio voluntário pensado para estudantes de graduação/técnico (UTFPR, TSI, ADS, etc.):
+Fala galera da área de TI! 👋 A *Studio4You* abriu vaga de estágio voluntário pensado para estudantes de graduação/técnico (UTFPR, TSI, ADS, etc.):
 
 🎯 *O que você vai praticar:*
 • Rotina ágil real, Dailies e organização no Trello
@@ -113,11 +113,11 @@ Fala galera da área de TI! 👋 A *studio4you* abriu vaga de estágio voluntár
 ✅ Horários super flexíveis alinhados com suas aulas e provas
 
 📍 *Modalidade:* Remoto / Híbrido (hub em Guarapuava)
-📩 *Para se candidatar:* Envie currículo e link do GitHub para `[seu-email-ou-contato]` com o assunto *"Estágio Voluntário Dev - studio4you"*.
+📩 *Para se candidatar:* Envie currículo e link do GitHub para `[seu-email-ou-contato]` com o assunto *"Estágio Voluntário Dev - Studio4You"*.
 ```
 
 ---
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 10. Conhecendo a studio4you](./10-sobre-a-studio4you.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)
+[⬅️ Anterior: 10. Conhecendo a Studio4You](./10-sobre-a-studio4you.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)

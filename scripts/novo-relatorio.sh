@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # ==============================================================================
-# Gerador de Relatório Quinzenal :: studio4you & UTFPR
+# Gerador de Relatório Quinzenal :: Studio4You & UTFPR
 # Uso: ./scripts/novo-relatorio.sh [numero_quinzena]
 # Exemplo: ./scripts/novo-relatorio.sh 01
 # ==============================================================================

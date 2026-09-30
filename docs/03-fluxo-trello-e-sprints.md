@@ -6,7 +6,7 @@
 
 ## 🏃 Como Funcionam as Nossas Sprints?
 
-Na **studio4you**, não trabalhamos no estilo "cada um faz o que dá na telha". Adotamos ciclos estruturados chamados **Sprints** (geralmente ciclos semanais ou quinzenais alinhados às sextas-feiras):
+Na **Studio4You**, não trabalhamos no estilo "cada um faz o que dá na telha". Adotamos ciclos estruturados chamados **Sprints** (geralmente ciclos semanais ou quinzenais alinhados às sextas-feiras):
 
 1. **Início da Sprint (Segunda-feira):** Pegamos o que é prioridade máxima do `Backlog` e colocamos na coluna `A Fazer`.
 2. **Execução durante a semana:** Você puxa as tarefas, coda, testa e move os cards.
@@ -20,7 +20,7 @@ O fluxo das colunas é rigorosamente respeitado para evitar gargalos e confusão
 
 ```mermaid
 flowchart LR
-    subgraph Fluxo Kanban da studio4you
+    subgraph Fluxo Kanban da Studio4You
         B["📦 Backlog\n(Demandas Mapeadas)"] --> F["📝 A Fazer\n(Prioridades da Sprint)"]
         F --> A["🔥 Em Andamento\n(LIMITE: 1 Card/Estagiário)"]
         A --> R["👀 Em Revisão\n(Code Review / Validação)"]

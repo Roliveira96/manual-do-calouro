@@ -6,7 +6,7 @@
 
 ## 🧭 O Ciclo de Vida de uma Tarefa no Git
 
-Aqui na **studio4you**, nunca comitamos diretamente na branch `main` ou `develop`.  
+Aqui na **Studio4You**, nunca comitamos diretamente na branch `main` ou `develop`.  
 Toda e qualquer linha de código passa pelo fluxo de branches e Pull Request (PR) com revisão.
 
 ```mermaid

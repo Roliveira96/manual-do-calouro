@@ -6,7 +6,7 @@
 
 ## 🎧 Por que o Discord?
 
-O Discord é o nosso QG virtual da **studio4you**. É nele que o time se encontra, tira dúvidas rápidas, comemora deploys bem-sucedidos e realiza as reuniões por voz e vídeo.
+O Discord é o nosso QG virtual da **Studio4You**. É nele que o time se encontra, tira dúvidas rápidas, comemora deploys bem-sucedidos e realiza as reuniões por voz e vídeo.
 
 ---
 
@@ -14,10 +14,10 @@ O Discord é o nosso QG virtual da **studio4you**. É nele que o time se encontr
 
 > [!IMPORTANT]
 > **Você NÃO receberá uma caixa de e-mail corporativa na hospedagem da empresa.**  
-> A studio4you preza pela simplicidade operacional. Usamos o **mesmo e-mail cadastrado na sua conta do GitHub** (seja o seu e-mail pessoal ou o e-mail acadêmico `@alunos.utfpr.edu.br`).
+> A Studio4You preza pela simplicidade operacional. Usamos o **mesmo e-mail cadastrado na sua conta do GitHub** (seja o seu e-mail pessoal ou o e-mail acadêmico `@alunos.utfpr.edu.br`).
 
 Esse único e-mail será o seu passaporte para:
-- O servidor oficial da studio4you no **Discord**.
+- O servidor oficial da Studio4You no **Discord**.
 - O Workspace e quadros de projeto no **Trello**.
 - As permissões e repositórios de código no **GitHub**.
 

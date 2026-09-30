@@ -21,7 +21,7 @@ Vamos começar falando da regra mais comentada (e mais cobrada pelo gestor):
 
 ```mermaid
 journey
-    title A Semana do Estagiário na studio4you
+    title A Semana do Estagiário na Studio4You
     section Segunda-feira
       Alinhamento da Sprint: 5: Gestor, Time
       Daily da Manhã: 5: Time
@@ -76,7 +76,7 @@ Ao falar, você deve responder apenas a 3 perguntas essenciais:
 
 ## 👥 4. Pairing & Shadowing com o Gestor (Semanal)
 
-Uma das maiores vantagens do estágio na studio4you é a mentoria prática direta:
+Uma das maiores vantagens do estágio na Studio4You é a mentoria prática direta:
 - **Shadowing (Você assiste):** O gestor compartilha a tela e resolve um problema complexo de arquitetura, refatoração ou infraestrutura ao vivo, explicando o raciocínio linha a linha.
 - **Pairing (Você coda, o gestor orienta):** Você compartilha a sua tela codando enquanto o gestor atua como copiloto, dando dicas de atalhos no Linux, boas práticas de código e depuração.
 - **Como aproveitar:** Tenha um caderno ou bloco de notas aberto. Anote comandos e macetes!
@@ -97,7 +97,7 @@ A cada 15 dias, você terá uma conversa individual de 30 minutos com o seu gest
 
 > *"Em dia de prova na UTFPR, você NÃO trabalha no estágio. Sua obrigação exclusiva é estudar, tirar uma boa nota e garantir sua aprovação!"*
 
-Seguindo as diretrizes da **Lei do Estágio (Lei nº 11.788/2008)** e a política interna de valorização acadêmica da **studio4you**:
+Seguindo as diretrizes da **Lei do Estágio (Lei nº 11.788/2008)** e a política interna de valorização acadêmica da **Studio4You**:
 
 > [!IMPORTANT]
 > **REGRA OFICIAL: DIA DE PROVA = FOLGA TOTAL PARA ESTUDO.**  

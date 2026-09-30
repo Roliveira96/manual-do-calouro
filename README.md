@@ -1,9 +1,9 @@
-# 🚀 Manual do Calouro :: studio4you
-> *O guia definitivo, interativo e bem-humorado para você sobreviver, codar muito e brilhar como estagiário na studio4you.*
+# 🚀 Manual do Calouro :: Studio4You
+> *O guia definitivo, interativo e bem-humorado para você sobreviver, codar muito e brilhar como estagiário na Studio4You.*
 
 ---
 
-## 🧭 Bem-vindo(a) à Nave studio4you!
+## 🧭 Bem-vindo(a) à Nave Studio4You!
 
 Parabéns por conquistar sua vaga de estágio! 🎉  
 Se você chegou até aqui, significa que vimos potencial em você para construir coisas incríveis com a gente. 
@@ -14,7 +14,7 @@ Aqui não tem pegadinha: tudo o que você precisa saber sobre ferramentas, reuni
 
 ---
 
-## ⚡ As 7 Leis Sagradas do Estágio na studio4you
+## ⚡ As 7 Leis Sagradas do Estágio na Studio4You
 
 Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole num post-it no monitor):
 
@@ -43,7 +43,7 @@ Clique nos links abaixo para mergulhar nos guias práticos do seu dia a dia:
 | **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](docs/07-guia-de-gestao-interna.md) |
 | **08. Benefícios & Ferramentas Top** | Claude Code (IA), Cursos Udemy, Inova Guarapuava, Happy Hour e Programa Indique e Ganhe (5% no PIX). | [08-beneficios-e-ferramentas-premium.md](docs/08-beneficios-e-ferramentas-premium.md) |
 | **09. Rotina & Home Office de Elite** | Da cama ao terminal: mesa limpa, café, alongamento, ritual matinal do Git e Docker. | [09-rotina-e-boas-praticas-remotas.md](docs/09-rotina-e-boas-praticas-remotas.md) |
-| **10. Conhecendo a studio4you** | Nosso DNA, manifesto de engenharia, serviços, Core Web Vitals e GEO para IAs. | [10-sobre-a-studio4you.md](docs/10-sobre-a-studio4you.md) |
+| **10. Conhecendo a Studio4You** | Nosso DNA, manifesto de engenharia, serviços, Core Web Vitals e GEO para IAs. | [10-sobre-a-studio4you.md](docs/10-sobre-a-studio4you.md) |
 | **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](docs/divulgacao-da-vaga.md) |
 | **Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preencher e assinar a cada 15 dias. | [relatorio-quinzenal-utfpr.md](docs/templates/relatorio-quinzenal-utfpr.md) |
 | **Exemplo de Relatório Preenchido** | Um exemplo real preenchido com humor e clareza para você se guiar. | [exemplo-preenchido-relatorio.md](docs/templates/exemplo-preenchido-relatorio.md) |

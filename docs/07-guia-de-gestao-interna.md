@@ -1,6 +1,6 @@
 # 🛡️ 07. Manual de Gestão do Estágio (Uso Interno do Gestor)
 
-> *Documento de referência para o supervisor de estágio da studio4you gerenciar o ciclo de aprendizado, alinhamento técnico e entregas da equipe.*
+> *Documento de referência para o supervisor de estágio da Studio4You gerenciar o ciclo de aprendizado, alinhamento técnico e entregas da equipe.*
 
 ---
 
@@ -10,7 +10,7 @@
 - **Não crie caixas de e-mail corporativas na hospedagem da empresa.**
 - Convide o e-mail que o aluno já utiliza (pessoal ou acadêmico da UTFPR) diretamente para:
   1. O Workspace do Trello da empresa.
-  2. O servidor do Discord da studio4you.
+  2. O servidor do Discord da Studio4You.
   3. A organização e repositórios no GitHub.
 
 ### Discord: Hub de Comunicação Operacional
@@ -93,7 +93,7 @@ Com a rotina quinzenal estabelecida:
 
 ### 🛡️ Gestão de Dias de Prova (Folga Integral para Estudos):
 - **Trabalho não permitido:** Em dias de provas, avaliações teóricas/práticas ou bancas da UTFPR, **o estagiário tem folga total**. Ele não deve mexer em código, não deve participar de cerimônias e não deve ter cards atribuídos no Trello nesses dias.
-- **Conformidade Legal & Parceria:** Essa política atende à Lei Federal de Estágio (Lei nº 11.788/2008) e fortalece o compromisso formativo da studio4you com a UTFPR.
+- **Conformidade Legal & Parceria:** Essa política atende à Lei Federal de Estágio (Lei nº 11.788/2008) e fortalece o compromisso formativo da Studio4You com a UTFPR.
 - Exija apenas o aviso prévio das datas para organizar o backlog da semana sem surpresas.
 
 ### 🍔 Diretriz de Reembolso do Happy Hour Mensal:

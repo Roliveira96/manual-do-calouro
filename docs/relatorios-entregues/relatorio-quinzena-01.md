@@ -3,7 +3,7 @@
 ## 1. Identificação
 * **Nome do Estagiário:** [Nome Completo]
 * **Curso / Instituição:** Tecnologia em Sistemas para Internet (TSI) - UTFPR
-* **Empresa Concedente:** studio4you
+* **Empresa Concedente:** Studio4You
 * **Supervisor Responsável:** [Nome Completo do Gestor]
 * **Período da Quinzena:** [DD/MM/AAAA] a [DD/MM/AAAA]
 * **Quinzena Nº:** 01

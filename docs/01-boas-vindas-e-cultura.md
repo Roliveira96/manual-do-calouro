@@ -1,17 +1,17 @@
-# 🌟 01. Boas-Vindas & Cultura da studio4you
+# 🌟 01. Boas-Vindas & Cultura da Studio4You
 
 > *"Você não foi contratado porque já sabe tudo; você foi contratado porque tem capacidade de aprender qualquer coisa."*
 
 ---
 
-## 🐣 O que significa ser Calouro na studio4you?
+## 🐣 O que significa ser Calouro na Studio4You?
 
 Chegar em uma empresa de tecnologia dá aquele friozinho na barriga:
 - *"E se eu fizer um commit errado e derrubar o servidor?"* (Spoilers: você não tem acesso de deploy em produção ainda, respire fundo).
 - *"E se eu fizer uma pergunta óbvia e acharem que não sei nada?"* (A única pergunta boba é aquela que você guarda para si e te faz perder dois dias).
 - *"Será que preciso fingir que domino tudo?"* (Definitivamente não. Seja sincero sobre o que sabe e o que ainda não viu).
 
-O estágio na studio4you é uma ponte entre o mundo acadêmico (aulas, provas, teoria da UTFPR) e o mercado de software real (clientes, prazos, código sustentável, trabalho colaborativo). Nosso objetivo é que você saia desse período infinitamente melhor do que quando entrou.
+O estágio na Studio4You é uma ponte entre o mundo acadêmico (aulas, provas, teoria da UTFPR) e o mercado de software real (clientes, prazos, código sustentável, trabalho colaborativo). Nosso objetivo é que você saia desse período infinitamente melhor do que quando entrou.
 
 ---
 
@@ -72,7 +72,7 @@ flowchart TD
 * Se você pesquisou com calma (Nível 1) e você e seu colega tentaram juntos e continuam travados (Nível 2): **agora é a hora perfeita de me chamar!**
 * **Como me apresentar a dúvida:**
   * ❌ *Forma errada:* "Ricardo, não tá dando certo aqui, olha pra mim?"
-  * ✅ *Forma profissional da studio4you:*
+  * ✅ *Forma profissional da Studio4You:*
     > *"Ricardo, estou travado no card X com o erro Y. Já pesquisei na documentação, tentei a solução Z, conversei com o [Nome do Colega] e testamos a abordagem W, mas o erro persiste no Linux. Pode nos ajudar a destravar?"*
 * Dessa forma, a mentoria é rápida, direta ao ponto e resolve exatamente o nó que nenhum de vocês conseguiu desatar.
 
@@ -89,7 +89,7 @@ Trabalho em equipe significa que a vitória de um é a vitória de todos. Ajudar
 
 > *"Feedback técnico em código não é ataque pessoal; é controle de qualidade e respeito ao cliente que paga a conta."*
 
-Na **studio4you**, tratamos você como um futuro engenheiro de software, não como uma criança. Por isso, adotamos uma postura adulta e realista:
+Na **Studio4You**, tratamos você como um futuro engenheiro de software, não como uma criança. Por isso, adotamos uma postura adulta e realista:
 
 1. **Conversas Profissionais no Expediente:**
    - Nas Dailies, reuniões com o gestor, Pull Requests e canais de projeto, o diálogo é **direto, educado, objetivo e focado em resolver problemas**.
@@ -133,7 +133,7 @@ Navegue diretamente pelos módulos do manual através dos links abaixo:
 | **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](./07-guia-de-gestao-interna.md) |
 | **08. Benefícios & Ferramentas Top** | Claude Code (IA), Cursos Udemy, Inova Guarapuava, Happy Hour e Programa Indique e Ganhe (5% no PIX). | [08-beneficios-e-ferramentas-premium.md](./08-beneficios-e-ferramentas-premium.md) |
 | **09. Rotina & Home Office de Elite** | Da cama ao terminal: mesa limpa, café, alongamento, ritual matinal do Git e Docker. | [09-rotina-e-boas-praticas-remotas.md](./09-rotina-e-boas-praticas-remotas.md) |
-| **10. Conhecendo a studio4you** | Nosso DNA, manifesto de engenharia, serviços, Core Web Vitals e GEO para IAs. | [10-sobre-a-studio4you.md](./10-sobre-a-studio4you.md) |
+| **10. Conhecendo a Studio4You** | Nosso DNA, manifesto de engenharia, serviços, Core Web Vitals e GEO para IAs. | [10-sobre-a-studio4you.md](./10-sobre-a-studio4you.md) |
 | **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](./divulgacao-da-vaga.md) |
 | **Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preencher e assinar a cada 15 dias. | [relatorio-quinzenal-utfpr.md](./templates/relatorio-quinzenal-utfpr.md) |
 | **Exemplo de Relatório Preenchido** | Um exemplo real preenchido com humor e clareza para você se guiar. | [exemplo-preenchido-relatorio.md](./templates/exemplo-preenchido-relatorio.md) |
