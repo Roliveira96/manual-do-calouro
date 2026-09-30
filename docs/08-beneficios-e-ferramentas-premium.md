@@ -62,4 +62,4 @@ flowchart TD
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 07. Gestão Interna](./07-guia-de-gestao-interna.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Divulgação da Vaga ➡️](./divulgacao-da-vaga.md)
+[⬅️ Anterior: 07. Gestão Interna](./07-guia-de-gestao-interna.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 09. Rotina & Home Office de Elite ➡️](./09-rotina-e-boas-praticas-remotas.md)
