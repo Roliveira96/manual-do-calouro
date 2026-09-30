@@ -122,4 +122,4 @@ Fala galera da área de TI! 👋 A *studio4you* abriu vaga de estágio voluntár
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 09. Rotina & Home Office de Elite](./09-rotina-e-boas-praticas-remotas.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)
+[⬅️ Anterior: 10. Conhecendo a studio4you](./10-sobre-a-studio4you.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)

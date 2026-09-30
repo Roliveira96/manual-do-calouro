@@ -102,4 +102,4 @@ docker compose up -d
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 08. Benefícios & Ferramentas Top](./08-beneficios-e-ferramentas-premium.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Divulgação da Vaga ➡️](./divulgacao-da-vaga.md)
+[⬅️ Anterior: 08. Benefícios & Ferramentas Top](./08-beneficios-e-ferramentas-premium.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 10. Conhecendo a studio4you ➡️](./10-sobre-a-studio4you.md)
