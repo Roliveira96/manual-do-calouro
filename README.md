@@ -41,7 +41,7 @@ Clique nos links abaixo para mergulhar nos guias práticos do seu dia a dia:
 | **05. Setup do Ambiente Linux** | Preparando Ubuntu, Git, ferramentas, dependências e o README do seu repo. | [05-setup-ambiente-linux.md](docs/05-setup-ambiente-linux.md) |
 | **06. Git & GitHub Workflow** | Branches, commits atômicos, Pull Requests caprichados e e-mail vinculado. | [06-git-github-workflow.md](docs/06-git-github-workflow.md) |
 | **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](docs/07-guia-de-gestao-interna.md) |
-| **08. Benefícios & Ferramentas Top** | JetBrains, Claude Code, Udemy, Coworking Inova Guarapuava & Happy Hour mensal! | [08-beneficios-e-ferramentas-premium.md](docs/08-beneficios-e-ferramentas-premium.md) |
+| **08. Benefícios & Ferramentas Top** | Claude Code (IA), Cursos Udemy, Coworking Inova Guarapuava & Happy Hour mensal! | [08-beneficios-e-ferramentas-premium.md](docs/08-beneficios-e-ferramentas-premium.md) |
 | **09. Rotina & Home Office de Elite** | Da cama ao terminal: mesa limpa, café, alongamento, ritual matinal do Git e Docker. | [09-rotina-e-boas-praticas-remotas.md](docs/09-rotina-e-boas-praticas-remotas.md) |
 | **10. Conhecendo a studio4you** | Nosso DNA, manifesto de engenharia, serviços, Core Web Vitals e GEO para IAs. | [10-sobre-a-studio4you.md](docs/10-sobre-a-studio4you.md) |
 | **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](docs/divulgacao-da-vaga.md) |

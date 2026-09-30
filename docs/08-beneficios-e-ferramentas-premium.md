@@ -16,13 +16,9 @@ Na **studio4you**, acreditamos que para aprender o padrão da indústria, você 
   - Sugerir testes unitários e refatorações limpas.
   - Acelerar a curva de aprendizado prático.
 
-### 💻 2. Suíte Oficial JetBrains
-- Licença oficial para uso das melhores IDEs do mercado:
-  - **WebStorm** (para ecossistemas JavaScript/TypeScript e React);
-  - **PhpStorm** (para projetos web e backend em PHP);
-  - **DataGrip** (para gerenciamento visual avançado de bancos de dados);
-  - Plugins e extensões integradas com terminal e Git.
-- *Fale com o gestor para obter o vínculo da sua licença.*
+### 💻 2. IDEs Profissionais (Dica: Suíte JetBrains Grátis para Alunos UTFPR!)
+- Incentivamos o uso de ferramentas de alta produtividade (VS Code com extensões recomendadas ou a renomada suíte JetBrains).
+- **💡 Dica para o Estagiário:** Como estudante ativo da **UTFPR**, você tem direito à **licença oficial 100% gratuita de toda a suíte JetBrains** (WebStorm, PhpStorm, DataGrip, GoLand, etc.) utilizando seu e-mail institucional acadêmico (`@alunos.utfpr.edu.br`) diretamente no programa *JetBrains Student* ou pelo *GitHub Student Developer Pack*. Aproveite esse benefício da sua faculdade!
 
 ### 📚 3. Capacitação Contínua: Catálogo Udemy Liberado
 - Travou em algum conceito de Docker, TypeScript avançado, Tailwind CSS ou arquitetura de software?
@@ -35,7 +31,7 @@ Na **studio4you**, acreditamos que para aprender o padrão da indústria, você 
 
 > [!CAUTION]
 > **RESPOSTA DIRETA: NÃO.**  
-> Todas as ferramentas, licenças de IA (**Claude Code**), suíte JetBrains e acessos de infraestrutura fornecidos pela studio4you são de **uso estritamente corporativo**, voltados para os projetos e aprendizado dentro da empresa.
+> Todas as ferramentas, licenças de IA (**Claude Code**) e acessos de infraestrutura fornecidos pela studio4you são de **uso estritamente corporativo**, voltados para os projetos e aprendizado dentro da empresa.
 
 #### ⚠️ Por que essa regra é inegociável? (Persistência de Dados & Privacidade)
 1. **Os dados são persistidos e auditáveis:** As ferramentas corporativas mantêm histórico de prompts, logs de terminal, transcripts de sessão e código gerado armazenados na plataforma da organização.

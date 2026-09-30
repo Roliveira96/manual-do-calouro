@@ -38,7 +38,7 @@ O foco central deste estágio é a sua evolução técnica: realizamos um nivela
 
 * **Estágio voluntário focado em mentoria e geração de portfólio profissional;**
 * **Horário altamente flexível:** carga horária adaptada para conciliar perfeitamente com a faculdade;
-* **Ferramentas profissionais de ponta:** licença oficial da suite JetBrains e acesso a ferramentas modernas de IA com Claude Code;
+* **Ferramentas de ponta & IA:** Acesso a ferramentas modernas de Inteligência Artificial com Claude Code e apoio em ambiente de desenvolvimento profissional;
 * **Capacitação contínua:** acesso livre a catálogo de cursos na plataforma Udemy;
 * **Espaço de trabalho e networking:** direito de uso do coworking no **Inova Guarapuava**;
 * **Integração do time:** para quem reside em Guarapuava, um Happy Hour presencial por mês totalmente pago pela empresa (com lanche e bebidas não alcoólicas).
@@ -73,7 +73,6 @@ Abrimos oportunidade de estágio voluntário na studio4you, desenhado especialme
 🎁 O que a studio4you oferece para o seu crescimento:
 🔹 Mentoria próxima e nivelamento técnico individualizado
 🔹 Horário 100% flexível para não atrapalhar seus estudos
-🔹 Licença oficial da suíte JetBrains (WebStorm, PhpStorm, etc.)
 🔹 Acesso a ferramentas de IA de ponta com Claude Code
 🔹 Catálogo livre de cursos na Udemy
 🔹 Acesso ao coworking no hub Inova Guarapuava
@@ -107,7 +106,6 @@ Fala galera da área de TI! 👋 A *studio4you* abriu vaga de estágio voluntár
 • Mentoria técnica próxima e acompanhamento individual
 
 🎁 *Contrapartidas e Benefícios:*
-✅ Licença oficial da suíte *JetBrains*
 ✅ Acesso ao *Claude Code* (IA de ponta)
 ✅ Cursos liberados na *Udemy*
 ✅ Coworking no *Inova Guarapuava*
