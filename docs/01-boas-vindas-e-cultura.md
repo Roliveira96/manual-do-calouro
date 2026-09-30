@@ -99,7 +99,7 @@ Na **studio4you**, tratamos você como um futuro engenheiro de software, não co
    - Feedback técnico rigoroso é o maior acelerador de carreira que existe. Quem quer crescer agradece o apontamento, ajusta o código e aprende a lição.
 3. **Cada coisa no seu lugar (Trabalho vs Descontração):**
    - **Na hora de trabalhar:** Postura, comprometimento, respeito aos prazos e foco total no terminal.
-   - **Na hora de descontrair:** Somos um time acolhedor e parceiro! Para memes, risadas e conversas aleatórias, use o canal `#geral-bate-papo`. E para quem está em Guarapuava, o **Happy Hour mensal presencial (100% pago pela empresa)** é o palco sagrado para relaxar, trocar ideias e celebrar as conquistas da Sprint.
+   - **Na hora de descontrair:** Somos um time acolhedor e parceiro! Para memes, risadas e conversas aleatórias, use o canal `#geral-bate-papo`. E para quem está em Guarapuava, o **Happy Hour mensal presencial (100% pago pela empresa: 1 lanche de até R$ 60 + R$ 20 em bebidas não alcoólicas)** é o palco sagrado para relaxar, trocar ideias e celebrar as conquistas da Sprint.
 
 ---
 

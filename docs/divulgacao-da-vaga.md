@@ -41,7 +41,7 @@ O foco central deste estágio é a sua evolução técnica: realizamos um nivela
 * **Ferramentas de ponta & IA:** Acesso a ferramentas modernas de Inteligência Artificial com Claude Code e apoio em ambiente de desenvolvimento profissional;
 * **Capacitação contínua:** acesso livre a catálogo de cursos na plataforma Udemy;
 * **Espaço de trabalho e networking:** direito de uso do coworking no **Inova Guarapuava**;
-* **Integração do time:** para quem reside em Guarapuava, um Happy Hour presencial por mês totalmente pago pela empresa (com lanche e bebidas não alcoólicas).
+* **Integração do time:** para quem reside em Guarapuava, um Happy Hour presencial por mês totalmente pago pela empresa (1 lanche de até R$ 60,00 + R$ 20,00 em bebidas não alcoólicas).
 
 ---
 
@@ -76,7 +76,7 @@ Abrimos oportunidade de estágio voluntário na studio4you, desenhado especialme
 🔹 Acesso a ferramentas de IA de ponta com Claude Code
 🔹 Catálogo livre de cursos na Udemy
 🔹 Acesso ao coworking no hub Inova Guarapuava
-🔹 Happy Hour presencial mensal totalmente pago pela empresa para quem for de Guarapuava! 🍔🥤
+🔹 Happy Hour presencial mensal totalmente pago pela empresa para quem for de Guarapuava (lanche de até R$ 60 + R$ 20 em bebidas não alcoólicas)! 🍔🥤
 
 📍 Modalidade: Remoto / Híbrido (Guarapuava - PR)
 🎓 Público: Estudantes de TSI, ADS, Ciência da Computação, Engenharia de Software ou áreas afins.
@@ -109,7 +109,7 @@ Fala galera da área de TI! 👋 A *studio4you* abriu vaga de estágio voluntár
 ✅ Acesso ao *Claude Code* (IA de ponta)
 ✅ Cursos liberados na *Udemy*
 ✅ Coworking no *Inova Guarapuava*
-✅ Happy hour presencial mensal 100% pago pela empresa 🍔
+✅ Happy hour presencial mensal 100% pago pela empresa (lanche até R$ 60 + R$ 20 bebidas não alcoólicas) 🍔🥤
 ✅ Horários super flexíveis alinhados com suas aulas e provas
 
 📍 *Modalidade:* Remoto / Híbrido (hub em Guarapuava)

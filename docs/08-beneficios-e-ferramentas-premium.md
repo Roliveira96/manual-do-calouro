@@ -61,7 +61,10 @@ flowchart TD
 
 ### 🍔 5. O Lendário Happy Hour Mensal (100% Pago pela Empresa!)
 - Para os integrantes residentes em **Guarapuava e região**, realizamos **1 Happy Hour presencial por mês**!
-- **Tudo por conta da studio4you:** Lanches, petiscos e bebidas não alcoólicas para comemorar os merges, rir dos bugs superados e fortalecer os laços de amizade do time.
+- **Tudo por conta da studio4you (Orçamento por pessoa):**
+  - 🍔 **1 Lanche de até R$ 60,00** (hambúrguer artesanal, prato ou lanche à sua escolha);
+  - 🥤 **Até R$ 20,00 em bebidas não alcoólicas** (sucos, refrigerantes, água, etc.).
+- Momento exclusivo para comemorar os merges do mês, dar risada dos bugs superados, trocar ideias fora das telas e fortalecer os laços do time.
 - Data e local combinados previamente no canal `#avisos` do Discord.
 
 ---
