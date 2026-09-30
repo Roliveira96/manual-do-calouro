@@ -95,6 +95,12 @@ Com a rotina quinzenal estabelecida:
 - **Conformidade Legal & Parceria:** Essa política atende à Lei Federal de Estágio (Lei nº 11.788/2008) e fortalece o compromisso formativo da studio4you com a UTFPR.
 - Exija apenas o aviso prévio das datas para organizar o backlog da semana sem surpresas.
 
+### 🍔 Diretriz de Reembolso do Happy Hour Mensal:
+- Caso você não esteja presente presencialmente no encontro do mês:
+  - O colaborador deverá enviar a foto da **Nota Fiscal (NFC-e) emitida com CPF** contendo a **discriminação clara dos itens da comanda**;
+  - Limite reembolsável: até **R$ 60,00 no lanche** + até **R$ 20,00 em bebidas não alcoólicas**;
+  - Constando os itens permitidos e o CPF na nota, efetuar o reembolso do valor via PIX. Não aceitar recibos genéricos ou apenas comprovantes de cartão.
+
 ---
 
 ## 🧭 Navegação Rápida

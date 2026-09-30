@@ -67,6 +67,15 @@ flowchart TD
 - Momento exclusivo para comemorar os merges do mês, dar risada dos bugs superados, trocar ideias fora das telas e fortalecer os laços do time.
 - Data e local combinados previamente no canal `#avisos` do Discord.
 
+> [!IMPORTANT]
+> **E se o gestor não puder comparecer no dia do Happy Hour?**  
+> Caso o Ricardo não esteja presente fisicamente para acertar a conta no local:
+> 1. Você realiza o pagamento da sua comanda normalmente no caixa;
+> 2. **Obrigatório para Reembolso:** Você **DEVE solicitar a Nota Fiscal (NFC-e) emitida com CPF**, contendo a **discriminação clara dos itens comprados** na comanda (lanche e bebidas não alcoólicas);
+> 3. Envie a foto nítida ou o PDF da nota fiscal para o gestor via Discord;
+> 4. O reembolso do valor exato da comanda aprovada será efetuado via PIX;
+> 5. *Atenção:* Canhoto de cartão ou comprovante sem discriminação de itens e sem CPF **não** são aceitos pela contabilidade para reembolso!
+
 ---
 
 ## ⏰ Horário Altamente Flexível & Apoio aos Estudos (UTFPR)
