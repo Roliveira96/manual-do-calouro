@@ -88,7 +88,6 @@ sudo usermod -aG docker $USER
 
 ---
 
-## 🔗 Próximo Passo
+## 🧭 Navegação Rápida
 
-Ambiente configurado? Agora aprenda como subir código de forma profissional sem bagunçar a branch principal:  
-👉 [Vá para o Guia de Git & GitHub Workflow](file:///home/ricardo/manual-do-calouro/docs/06-git-github-workflow.md)
+[⬅️ Anterior: 04. Rituais & Reuniões](./04-rituais-e-reunioes.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 06. Git & GitHub Workflow ➡️](./06-git-github-workflow.md)

@@ -88,11 +88,10 @@ A cada 15 dias, você terá uma conversa individual de 30 minutos com o seu gest
 - **Revisão dos Cards & PRs:** Análise das tarefas entregues no Trello e comentários feitos nos seus Pull Requests.
 - **Pontos Fortes:** Reconhecimento daquilo em que você se destacou na quinzena.
 - **Pontos Técnicos a Ajustar:** Onde você precisa estudar mais (ex: melhorar commits, testes, lógica, boas práticas).
-- **Validação do Relatório Quinzenal:** O gestor analisa seu [Relatório Quinzenal da UTFPR](file:///home/ricardo/manual-do-calouro/docs/templates/relatorio-quinzenal-utfpr.md), assina e valida suas horas.
+- **Validação do Relatório Quinzenal:** O gestor analisa seu [Relatório Quinzenal da UTFPR](./templates/relatorio-quinzenal-utfpr.md), assina e valida suas horas.
 
 ---
 
-## 🔗 Próximo Passo
+## 🧭 Navegação Rápida
 
-Agora você já conhece o ritmo das reuniões. Vamos preparar a sua máquina para o trabalho duro:  
-👉 [Vá para o Guia de Setup do Ambiente Linux](file:///home/ricardo/manual-do-calouro/docs/05-setup-ambiente-linux.md)
+[⬅️ Anterior: 03. O Tao do Trello & Sprints](./03-fluxo-trello-e-sprints.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 05. Setup do Ambiente Linux ➡️](./05-setup-ambiente-linux.md)

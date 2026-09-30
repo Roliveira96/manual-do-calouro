@@ -64,7 +64,6 @@ Nosso servidor no Discord é enxuto e organizado para ninguém perder foco com s
 
 ---
 
-## 🔗 Próximo Passo
+## 🧭 Navegação Rápida
 
-Agora que sua voz e teclado estão calibrados no Discord, vamos entender como as tarefas nascem, vivem e morrem no Trello:  
-👉 [Vá para o Guia do Trello & Sprints](file:///home/ricardo/manual-do-calouro/docs/03-fluxo-trello-e-sprints.md)
+[⬅️ Anterior: 01. Boas-Vindas & Cultura](./01-boas-vindas-e-cultura.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 03. O Tao do Trello & Sprints ➡️](./03-fluxo-trello-e-sprints.md)

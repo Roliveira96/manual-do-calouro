@@ -32,17 +32,17 @@ Clique nos links abaixo para mergulhar nos guias práticos do seu dia a dia:
 
 | 📑 Módulo | 🎯 O que você vai aprender | Arquivo |
 | :--- | :--- | :--- |
-| **01. Boas-Vindas & Cultura** | Postura, curiosidade, como tirar dúvidas e mindset de crescimento. | [01-boas-vindas-e-cultura.md](file:///home/ricardo/manual-do-calouro/docs/01-boas-vindas-e-cultura.md) |
-| **02. Comunicação no Discord** | Canais de texto (`#avisos`, `#duvidas`, `#links-uteis`), salas de voz e etiqueta. | [02-comunicacao-discord.md](file:///home/ricardo/manual-do-calouro/docs/02-comunicacao-discord.md) |
-| **03. O Tao do Trello & Sprints** | O fluxo de colunas, limite de 1 card em andamento e entrega por Sprints. | [03-fluxo-trello-e-sprints.md](file:///home/ricardo/manual-do-calouro/docs/03-fluxo-trello-e-sprints.md) |
-| **04. Rituais & Reuniões** | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e 1:1 quinzenal. | [04-rituais-e-reunioes.md](file:///home/ricardo/manual-do-calouro/docs/04-rituais-e-reunioes.md) |
-| **05. Setup do Ambiente Linux** | Preparando Ubuntu, Git, ferramentas, dependências e o README do seu repo. | [05-setup-ambiente-linux.md](file:///home/ricardo/manual-do-calouro/docs/05-setup-ambiente-linux.md) |
-| **06. Git & GitHub Workflow** | Branches, commits atômicos, Pull Requests caprichados e e-mail vinculado. | [06-git-github-workflow.md](file:///home/ricardo/manual-do-calouro/docs/06-git-github-workflow.md) |
-| **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](file:///home/ricardo/manual-do-calouro/docs/07-guia-de-gestao-interna.md) |
-| **08. Benefícios & Ferramentas Top** | JetBrains, Claude Code, Udemy, Coworking Inova Guarapuava & Happy Hour mensal! | [08-beneficios-e-ferramentas-premium.md](file:///home/ricardo/manual-do-calouro/docs/08-beneficios-e-ferramentas-premium.md) |
-| **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](file:///home/ricardo/manual-do-calouro/docs/divulgacao-da-vaga.md) |
-| **Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preencher e assinar a cada 15 dias. | [relatorio-quinzenal-utfpr.md](file:///home/ricardo/manual-do-calouro/docs/templates/relatorio-quinzenal-utfpr.md) |
-| **Exemplo de Relatório Preenchido** | Um exemplo real preenchido com humor e clareza para você se guiar. | [exemplo-preenchido-relatorio.md](file:///home/ricardo/manual-do-calouro/docs/templates/exemplo-preenchido-relatorio.md) |
+| **01. Boas-Vindas & Cultura** | Postura, curiosidade, como tirar dúvidas e mindset de crescimento. | [01-boas-vindas-e-cultura.md](docs/01-boas-vindas-e-cultura.md) |
+| **02. Comunicação no Discord** | Canais de texto (`#avisos`, `#duvidas`, `#links-uteis`), salas de voz e etiqueta. | [02-comunicacao-discord.md](docs/02-comunicacao-discord.md) |
+| **03. O Tao do Trello & Sprints** | O fluxo de colunas, limite de 1 card em andamento e entrega por Sprints. | [03-fluxo-trello-e-sprints.md](docs/03-fluxo-trello-e-sprints.md) |
+| **04. Rituais & Reuniões** | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e 1:1 quinzenal. | [04-rituais-e-reunioes.md](docs/04-rituais-e-reunioes.md) |
+| **05. Setup do Ambiente Linux** | Preparando Ubuntu, Git, ferramentas, dependências e o README do seu repo. | [05-setup-ambiente-linux.md](docs/05-setup-ambiente-linux.md) |
+| **06. Git & GitHub Workflow** | Branches, commits atômicos, Pull Requests caprichados e e-mail vinculado. | [06-git-github-workflow.md](docs/06-git-github-workflow.md) |
+| **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](docs/07-guia-de-gestao-interna.md) |
+| **08. Benefícios & Ferramentas Top** | JetBrains, Claude Code, Udemy, Coworking Inova Guarapuava & Happy Hour mensal! | [08-beneficios-e-ferramentas-premium.md](docs/08-beneficios-e-ferramentas-premium.md) |
+| **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](docs/divulgacao-da-vaga.md) |
+| **Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preencher e assinar a cada 15 dias. | [relatorio-quinzenal-utfpr.md](docs/templates/relatorio-quinzenal-utfpr.md) |
+| **Exemplo de Relatório Preenchido** | Um exemplo real preenchido com humor e clareza para você se guiar. | [exemplo-preenchido-relatorio.md](docs/templates/exemplo-preenchido-relatorio.md) |
 
 ---
 

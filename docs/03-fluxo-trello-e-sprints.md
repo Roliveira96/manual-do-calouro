@@ -77,7 +77,6 @@ Para que um card seja produtivo e não vire uma charada, ele deve conter:
 
 ---
 
-## 🔗 Próximo Passo
+## 🧭 Navegação Rápida
 
-Agora você sabe onde as tarefas vivem. Mas e quando nós nos encontramos para conversar sobre elas?  
-👉 [Vá para o Guia de Rituais & Reuniões](file:///home/ricardo/manual-do-calouro/docs/04-rituais-e-reunioes.md)
+[⬅️ Anterior: 02. Comunicação no Discord](./02-comunicacao-discord.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 04. Rituais & Reuniões ➡️](./04-rituais-e-reunioes.md)

@@ -77,7 +77,7 @@ flowchart TD
 - Revisão detalhada dos cards do Trello e Pull Requests dos últimos 15 dias.
 - Apontamento de pontos fortes demonstrados (proatividade, clareza no código, pontualidade).
 - Indicação de pontos técnicos a ajustar (qualidade dos testes, commits, atenção a detalhes).
-- **Validação e assinatura do [Relatório Quinzenal da UTFPR](file:///home/ricardo/manual-do-calouro/docs/templates/relatorio-quinzenal-utfpr.md)** preenchido pelo aluno.
+- **Validação e assinatura do [Relatório Quinzenal da UTFPR](./templates/relatorio-quinzenal-utfpr.md)** preenchido pelo aluno.
 
 ---
 
@@ -88,3 +88,9 @@ Com a rotina quinzenal estabelecida:
 - O estagiário não acumula pendências burocráticas.
 - A empresa possui histórico documentado de cada quinzena trabalhada.
 - O aluno precisa apenas unificar os relatórios quinzenais no relatório final da universidade.
+
+---
+
+## 🧭 Navegação Rápida
+
+[⬅️ Anterior: 06. Git & GitHub Workflow](./06-git-github-workflow.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 08. Benefícios & Ferramentas Top ➡️](./08-beneficios-e-ferramentas-premium.md)

@@ -60,6 +60,6 @@ flowchart TD
 
 ---
 
-## 🔗 Voltar ao Início
+## 🧭 Navegação Rápida
 
-👉 [Retornar ao Mapa Principal do Manual](file:///home/ricardo/manual-do-calouro/README.md)
+[⬅️ Anterior: 07. Gestão Interna](./07-guia-de-gestao-interna.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Divulgação da Vaga ➡️](./divulgacao-da-vaga.md)

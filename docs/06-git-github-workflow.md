@@ -94,7 +94,6 @@ Quando sua funcionalidade estiver pronta e testada no seu Linux:
 
 ---
 
-## 🔗 Próximo Passo
+## 🧭 Navegação Rápida
 
-Quer entender como a gestão da empresa acompanha sua evolução e planeja seu crescimento?  
-👉 [Vá para o Guia de Gestão Interna](file:///home/ricardo/manual-do-calouro/docs/07-guia-de-gestao-interna.md)
+[⬅️ Anterior: 05. Setup do Ambiente Linux](./05-setup-ambiente-linux.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 07. Gestão Interna ➡️](./07-guia-de-gestao-interna.md)
