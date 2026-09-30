@@ -52,11 +52,11 @@ flowchart TD
 
 ---
 
-## ⏰ Horário Altamente Flexível & Faculdade (UTFPR)
+## ⏰ Horário Altamente Flexível & Apoio aos Estudos (UTFPR)
 
-- A prioridade máxima da sua vida acadêmica é concluir sua graduação com sucesso.
-- Nossa carga horária é flexível e adaptada à sua grade de aulas, semanas de provas e bancas da UTFPR.
-- Teve semana de prova pesada? Avise com antecedência na Daily e realinhamos os cards do Trello. Comunicação aberta é tudo!
+* **Formação em 1º Lugar:** O principal objetivo da sua graduação na UTFPR é formar você com excelência. Nós nunca colocaremos uma demanda da empresa na frente do seu rendimento escolar.
+* **Semanas de Provas (P1, P2 e Finais):** Tem prova pesada, banca de TCC ou apresentação de seminário? Avise o gestor na reunião de alinhamento de segunda-feira. A carga do Trello é reduzida e suas horas são flexibilizadas para você estudar sem ansiedade.
+* **Zero Culpa, Máxima Transparência:** Você não precisa inventar desculpas nem justificar com vergonha. A única exigência é a **comunicação prévia**: quem avisa com antecedência permite que a equipe se organize e garanta o ritmo da Sprint sem gargalos.
 
 ---
 

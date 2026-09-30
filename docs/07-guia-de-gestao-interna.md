@@ -90,6 +90,10 @@ Com a rotina quinzenal estabelecida:
 - A empresa possui histórico documentado de cada quinzena trabalhada.
 - O aluno precisa apenas unificar os relatórios quinzenais no relatório final da universidade.
 
+### 🛡️ Gestão de Semanas de Prova:
+- Nas semanas de provas da UTFPR (P1, P2, exames finais e TCC), **reduza deliberadamente o volume de cards** atribuídos ao estudante na coluna `A Fazer`.
+- Incentive o aviso prévio na segunda-feira. Estudante com apoio nos estudos produz com muito mais qualidade e fidelidade ao time no restante do semestre.
+
 ---
 
 ## 🧭 Navegação Rápida

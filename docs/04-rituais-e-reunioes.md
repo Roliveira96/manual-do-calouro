@@ -93,6 +93,28 @@ A cada 15 dias, você terá uma conversa individual de 30 minutos com o seu gest
 
 ---
 
+## 🎓 6. Semanas de Provas e Exames na UTFPR: Como Proceder?
+
+> *"Nós queremos você formado! Sua aprovação e sua graduação na UTFPR são prioridades inegociáveis."*
+
+A rotina de provas do curso (TSI / Engenharia / Computação) pode ser intensa, especialmente nas semanas de **P1, P2, exames finais ou entregas de projetos integradores**.
+
+Na **studio4you**, temos uma política clara de apoio ao estudante:
+
+### 📋 O Protocolo das Semanas de Prova:
+1. **Avisar com Antecedência (A Regra de Ouro):**
+   - ❌ *O que NÃO fazer:* Sumir sem avisar ou mandar mensagem 10 minutos antes da Daily dizendo: *"Professor marcou prova agora e não vou conseguir entrar"*.
+   - ✅ *O que fazer:* Avise o gestor na reunião de alinhamento da **Segunda-feira** ou com pelo menos **48 horas de antecedência** no canal `#avisos` do Discord.
+2. **Redução e Ajuste de Escopo na Sprint:**
+   - Durante a sua semana de provas, o gestor irá **reduzir intencionalmente o volume de cards** atribuídos a você no Trello.
+   - Demandas críticas ou prazos apertados não serão colocados nas suas costas nesses dias.
+3. **Ausência em Cerimônias e Flexibilidade:**
+   - Se o horário da prova ou aula presencial coincidir com a Daily, você está liberado, desde que pré-comunique no Discord.
+   - Concentre-se nos estudos, faça uma boa prova e volte com a cabeça tranquila para programar depois.
+   - Comunicação transparente com antecedência constrói confiança mútua!
+
+---
+
 ## 🧭 Navegação Rápida
 
 [⬅️ Anterior: 03. O Tao do Trello & Sprints](./03-fluxo-trello-e-sprints.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 05. Setup do Ambiente Linux ➡️](./05-setup-ambiente-linux.md)
