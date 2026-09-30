@@ -78,6 +78,45 @@ flowchart TD
 
 ---
 
+## 💰 6. Programa "Indique e Ganhe": 5% de Bonificação no PIX!
+
+> [!TIP]
+> **Monetize seu networking indicando novos clientes para a studio4you!**  
+> Se você (seja estagiário ou colaborador) indicar uma empresa, comércio, startup ou profissional que fechar contrato com a studio4you, você ganha **5% de bonificação sobre o valor total pago pelo cliente**, transferido **diretamente via PIX** para a sua conta!
+
+```mermaid
+flowchart LR
+    A["🤝 1. Você Indica\nPassa o contato do cliente\npara o Ricardo"] --> B["📑 2. Proposta & Fechamento\nstudio4you negocia e\nassina o contrato"]
+    B --> C["💳 3. Pagamento do Cliente\nCliente quita a fatura\nou parcelas do projeto"]
+    C --> D["💸 4. PIX na Sua Conta!\nVocê recebe 5% do valor\npago em bonificação"]
+```
+
+### 🎯 Como Funciona na Prática?
+Conhece alguém que precisa de:
+* **Sites Institucionais High-End ou Landing Pages** com Core Web Vitals 90+ e carregamento instantâneo;
+* **Sistemas Web Sob Medida, Dashboards ou Plataformas SaaS** para automatizar processos operacionais;
+* **Migração Profissional de E-mails Corporativos** com registros de reputação DNS (SPF, DKIM, DMARC);
+* **Hospedagem & Infraestrutura Cloud Enterprise** em alta disponibilidade (AWS / Google Cloud).
+
+Basta você fazer a ponte e apresentar o contato para o gestor (**Ricardo**). A equipe da studio4you assume toda a parte de diagnóstico comercial, alinhamento técnico de escopo e elaboração da proposta.
+
+### 💵 Exemplos Reais de Bonificação no Seu Bolso:
+| Tipo de Projeto Contratado | Valor Pago pelo Cliente | Sua Bonificação (5% via PIX) |
+| :--- | :--- | :--- |
+| **Landing Page / Site Institucional** | R$ 5.000,00 | **R$ 250,00 no PIX** |
+| **Site Corporativo High-End + SEO/GEO** | R$ 10.000,00 | **R$ 500,00 no PIX** |
+| **Sistema Web Sob Medida / MVP SaaS** | R$ 20.000,00 | **R$ 1.000,00 no PIX** |
+| **Plataforma Enterprise / Software House** | R$ 40.000,00 | **R$ 2.000,00 no PIX** |
+
+### 📌 Regras Claras e Transparentes:
+1. **Quem pode participar:** Qualquer estagiário ou colaborador ativo da studio4you.
+2. **Gatilho de Pagamento:** A bonificação de 5% é creditada via PIX proporcionalmente aos valores efetivamente quitados pelo cliente na conta da empresa (ex: se o projeto for pago em 2 parcelas de R$ 5.000, você recebe R$ 250 a cada parcela recebida).
+3. **Sem Teto de Ganhos:** Não existe limite! Quanto mais clientes você indicar que fecharem com a empresa, mais bonificações você acumula no mês.
+4. **Como Fazer a Indicação:** Basta chamar o Ricardo no Discord ou WhatsApp informando o nome da pessoa/empresa, contato e a demanda.
+5. **Relação Ganha-Ganha:** O cliente recebe engenharia de ponta, a empresa cresce e você é reconhecido e recompensado financeiramente com dinheiro na mão!
+
+---
+
 ## ⏰ Horário Altamente Flexível & Apoio aos Estudos (UTFPR)
 
 * **Formação em 1º Lugar:** O principal objetivo da sua graduação na UTFPR é formar você com excelência. Nós nunca colocaremos uma demanda da empresa na frente do seu rendimento escolar.

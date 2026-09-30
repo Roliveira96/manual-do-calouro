@@ -95,6 +95,7 @@ flowchart TD
 Como estagiário da **studio4you**:
 1. Você não está aqui para aprender a instalar plugins genéricos; você está aqui para aprender **engenharia de software real**.
 2. Cada linha de código que você escreve no seu Ubuntu, cada container Docker que você sobe e cada Pull Request que você abre reflete o compromisso com a **performance máxima** e a **qualidade artesanal de software** que entregamos aos nossos clientes.
+3. **Você pode monetizar seu networking:** Conhecendo o alto padrão técnico dos nossos serviços (sites high-end, sistemas sob medida, e-mails corporativos e infraestrutura cloud), você pode indicar potenciais clientes através do [Programa Indique e Ganhe](./08-beneficios-e-ferramentas-premium.md#-6-programa-indique-e-ganhe-5-de-bonificacao-no-pix) e embolsar **5% do valor pago pelo cliente em bonificação no PIX**!
 
 ---
 

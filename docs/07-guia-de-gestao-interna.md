@@ -102,6 +102,13 @@ Com a rotina quinzenal estabelecida:
   - Limite reembolsável: até **R$ 60,00 no lanche** + até **R$ 20,00 em bebidas não alcoólicas**;
   - Constando os itens permitidos e o CPF na nota, efetuar o reembolso do valor via PIX. Não aceitar recibos genéricos ou apenas comprovantes de cartão.
 
+### 💰 Diretriz de Gestão: Programa "Indique e Ganhe" (5% via PIX):
+- **Registro do Lead Indicado:** Ao receber uma indicação de lead comercial vinda de um estagiário ou colaborador, registre no histórico a data, nome do indicado e quem fez a ponte.
+- **Negociação Comercial:** Conduza a apresentação da proposta, orçamento e fechamento do contrato com o cliente.
+- **Apuração e Pagamento Imediato:** Assim que o cliente quitar o serviço (seja à vista ou em parcelas), calcule rigorosamente **5% sobre o montante líquido recebido** e efetue a transferência imediata via **PIX** para a chave do colaborador indicador.
+- **Envio do Comprovante:** Envie o comprovante do PIX no canal privado do Discord ou WhatsApp parabenizando o colaborador pelo resultado.
+- **Transparência do Pipeline:** Mantenha o colaborador atualizado sobre o andamento da negociação (ex: proposta enviada, contrato assinado, faturamento previsto).
+
 ---
 
 ## 🧭 Navegação Rápida
