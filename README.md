@@ -1,5 +1,18 @@
-# 🚀 Manual do Calouro :: Studio4You
-> *O guia definitivo, interativo e bem-humorado para você sobreviver, codar muito e brilhar como estagiário na Studio4You.*
+<p align="center">
+  <a href="https://studio4you.com.br" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/logo-black.svg">
+      <img src="assets/logo-black.svg" alt="Studio4You Logo" width="340">
+    </picture>
+  </a>
+</p>
+
+<h1 align="center">🚀 Manual do Calouro :: Studio4You</h1>
+
+<p align="center">
+  <em>O guia definitivo, interativo e bem-humorado para você sobreviver, codar muito e brilhar como estagiário na Studio4You.</em>
+</p>
 
 ---
 

@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://studio4you.com.br" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../assets/logo-white.svg">
+      <source media="(prefers-color-scheme: light)" srcset="../assets/logo-black.svg">
+      <img src="../assets/logo-black.svg" alt="Studio4You Logo" width="300">
+    </picture>
+  </a>
+</p>
+
 # 🏢 10. Conhecendo a Studio4You: Nossa Visão, DNA & Serviços
 
 > *"Não entregamos templates prontos; entregamos engenharia de software de alta performance, código limpo e ecossistemas digitais escaláveis."*
