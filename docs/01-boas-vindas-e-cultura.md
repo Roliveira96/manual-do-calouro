@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+
+---
+
 # 🌟 01. Boas-Vindas & Cultura da Studio4You
 
 > *"Você não foi contratado porque já sabe tudo; você foi contratado porque tem capacidade de aprender qualquer coisa."*
@@ -118,30 +122,49 @@ Na **Studio4You**, tratamos você como um futuro engenheiro de software, não co
 
 ---
 
-## 🗺️ Mapa de Navegação da Trilha do Calouro
+## 🗺️ Mapa de Navegação das 4 Trilhas do Conhecimento
 
-Navegue diretamente pelos módulos do manual através dos links abaixo:
+Nossos 15 módulos estão organizados em **4 Trilhas Estratégicas** para guiar você desde o primeiro comando até a sua efetivação:
 
-| 📑 Módulo | 🎯 O que você vai aprender | Arquivo |
+### 🏛️ Trilha 1: Boas-Vindas, Cultura & Rituais
+| Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
+| :--- | :---: | :--- | :--- |
+| **01. Boas-Vindas & Cultura** | `4 min` | *(Você está aqui)* Mindset de crescimento, postura profissional e escadinha de dúvidas. | [01-boas-vindas-e-cultura.md](./01-boas-vindas-e-cultura.md) |
+| **02. Comunicação no Discord** | `3 min` | Regras dos canais de texto (`#avisos`, `#duvidas`), salas de voz e etiqueta. | [02-comunicacao-discord.md](./02-comunicacao-discord.md) |
+| **03. O Tao do Trello & Sprints** | `4 min` | Fluxo das 5 colunas Kanban, limite de WIP e anatomia do card perfeito. | [03-fluxo-trello-e-sprints.md](./03-fluxo-trello-e-sprints.md) |
+| **04. Rituais & Reuniões** | `4 min` | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas UTFPR. | [04-rituais-e-reunioes.md](./04-rituais-e-reunioes.md) |
+
+### ⚙️ Trilha 2: Engenharia, Setup & Gestão
+| Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
+| :--- | :---: | :--- | :--- |
+| **05. Setup de Ambiente & Segurança** | `6 min` | Linux, Windows com WSL 2, macOS, Docker e o Bloco de Segurança Virtual. | [05-setup-ambiente-linux.md](./05-setup-ambiente-linux.md) |
+| **06. Git & GitHub Workflow** | `5 min` | Padrão de branches, Conventional Commits, Pull Requests e resolução de conflitos. | [06-git-github-workflow.md](./06-git-github-workflow.md) |
+| **07. Gestão Interna (Manual do Gestor)** | `5 min` | Documento do gestor para conduzir rituais, 1:1, reembolsos e retenção. | [07-guia-de-gestao-interna.md](./07-guia-de-gestao-interna.md) |
+
+### 🎁 Trilha 3: Benefícios, Rotina & DNA da Empresa
+| Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
+| :--- | :---: | :--- | :--- |
+| **08. Benefícios & Ferramentas Top** | `5 min` | Claude Code, Udemy, Inova Guarapuava, Happy Hour e Indique e Ganhe (5% PIX). | [08-beneficios-e-ferramentas-premium.md](./08-beneficios-e-ferramentas-premium.md) |
+| **09. Rotina & Home Office de Elite** | `4 min` | Da cama ao terminal: mesa limpa, café, alongamento e ritual matinal com Git e Docker. | [09-rotina-e-boas-praticas-remotas.md](./09-rotina-e-boas-praticas-remotas.md) |
+| **10. Conhecendo a Studio4You** | `5 min` | Nosso DNA de código nativo, Core Web Vitals 90+, GEO para IAs e os 4 pilares de serviços. | [10-sobre-a-studio4you.md](./10-sobre-a-studio4you.md) |
+
+### 🚀 Trilha 4: Decolagem, Primeiros Socorros & Carreira
+| Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
+| :--- | :---: | :--- | :--- |
+| **11. Trilha de Decolagem (7 Dias)** | `5 min` | Checklist prático do Day 1 ao Day 5: acessos, Docker local e o primeiro PR! | [11-onboarding-primeiros-7-dias.md](./11-onboarding-primeiros-7-dias.md) |
+| **12. Primeiros Socorros / Troubleshooting** | `6 min` | Guia de sobrevivência: portas do Docker em uso, socket daemon, commit na main e merge. | [12-troubleshooting-primeiros-socorros.md](./12-troubleshooting-primeiros-socorros.md) |
+| **13. Sigilo, NDA & Redes Sociais** | `4 min` | Ética profissional, LGPD, o que NUNCA postar de clientes e o que postar com orgulho. | [13-sigilo-etica-e-confidencialidade.md](./13-sigilo-etica-e-confidencialidade.md) |
+| **14. Dicionário do Calouro** | `5 min` | Glossário do dev moderno: Deploy, Staging, Migration, Seed, Payload, CORS e SLA. | [14-glossario-do-dev-moderno.md](./14-glossario-do-dev-moderno.md) |
+| **15. Critérios de Sucesso & Carreira** | `4 min` | Os 5 pilares de avaliação, feedbacks 1:1, projetos freela remunerados e efetivação. | [15-criterios-de-sucesso-e-carreira.md](./15-criterios-de-sucesso-e-carreira.md) |
+
+---
+
+### 📑 Modelos Oficiais & Templates Prontos
+| Recurso | Descrição | Arquivo |
 | :--- | :--- | :--- |
-| **01. Boas-Vindas & Cultura** | *(Você está aqui)* Postura, curiosidade e mindset de crescimento. | [01-boas-vindas-e-cultura.md](./01-boas-vindas-e-cultura.md) |
-| **02. Comunicação no Discord** | Canais de texto (`#avisos`, `#duvidas`, `#links-uteis`), salas de voz e e-mails. | [02-comunicacao-discord.md](./02-comunicacao-discord.md) |
-| **03. O Tao do Trello & Sprints** | O fluxo de colunas, limite de 1 card em andamento e entrega por Sprints. | [03-fluxo-trello-e-sprints.md](./03-fluxo-trello-e-sprints.md) |
-| **04. Rituais & Reuniões** | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas da UTFPR. | [04-rituais-e-reunioes.md](./04-rituais-e-reunioes.md) |
-| **05. Setup de Ambiente & Segurança** | Linux, Windows com WSL 2, Mac, Docker e proteção contra vírus e phishing. | [05-setup-ambiente-linux.md](./05-setup-ambiente-linux.md) |
-| **06. Git & GitHub Workflow** | Branches, commits atômicos, Pull Requests caprichados e e-mail vinculado. | [06-git-github-workflow.md](./06-git-github-workflow.md) |
-| **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](./07-guia-de-gestao-interna.md) |
-| **08. Benefícios & Ferramentas Top** | Claude Code (IA), Cursos Udemy, Inova Guarapuava, Happy Hour e Programa Indique e Ganhe (5% no PIX). | [08-beneficios-e-ferramentas-premium.md](./08-beneficios-e-ferramentas-premium.md) |
-| **09. Rotina & Home Office de Elite** | Da cama ao terminal: mesa limpa, café, alongamento, ritual matinal do Git e Docker. | [09-rotina-e-boas-praticas-remotas.md](./09-rotina-e-boas-praticas-remotas.md) |
-| **10. Conhecendo a Studio4You** | Nosso DNA, manifesto de engenharia, serviços, Core Web Vitals e GEO para IAs. | [10-sobre-a-studio4you.md](./10-sobre-a-studio4you.md) |
-| **11. Trilha de Decolagem (7 Dias)** | Checklist prático do Day 1 ao Day 5: acessos, Docker local e o primeiro PR! | [11-onboarding-primeiros-7-dias.md](./11-onboarding-primeiros-7-dias.md) |
-| **12. Primeiros Socorros / Troubleshooting** | "Deu ruim!": portas do Docker em uso, daemon socket, commit na main e conflito no Git. | [12-troubleshooting-primeiros-socorros.md](./12-troubleshooting-primeiros-socorros.md) |
-| **13. Sigilo, NDA & Redes Sociais** | Ética profissional, o que NUNCA postar de clientes e o que postar com orgulho. | [13-sigilo-etica-e-confidencialidade.md](./13-sigilo-etica-e-confidencialidade.md) |
-| **14. Dicionário do Calouro** | Glossário descomplicado: Deploy, Staging, Migration, Seed, Payload, CORS e mais. | [14-glossario-do-dev-moderno.md](./14-glossario-do-dev-moderno.md) |
-| **15. Critérios de Sucesso & Carreira** | Os 5 pilares de avaliação, feedbacks 1:1, projetos freela pagos e efetivação. | [15-criterios-de-sucesso-e-carreira.md](./15-criterios-de-sucesso-e-carreira.md) |
-| **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](./divulgacao-da-vaga.md) |
-| **Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preencher e assinar a cada 15 dias. | [relatorio-quinzenal-utfpr.md](./templates/relatorio-quinzenal-utfpr.md) |
-| **Exemplo de Relatório Preenchido** | Um exemplo real preenchido com humor e clareza para você se guiar. | [exemplo-preenchido-relatorio.md](./templates/exemplo-preenchido-relatorio.md) |
+| **📢 Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](./divulgacao-da-vaga.md) |
+| **📝 Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preenchimento a cada 15 dias. | [relatorio-quinzenal-utfpr.md](./templates/relatorio-quinzenal-utfpr.md) |
+| **💡 Exemplo de Relatório Preenchido** | Modelo real preenchido com humor e clareza como referência. | [exemplo-preenchido-relatorio.md](./templates/exemplo-preenchido-relatorio.md) |
 
 ---
 

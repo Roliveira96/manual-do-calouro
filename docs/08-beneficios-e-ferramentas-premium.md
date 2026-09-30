@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 3: Benefícios, Rotina & DNA** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
+
+---
+
 # 🎁 08. Benefícios, Ferramentas de Ponta & Networking
 
 > *"Trabalho voluntário focado em mentoria não significa trabalhar sem recursos — muito pelo contrário. Na Studio4You, você tem acesso às melhores ferramentas do mercado global de tecnologia."*

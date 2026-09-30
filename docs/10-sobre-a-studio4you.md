@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 3: Benefícios, Rotina & DNA** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
+
+---
+
 <p align="center">
   <a href="https://studio4you.com.br" target="_blank">
     <picture>

@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 3: Benefícios, Rotina & DNA** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+
+---
+
 # 🏠 09. O Guia do Home Office de Elite: Da Cama ao Terminal
 
 > *"Trabalhar de casa não é trabalhar da cama. Home office de verdade exige ritual, postura e respeito ao seu ambiente."*

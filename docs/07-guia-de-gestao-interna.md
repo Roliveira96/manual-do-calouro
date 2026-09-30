@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 2: Engenharia, Setup & Gestão** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
+
+---
+
 # 🛡️ 07. Manual de Gestão do Estágio (Uso Interno do Gestor)
 
 > *Documento de referência para o supervisor de estágio da Studio4You gerenciar o ciclo de aprendizado, alinhamento técnico e entregas da equipe.*

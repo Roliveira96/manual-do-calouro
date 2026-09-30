@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+
+---
+
 # 📋 03. O Tao do Trello & O Ciclo de Sprints
 
 > *"Pare de começar e comece a terminar." — Filosofia Kanban aplicada à vida.*

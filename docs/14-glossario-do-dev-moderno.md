@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 4: Decolagem, Primeiros Socorros & Carreira** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
+
+---
+
 # 📖 14. O Dicionário do Calouro: Glossário do Dev Moderno
 
 > *"Jargões técnicos existem para economizar palavras e acelerar o time, não para intimidar quem acabou de chegar na empresa. Aqui está a tradução direta e sem rodeios do dialeto da Studio4You."*

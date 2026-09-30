@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+
+---
+
 # ⏰ 04. Rituais & Reuniões de Equipe
 
 > *"Reunião boa é reunião objetiva, transparente e com todo mundo presente de verdade."*

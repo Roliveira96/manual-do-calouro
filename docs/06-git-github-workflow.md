@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 2: Engenharia, Setup & Gestão** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
+
+---
+
 # 🐙 06. Git & GitHub Workflow
 
 > *"Commit pequeno, commit frequente. Salve o seu trabalho antes que a energia acabe."*

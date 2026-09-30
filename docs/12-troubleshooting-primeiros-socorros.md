@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 4: Decolagem, Primeiros Socorros & Carreira** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 6 min*
+
+---
+
 # 🧯 12. Primeiros Socorros & Troubleshooting: "Deu Ruim, e Agora?"
 
 > *"Erros no terminal acontecem com todo mundo, do calouro ao engenheiro sênior. O que diferencia o amador do profissional é o método para diagnosticar e resolver sem desespero."*

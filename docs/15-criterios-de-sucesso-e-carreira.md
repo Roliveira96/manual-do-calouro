@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 4: Decolagem, Primeiros Socorros & Carreira** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+
+---
+
 # 🎯 15. Critérios de Sucesso, Avaliação & "E Depois do Estágio?"
 
 > *"O estágio na Studio4You não existe apenas para preencher horas na faculdade. Nosso propósito é identificar talentos reais e formar os futuros desenvolvedores e parceiros da nossa Software House."*

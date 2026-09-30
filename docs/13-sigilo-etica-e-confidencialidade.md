@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 4: Decolagem, Primeiros Socorros & Carreira** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+
+---
+
 # 🤫 13. Sigilo, NDA & Ética com Dados de Clientes
 
 > *"A reputação de uma Software House leva anos para ser construída e pode ser destruída por um único print impensado nas redes sociais."*

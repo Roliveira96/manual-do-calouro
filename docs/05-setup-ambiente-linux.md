@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 2: Engenharia, Setup & Gestão** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 6 min*
+
+---
+
 # 💻 05. Setup de Ambiente (Linux, Windows com WSL, macOS) & Segurança Virtual
 
 > *"Desenvolver com qualidade é saber configurar seu ambiente com liberdade e protegê-lo como se fosse o cofre da sua casa."*

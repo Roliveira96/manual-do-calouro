@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 4: Decolagem, Primeiros Socorros & Carreira** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
+
+---
+
 # 🚀 11. Trilha de Decolagem: Seus Primeiros 7 Dias na Studio4You
 
 > *"Ninguém espera que você saiba tudo no primeiro dia. Mas esperamos que você saiba exatamente o que fazer no próximo passo."*

@@ -1,3 +1,7 @@
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 3 min*
+
+---
+
 # 💬 02. Comunicação Oficial :: Discord & E-mails
 
 > *"Se não está no Discord ou no Trello, não aconteceu no mundo real."*
