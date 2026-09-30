@@ -44,6 +44,11 @@ Clique nos links abaixo para mergulhar nos guias práticos do seu dia a dia:
 | **08. Benefícios & Ferramentas Top** | Claude Code (IA), Cursos Udemy, Inova Guarapuava, Happy Hour e Programa Indique e Ganhe (5% no PIX). | [08-beneficios-e-ferramentas-premium.md](docs/08-beneficios-e-ferramentas-premium.md) |
 | **09. Rotina & Home Office de Elite** | Da cama ao terminal: mesa limpa, café, alongamento, ritual matinal do Git e Docker. | [09-rotina-e-boas-praticas-remotas.md](docs/09-rotina-e-boas-praticas-remotas.md) |
 | **10. Conhecendo a Studio4You** | Nosso DNA, manifesto de engenharia, serviços, Core Web Vitals e GEO para IAs. | [10-sobre-a-studio4you.md](docs/10-sobre-a-studio4you.md) |
+| **11. Trilha de Decolagem (7 Dias)** | Checklist prático do Day 1 ao Day 5: acessos, Docker local e o primeiro PR! | [11-onboarding-primeiros-7-dias.md](docs/11-onboarding-primeiros-7-dias.md) |
+| **12. Primeiros Socorros / Troubleshooting** | "Deu ruim!": portas do Docker em uso, daemon socket, commit na main e conflito no Git. | [12-troubleshooting-primeiros-socorros.md](docs/12-troubleshooting-primeiros-socorros.md) |
+| **13. Sigilo, NDA & Redes Sociais** | Ética profissional, o que NUNCA postar de clientes e o que postar com orgulho. | [13-sigilo-etica-e-confidencialidade.md](docs/13-sigilo-etica-e-confidencialidade.md) |
+| **14. Dicionário do Calouro** | Glossário descomplicado: Deploy, Staging, Migration, Seed, Payload, CORS e mais. | [14-glossario-do-dev-moderno.md](docs/14-glossario-do-dev-moderno.md) |
+| **15. Critérios de Sucesso & Carreira** | Os 5 pilares de avaliação, feedbacks 1:1, projetos freela pagos e efetivação. | [15-criterios-de-sucesso-e-carreira.md](docs/15-criterios-de-sucesso-e-carreira.md) |
 | **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](docs/divulgacao-da-vaga.md) |
 | **Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preencher e assinar a cada 15 dias. | [relatorio-quinzenal-utfpr.md](docs/templates/relatorio-quinzenal-utfpr.md) |
 | **Exemplo de Relatório Preenchido** | Um exemplo real preenchido com humor e clareza para você se guiar. | [exemplo-preenchido-relatorio.md](docs/templates/exemplo-preenchido-relatorio.md) |

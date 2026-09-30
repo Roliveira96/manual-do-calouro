@@ -101,4 +101,4 @@ Como estagiário da **Studio4You**:
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 09. Rotina & Home Office de Elite](./09-rotina-e-boas-praticas-remotas.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Divulgação da Vaga ➡️](./divulgacao-da-vaga.md)
+[⬅️ Anterior: 09. Rotina & Home Office de Elite](./09-rotina-e-boas-praticas-remotas.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 11. Trilha de Decolagem (7 Dias) ➡️](./11-onboarding-primeiros-7-dias.md)

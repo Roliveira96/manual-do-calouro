@@ -120,4 +120,4 @@ Fala galera da área de TI! 👋 A *Studio4You* abriu vaga de estágio voluntár
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 10. Conhecendo a Studio4You](./10-sobre-a-studio4you.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)
+[⬅️ Anterior: 15. Critérios de Sucesso & Carreira](./15-criterios-de-sucesso-e-carreira.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)

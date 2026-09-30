@@ -111,6 +111,25 @@ Com a rotina quinzenal estabelecida:
 
 ---
 
+## 🎯 4. Gestão de Onboarding, Avaliação & Retenção de Talentos
+
+### 🚀 Acolhimento nos Primeiros 7 Dias:
+- Certifique-se de que o estagiário siga a [Trilha de Decolagem do Módulo 11](./11-onboarding-primeiros-7-dias.md);
+- Deixe preparado na coluna `A Fazer` do Trello um card pequeno com a tag `[Good First Issue]` para o 3º dia;
+- No 5º dia, realize um Code Review detalhado e encorajador no primeiro Pull Request do aluno, explicando os porquês de eventuais ajustes.
+
+### 🧯 Fomento à Autonomia (Troubleshooting):
+- Quando o estagiário relatar portas presas no Docker ou commits na main por engano, oriente-o a consultar o [Módulo 12 (Primeiros Socorros)](./12-troubleshooting-primeiros-socorros.md) antes de entregar a resposta pronta. Isso constrói resiliência e independência técnica.
+
+### 🤫 Proteção de Dados & Sigilo de Clientes:
+- Monitore e reforce com o time as diretrizes do [Módulo 13 (Sigilo & Redes Sociais)](./13-sigilo-etica-e-confidencialidade.md). Clientes da Studio4You exigem sigilo absoluto.
+
+### 💼 Transição para Demandas Remuneradas (Freelas) e Contratação:
+- Ao longo das quinzenas, avalie os alunos com base nos 5 pilares do [Módulo 15](./15-criterios-de-sucesso-e-carreira.md);
+- Alunos que apresentarem alta autonomia, consistência e maturidade devem ser convidados para **projetos freelancers remunerados por demanda** ou futuros contratos de trabalho conforme novas demandas comerciais da Studio4You.
+
+---
+
 ## 🧭 Navegação Rápida
 
 [⬅️ Anterior: 06. Git & GitHub Workflow](./06-git-github-workflow.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 08. Benefícios & Ferramentas Top ➡️](./08-beneficios-e-ferramentas-premium.md)
