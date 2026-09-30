@@ -22,7 +22,7 @@ Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole n
 2. **🎯 1 Card por Vez no Trello:** A regra de ouro do `Em Andamento`. Termine uma coisa antes de começar outra. Foco vence multitarefa caótica.
 3. **💬 A Escadinha do Desbloqueio (Pesquise ➡️ Colega ➡️ Gestor):** Travou em um erro de código ou bug? Primeiro pesquise na documentação e IA (~15 min). Ainda travou? Converse com seu colega de estágio. Se continuarem sem solução, aí sim venham falar com o Ricardo trazendo o que já foi tentado!
 4. **💥 Quebrou? Não Esconda!** Errou um comando ou quebrou o build? Avise imediatamente! Lembra da analogia da luz da injeção do motor: fita isolante preta por cima da lâmpada não impede o motor de fundir na estrada. Honestidade técnica sempre!
-5. **🐧 Alma Linux:** Seu ambiente de desenvolvimento é Linux (Ubuntu recomendado). Domine o terminal, ame a linha de comando e documente tudo no `README.md`.
+5. **💻 Ambiente & WSL (Linux, Windows, Mac):** Desenvolva em Linux, Windows com WSL 2 ou macOS. O essencial é um ambiente reprodutível e uma máquina blindada contra vírus, malwares e links maliciosos!
 6. **📝 Relatório Quinzenal em Dia:** O estágio é uma parceria com a **UTFPR (TSI)**. Relatório feito a cada 15 dias poupa desespero no fim do semestre.
 7. **👔 Postura Adulta & Sem Melindres:** No trabalho, foco, maturidade e conversas profissionais. Code review não é ataque pessoal; é engenharia de software pura. Descontração tem hora e lugar: no `#geral-bate-papo` e no Happy Hour mensal!
 
@@ -37,8 +37,8 @@ Clique nos links abaixo para mergulhar nos guias práticos do seu dia a dia:
 | **01. Boas-Vindas & Cultura** | Postura, curiosidade, como tirar dúvidas e mindset de crescimento. | [01-boas-vindas-e-cultura.md](docs/01-boas-vindas-e-cultura.md) |
 | **02. Comunicação no Discord** | Canais de texto (`#avisos`, `#duvidas`, `#links-uteis`), salas de voz e etiqueta. | [02-comunicacao-discord.md](docs/02-comunicacao-discord.md) |
 | **03. O Tao do Trello & Sprints** | O fluxo de colunas, limite de 1 card em andamento e entrega por Sprints. | [03-fluxo-trello-e-sprints.md](docs/03-fluxo-trello-e-sprints.md) |
-| **04. Rituais & Reuniões** | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e 1:1 quinzenal. | [04-rituais-e-reunioes.md](docs/04-rituais-e-reunioes.md) |
-| **05. Setup do Ambiente Linux** | Preparando Ubuntu, Git, ferramentas, dependências e o README do seu repo. | [05-setup-ambiente-linux.md](docs/05-setup-ambiente-linux.md) |
+| **04. Rituais & Reuniões** | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas da UTFPR. | [04-rituais-e-reunioes.md](docs/04-rituais-e-reunioes.md) |
+| **05. Setup de Ambiente & Segurança** | Linux, Windows com WSL 2, Mac, Docker e proteção contra vírus e phishing. | [05-setup-ambiente-linux.md](docs/05-setup-ambiente-linux.md) |
 | **06. Git & GitHub Workflow** | Branches, commits atômicos, Pull Requests caprichados e e-mail vinculado. | [06-git-github-workflow.md](docs/06-git-github-workflow.md) |
 | **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](docs/07-guia-de-gestao-interna.md) |
 | **08. Benefícios & Ferramentas Top** | Claude Code (IA), Cursos Udemy, Coworking Inova Guarapuava & Happy Hour mensal! | [08-beneficios-e-ferramentas-premium.md](docs/08-beneficios-e-ferramentas-premium.md) |

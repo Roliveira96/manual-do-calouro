@@ -1,40 +1,57 @@
-# 🐧 05. Setup do Ambiente Linux (Ubuntu)
+# 💻 05. Setup de Ambiente (Linux, Windows com WSL, macOS) & Segurança Virtual
 
-> *"No Linux, se algo não funciona, o erro é seu. Mas se tudo funciona, a glória também é toda sua!"*
-
----
-
-## 🎯 Por que Linux (Ubuntu)?
-
-Na **studio4you**, nossos servidores, containers e ambientes de produção rodam sob o ecossistema Linux.  
-Desenvolver em Linux garante que o clássico pesadelo *"na minha máquina funciona, mas no servidor quebrou"* seja eliminado pela raiz.
-
-Sugerimos fortemente o uso do **Ubuntu (22.04 LTS ou 24.04 LTS)** ou distribuições baseadas em Debian.
+> *"Desenvolver com qualidade é saber configurar seu ambiente com liberdade e protegê-lo como se fosse o cofre da sua casa."*
 
 ---
 
-## 📦 Kit de Sobrevivência: Instalação Inicial
+## 🧭 1. Flexibilidade de Sistema Operacional: Escolha o Seu
 
-Abra o seu terminal favorito (`Ctrl + Alt + T`) e execute os passos a seguir:
+Na **studio4you**, **você NÃO é obrigado a usar exclusivamente Linux nativo**.  
+Reconhecemos que cada estudante possui sua própria máquina, e você tem total liberdade para trabalhar em:
+* 🐧 **Linux Nativo (Ubuntu / Debian / Fedora / Arch)**;
+* 🪟 **Windows (com WSL 2)**;
+* 🍎 **macOS**.
+
+O nosso requisito inegociável é que o seu ambiente consiga executar **Bash, Git, Node.js e Docker** com fidelidade aos nossos ambientes de produção e homologação.
+
+---
+
+## 🪟 Para quem usa Windows: A Opção do WSL 2 (Windows Subsystem for Linux)
+
+Se você tem Windows na sua máquina, **não precisa formatar o PC nem arriscar dual-boot!**  
+O Windows possui o **WSL 2**, uma tecnologia incrível da Microsoft que roda um kernel Linux Ubuntu genuíno diretamente dentro do Windows, com consumo mínimo de memória e integração total com o VS Code.
+
+### Como instalar o WSL 2 no Windows:
+1. Abra o **PowerShell** ou **Prompt de Comando** como **Administrador** (`Win + X` -> *Terminal como Administrador*).
+2. Execute o comando:
+   ```powershell
+   wsl --install -d Ubuntu
+   ```
+3. Reinicie o computador quando solicitado.
+4. Ao ligar, o Ubuntu abrirá uma janela de terminal pedindo para você criar seu usuário e senha Linux.
+5. No seu VS Code no Windows, instale a extensão oficial **"WSL"** da Microsoft.
+6. Pronto! Ao digitar `code .` dentro do terminal do Ubuntu, seu VS Code abrirá conectado diretamente ao Linux.
+
+---
+
+## 📦 Kit de Sobrevivência (Ubuntu Nativo ou WSL 2)
+
+Dentro do seu terminal Linux (Ubuntu nativo ou WSL 2), prepare as ferramentas essenciais:
 
 ### 1. Atualizar os pacotes do sistema
 ```bash
 sudo apt update && sudo apt upgrade -y
-```
-
-### 2. Utilitários Essenciais de Terminal
-```bash
 sudo apt install -y build-essential curl wget git htop tree jq
 ```
 
-### 3. Configurar Git & Chaves SSH
-Configure o mesmo nome e e-mail que você usa na sua conta GitHub:
+### 2. Configurar Git & Chaves SSH
+Configure exatamente o mesmo nome e e-mail vinculado ao seu GitHub:
 ```bash
 git config --global user.name "Seu Nome Completo"
 git config --global user.email "seu-email@alunos.utfpr.edu.br"
 ```
 
-Gere sua chave SSH para clonar repositórios sem precisar digitar senha a todo momento:
+Gere sua chave SSH:
 ```bash
 ssh-keygen -t ed25519 -C "seu-email@alunos.utfpr.edu.br"
 # Pressione Enter para salvar no caminho padrão ~/.ssh/id_ed25519
@@ -42,30 +59,73 @@ ssh-keygen -t ed25519 -C "seu-email@alunos.utfpr.edu.br"
 # Exiba e copie sua chave pública:
 cat ~/.ssh/id_ed25519.pub
 ```
-Cole essa chave nas configurações do seu perfil no **GitHub (Settings -> SSH and GPG keys)**.
+Cole essa chave no seu **GitHub (Settings -> SSH and GPG keys)**.
+
+### 3. Node.js via NVM & Docker
+```bash
+# NVM (Node Version Manager)
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+source ~/.bashrc
+nvm install --lts
+
+# No Linux Nativo: Instalar Docker
+sudo apt install -y docker.io docker-compose-v2
+sudo usermod -aG docker $USER
+
+# No Windows com WSL 2: Instale o Docker Desktop no Windows e marque a opção:
+# "Use the WSL 2 based engine" nas configurações do Docker Desktop.
+```
 
 ---
 
-### 4. Node.js & Gerenciadores de Versão (NVM)
-Para evitar conflito de versões entre projetos:
-```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-source ~/.bashrc
+## 🛡️ 2. BLOCO DE SEGURANÇA VIRTUAL & HIGIENE CIBERNÉTICA
 
-# Instale a versão LTS recomendada:
-nvm install --lts
-nvm use --lts
+> [!CAUTION]
+> **A SEGURANÇA DA SUA MÁQUINA É PRIMORDIAL PARA A EMPRESA.**  
+> Como desenvolvedor, seu computador guarda chaves SSH de servidores, tokens de API, credenciais de repositórios e código de clientes. Um único descuido pode comprometer toda a infraestrutura da studio4you.
+
+---
+
+### 🪟 Alerta Especial para Windows: O Alvo Nº 1 de Ameaças
+O Windows é o sistema operacional mais utilizado no mundo e, exatamente por isso, é o **alvo de 95% dos malwares, trojans, ransomwares e spywares** existentes.
+* **Mantenha o Windows Defender SEMPRE ativo:** Nunca desative a proteção em tempo real.
+* **Mantenha o Windows Update em dia:** Brechas de segurança conhecidas são corrigidas constantemente pela Microsoft.
+* **Cuidado no Linux e Mac também:** Não caia no mito de que *"Linux não tem vírus"*. Scripts maliciosos e roubo de credenciais funcionam em qualquer sistema operacional!
+
+---
+
+### 🚨 As 4 Ameaças Reais do Mundo Dev (Fique Muito Atento!)
+
+```mermaid
+flowchart TD
+    A["🎣 1. Phishing & E-mails\nLinks falsos do GitHub/Google/Bancos\nNunca clique nem baixe anexos suspeitos"]
+    B["🏴‍☠️ 2. Pirataria & Cracks\nAtivadores KMS e softwares piratas\nInstalam infostealers e roubam chaves SSH"]
+    C["📦 3. Projetos GitHub Infectados\nRepositórios desconhecidos e pacotes npm maliciosos\nInspecione scripts antes de rodar"]
+    D["🔑 4. Vazamento de Credenciais\nNunca suba arquivos .env ou tokens para o Git\nUse sempre o .gitignore"]
 ```
 
-### 5. Docker & Docker Compose
-A maioria dos nossos projetos utiliza bancos de dados ou serviços containerizados:
-```bash
-# Instalação simplificada via repositório oficial
-sudo apt install -y docker.io docker-compose-v2
+#### 🎣 1. Cuidado com Phishing e E-mails Falsos
+* Desconfie de e-mails com tom alarmista (*"Sua conta do GitHub será suspensa em 24h"*, *"Atualização de segurança obrigatória"* ou faturas em anexo).
+* **NUNCA** clique em links desconhecidos e nunca baixe anexos com extensões `.exe`, `.scr`, `.bat`, `.vbs` ou `.sh`.
+* Sempre confira o domínio do remetente antes de tomar qualquer ação.
 
-# Permitir rodar docker sem sudo (não esqueça de reiniciar a sessão após este comando):
-sudo usermod -aG docker $USER
-```
+#### 🏴‍☠️ 2. Proibição Total de Cracks, Ativadores e Pirataria
+* **NUNCA** instale ativadores piratas (como *KMS*, ativadores de Windows/Office), cracks de jogos ou programas baixados por torrent na sua máquina de trabalho.
+* Esses ativadores quase sempre contêm **Infostealers** — malwares silenciosos projetados para raspar senhas salvas no navegador, cookies de sessão autenticados e as suas chaves privadas SSH (`id_rsa` / `id_ed25519`).
+* Se sua máquina for infectada, o invasor terá acesso imediato aos repositórios do GitHub da empresa!
+
+#### 📦 3. Cuidado com Repositórios do GitHub e Pacotes npm/PyPI
+* **Até projetos no GitHub podem estar infectados!** Hackers criam repositórios fakes ou clonam ferramentas famosas inserindo código malicioso oculto.
+* Cuidado ao rodar comandos que executam scripts cegamente da internet:
+  ```bash
+  # ❌ PERIGOSO: Rodar script sem ler o que tem dentro!
+  curl -sSL https://site-estranho.com/install.sh | bash
+  ```
+* Antes de instalar dependências em um projeto pessoal, verifique o `package.json`, histórico de commits e a reputação dos pacotes.
+
+#### 🔑 4. Gestão Segura de Chaves e `.env`
+* **Nunca comite arquivos `.env`** contendo senhas de banco de dados, chaves secretas ou tokens da OpenAI/Claude.
+* Sempre verifique se o `.env` está devidamente listado no arquivo `.gitignore` antes do seu primeiro `git commit`.
 
 ---
 
@@ -73,18 +133,9 @@ sudo usermod -aG docker $USER
 
 > [!IMPORTANT]
 > Toda vez que você clonar um repositório da studio4you para trabalhar:
-> 1. Verifique se as instruções do `README.md` funcionam no seu Ubuntu limpo.
-> 2. Se você precisou instalar uma biblioteca, extensão do PHP, versão do Node ou rodar uma migration que **NÃO** estava descrita no `README.md`: **atualize o README imediatamente e suba junto com o seu Pull Request!**
-> 3. Um bom desenvolvedor deixa o caminho mais fácil para quem vier depois.
-
----
-
-## 💡 Dicas de Produtividade no Terminal
-
-- **Histórico inteligente:** `Ctrl + R` busca comandos que você digitou no passado.
-- **Navegação rápida:** `cd -` volta imediatamente para o diretório anterior.
-- **Limpar a tela:** `Ctrl + L`.
-- **VS Code direto da pasta:** `code .` abre o Visual Studio Code no diretório atual.
+> 1. Verifique se as instruções do `README.md` funcionam no seu ambiente (seja Linux, WSL ou Mac).
+> 2. Se você precisou instalar uma biblioteca, extensão ou rodar uma migration que **NÃO** estava descrita no `README.md`: **atualize o README imediatamente e envie junto com o seu Pull Request!**
+> 3. Um bom engenheiro deixa a trilha limpa e documentada para o próximo colega.
 
 ---
 

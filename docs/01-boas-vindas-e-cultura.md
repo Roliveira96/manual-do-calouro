@@ -127,8 +127,8 @@ Navegue diretamente pelos módulos do manual através dos links abaixo:
 | **01. Boas-Vindas & Cultura** | *(Você está aqui)* Postura, curiosidade e mindset de crescimento. | [01-boas-vindas-e-cultura.md](./01-boas-vindas-e-cultura.md) |
 | **02. Comunicação no Discord** | Canais de texto (`#avisos`, `#duvidas`, `#links-uteis`), salas de voz e e-mails. | [02-comunicacao-discord.md](./02-comunicacao-discord.md) |
 | **03. O Tao do Trello & Sprints** | O fluxo de colunas, limite de 1 card em andamento e entrega por Sprints. | [03-fluxo-trello-e-sprints.md](./03-fluxo-trello-e-sprints.md) |
-| **04. Rituais & Reuniões** | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e 1:1 quinzenal. | [04-rituais-e-reunioes.md](./04-rituais-e-reunioes.md) |
-| **05. Setup do Ambiente Linux** | Preparando Ubuntu, Git, ferramentas, dependências e o README do seu repo. | [05-setup-ambiente-linux.md](./05-setup-ambiente-linux.md) |
+| **04. Rituais & Reuniões** | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas da UTFPR. | [04-rituais-e-reunioes.md](./04-rituais-e-reunioes.md) |
+| **05. Setup de Ambiente & Segurança** | Linux, Windows com WSL 2, Mac, Docker e proteção contra vírus e phishing. | [05-setup-ambiente-linux.md](./05-setup-ambiente-linux.md) |
 | **06. Git & GitHub Workflow** | Branches, commits atômicos, Pull Requests caprichados e e-mail vinculado. | [06-git-github-workflow.md](./06-git-github-workflow.md) |
 | **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](./07-guia-de-gestao-interna.md) |
 | **08. Benefícios & Ferramentas Top** | Claude Code (IA), Cursos Udemy, Coworking Inova Guarapuava & Happy Hour mensal! | [08-beneficios-e-ferramentas-premium.md](./08-beneficios-e-ferramentas-premium.md) |

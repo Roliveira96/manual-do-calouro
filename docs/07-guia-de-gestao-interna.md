@@ -28,9 +28,10 @@ Fluxo obrigatório em 5 colunas:
 4. **`Em Revisão`**: Tarefas concluídas aguardando seu code review ou validação visual/funcional.
 5. **`Concluído`**: Entregas aprovadas e integradas à branch principal.
 
-### Ambiente de Desenvolvimento: Linux Autônomo
-- Os estudantes devem preparar seus próprios ambientes em distribuições Linux (sugira e incentive **Ubuntu**).
-- Os alunos são cobrados a **documentar a instalação de dependências e ferramentas no arquivo `README.md`** de cada repositório trabalhado, mantendo o projeto reprodutível.
+### Ambiente de Desenvolvimento & Segurança da Máquina
+- **Flexibilidade de SO:** O estudante pode utilizar Linux nativo (Ubuntu sugerido), Windows com **WSL 2** ou macOS. O essencial é um ambiente compatível e reprodutível com containers Docker e terminal Bash.
+- **Segurança Cibernética Primordial:** Cobrar postura rigorosa contra malwares, especialmente em Windows (antivírus ativo e atualizado), proibição de ativadores/cracks (vetores clássicos de roubo de chaves SSH e senhas) e atenção a phishing e pacotes maliciosos do GitHub.
+- **Documentação de Dependências:** Os alunos continuam obrigados a **documentar no `README.md`** qualquer nova biblioteca, migração ou dependência necessária para rodar o projeto.
 
 ---
 
