@@ -10,7 +10,7 @@ Se você chegou até aqui, significa que vimos potencial em você para construir
 
 Este repositório é o seu **Manual de Bordo**. Ele foi desenhado especificamente para preparar você para a rotina real de desenvolvimento, alinhar expectativas, tirar o medo de errar e transformar você em um desenvolvedor autônomo, confiante e produtivo.
 
-Aqui não tem pegadinha: tudo o que você precisa saber sobre ferramentas, reuniões, entregas, relatórios da UTFPR e convivência com o time está organizado e mastigado nos subdocumentos abaixo.
+Aqui não tem pegadinha: tudo o que você precisa saber sobre ferramentas, reuniões, entregas, relatórios da UTFPR, benefícios exclusivos e convivência com o time está organizado e mastigado nos subdocumentos abaixo.
 
 ---
 
@@ -21,7 +21,7 @@ Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole n
 1. **📹 Câmera Ligada nas Reuniões:** Nada de foto estática ou tela preta de podcast fantasma! Nas dailies e reuniões, olho no olho. A presença humana aproxima o time.
 2. **🎯 1 Card por Vez no Trello:** A regra de ouro do `Em Andamento`. Termine uma coisa antes de começar outra. Foco vence multitarefa caótica.
 3. **💬 Comunicação Ativa no Discord:** Travou mais de 20 minutos tentando resolver algo? Peça ajuda no `#duvidas`. Ninguém ganha medalha por sofrer em silêncio.
-4. **🐧 Alma Linux:** Seu ambiente de desenvolvimento é Linux (Ubuntu recomendado). Domine o terminal, ame a linha de comando e documente tudo.
+4. **🐧 Alma Linux:** Seu ambiente de desenvolvimento é Linux (Ubuntu recomendado). Domine o terminal, ame a linha de comando e documente tudo no `README.md`.
 5. **📝 Relatório Quinzenal em Dia:** O estágio é uma parceria com a **UTFPR (TSI)**. Relatório feito a cada 15 dias poupa desespero no fim do semestre.
 
 ---
@@ -39,6 +39,8 @@ Clique nos links abaixo para mergulhar nos guias práticos do seu dia a dia:
 | **05. Setup do Ambiente Linux** | Preparando Ubuntu, Git, ferramentas, dependências e o README do seu repo. | [05-setup-ambiente-linux.md](file:///home/ricardo/manual-do-calouro/docs/05-setup-ambiente-linux.md) |
 | **06. Git & GitHub Workflow** | Branches, commits atômicos, Pull Requests caprichados e e-mail vinculado. | [06-git-github-workflow.md](file:///home/ricardo/manual-do-calouro/docs/06-git-github-workflow.md) |
 | **07. Gestão Interna (Manual do Gestor)** | Diretrizes internas de acompanhamento, shadowing, code review e feedbacks. | [07-guia-de-gestao-interna.md](file:///home/ricardo/manual-do-calouro/docs/07-guia-de-gestao-interna.md) |
+| **08. Benefícios & Ferramentas Top** | JetBrains, Claude Code, Udemy, Coworking Inova Guarapuava & Happy Hour mensal! | [08-beneficios-e-ferramentas-premium.md](file:///home/ricardo/manual-do-calouro/docs/08-beneficios-e-ferramentas-premium.md) |
+| **Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](file:///home/ricardo/manual-do-calouro/docs/divulgacao-da-vaga.md) |
 | **Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preencher e assinar a cada 15 dias. | [relatorio-quinzenal-utfpr.md](file:///home/ricardo/manual-do-calouro/docs/templates/relatorio-quinzenal-utfpr.md) |
 | **Exemplo de Relatório Preenchido** | Um exemplo real preenchido com humor e clareza para você se guiar. | [exemplo-preenchido-relatorio.md](file:///home/ricardo/manual-do-calouro/docs/templates/exemplo-preenchido-relatorio.md) |
 
