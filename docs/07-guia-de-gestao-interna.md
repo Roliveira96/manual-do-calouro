@@ -10,9 +10,19 @@
 
 ## 📌 1. Diretrizes de Acesso e Ferramentas
 
-### Contas e Logins: Política Zero Hospedagem
-- **Não crie caixas de e-mail corporativas na hospedagem da empresa.**
-- Convide o e-mail que o aluno já utiliza (pessoal ou acadêmico da UTFPR) diretamente para:
+### Contas e Logins: Conta Corporativa do Estágio + E-mail Pessoal
+- **Mantenha uma conta de e-mail corporativa genérica por vaga de estágio** (duas vagas, duas contas). A conta pertence à vaga, não à pessoa, e é reaproveitada a cada ciclo.
+- **Finalidade:** login no Claude e nas demais ferramentas fornecidas pela empresa, mantendo conversas, código e dados de clientes em contas que a Studio4You controla.
+- **Na entrada do estagiário:**
+  1. Entregue o endereço e uma senha inicial nova, por canal seguro;
+  2. Configure a autenticação em dois fatores e mantenha os dados de recuperação com a empresa;
+  3. Vincule a conta à licença do Claude.
+- **Na saída do estagiário:**
+  1. Troque a senha e encerre todas as sessões ativas;
+  2. Revise ou remova o acesso ao Claude e a qualquer serviço cadastrado com a conta;
+  3. Limpe a caixa e o histórico antes de entregar a conta ao próximo estagiário.
+- **Deixe claro desde o Dia 1** que a conta é corporativa e auditável, conforme o [Módulo 02](./02-comunicacao-discord.md).
+- **Discord, Trello e GitHub continuam no e-mail do aluno.** Convide o e-mail que ele já utiliza (pessoal ou acadêmico da UTFPR) diretamente para:
   1. O Workspace do Trello da empresa.
   2. O servidor do Discord da Studio4You.
   3. A organização e repositórios no GitHub.

@@ -68,7 +68,7 @@ Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
 | :--- | :---: | :--- | :--- |
 | **01. Boas-Vindas & Cultura** | `4 min` | Mindset de crescimento, postura profissional e escadinha de dúvidas. | [01-boas-vindas-e-cultura.md](docs/01-boas-vindas-e-cultura.md) |
-| **02. Comunicação no Discord** | `3 min` | Regras dos canais de texto (`#avisos`, `#duvidas`), salas de voz e etiqueta. | [02-comunicacao-discord.md](docs/02-comunicacao-discord.md) |
+| **02. Comunicação no Discord** | `5 min` | Conta corporativa do estágio, regras dos canais de texto (`#avisos`, `#duvidas`), salas de voz e etiqueta. | [02-comunicacao-discord.md](docs/02-comunicacao-discord.md) |
 | **03. O Tao do Trello & Sprints** | `4 min` | Fluxo das 5 colunas Kanban, limite de WIP e anatomia do card perfeito. | [03-fluxo-trello-e-sprints.md](docs/03-fluxo-trello-e-sprints.md) |
 | **04. Rituais & Reuniões** | `4 min` | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas UTFPR. | [04-rituais-e-reunioes.md](docs/04-rituais-e-reunioes.md) |
 

@@ -302,6 +302,7 @@ Nenhum deles é prova, mas todos merecem um aviso ao gestor:
 - [ ] `.env` no `.gitignore` de todos os projetos clonados.
 - [ ] Perfil de navegador separado para o trabalho, só com extensões confiáveis.
 - [ ] Nenhum dado real de cliente na minha máquina: só seeds e dados fictícios.
+- [ ] Claude e ferramentas da empresa só na conta corporativa do estágio; nada da empresa em conta pessoal.
 - [ ] Sei exatamente quem avisar, e como, se algo der errado.
 
 ---

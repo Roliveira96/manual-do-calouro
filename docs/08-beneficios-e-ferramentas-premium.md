@@ -14,6 +14,7 @@ Na **Studio4You**, acreditamos que para aprender o padrão da indústria, você 
 
 ### 🧠 1. Inteligência Artificial com Claude Code
 - Você terá acesso guiado a ferramentas de IA de última geração (**Claude Code** e assistentes de ponta).
+- **O acesso é feito pela conta corporativa do estágio**, o e-mail da Studio4You que você recebe no Dia 1 ([Módulo 02](./02-comunicacao-discord.md)). Não use conta pessoal de IA com código ou dados da empresa: assim as conversas e o código dos clientes ficam em um ambiente que a empresa controla.
 - **Como usamos:** Não para copiar código às cegas, mas para:
   - Explicar trechos complexos de código legado.
   - Ajudar no diagnóstico e troubleshooting de bugs difíceis.

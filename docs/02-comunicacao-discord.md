@@ -1,4 +1,4 @@
-> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 3 min*
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
 
 ---
 
@@ -14,16 +14,48 @@ O Discord é o nosso QG virtual da **Studio4You**. É nele que o time se encontr
 
 ---
 
-## 📧 Política de E-mails & Contas (Zero Burocracia)
+## 📧 Política de E-mails & Contas
+
+Você vai trabalhar com **duas identidades**, e cada uma tem o seu lugar:
+
+| Conta | Onde usar | De quem é |
+| :--- | :--- | :--- |
+| **Seu e-mail pessoal ou acadêmico** (o mesmo do seu GitHub) | Discord, Trello e GitHub. | Sua. Continua com você depois do estágio. |
+| **Conta corporativa do estágio** (e-mail da Studio4You) | Claude e demais ferramentas fornecidas pela empresa, e tudo que envolva dados da empresa ou de clientes. | Da Studio4You. É devolvida ao final do estágio. |
+
+### 🏢 A conta corporativa do estágio
 
 > [!IMPORTANT]
-> **Você NÃO receberá uma caixa de e-mail corporativa na hospedagem da empresa.**  
-> A Studio4You preza pela simplicidade operacional. Usamos o **mesmo e-mail cadastrado na sua conta do GitHub** (seja o seu e-mail pessoal ou o e-mail acadêmico `@alunos.utfpr.edu.br`).
+> **Cada estagiário recebe uma conta de e-mail da Studio4You, genérica e específica para o estágio.**  
+> O endereço e a senha inicial são entregues pelo gestor no Dia 1. A conta não leva o seu nome: ela pertence à vaga de estágio, não à pessoa.
 
-Esse único e-mail será o seu passaporte para:
+**Por que ela existe:**
+- **Os dados da empresa ficam em contas da empresa.** Conversas com o Claude, código de clientes e informações de projeto não devem ficar guardados em uma conta pessoal, que a Studio4You não controla nem consegue encerrar.
+- **O acesso ao Claude é feito por ela.** A licença é corporativa e vinculada ao e-mail da empresa (veja o [Módulo 08](./08-beneficios-e-ferramentas-premium.md)).
+- **O acesso termina junto com o estágio**, sem depender de você lembrar de apagar nada.
+
+**Regras de uso:**
+- **Uso exclusivamente profissional.** Não cadastre a conta em redes sociais, lojas, jogos, newsletters ou qualquer serviço pessoal.
+- **Não crie cadastro em serviço externo com ela sem combinar com o gestor.** Cada cadastro novo é mais um lugar com dado da empresa.
+- **Nada de conta pessoal para trabalho da empresa.** Não use o seu Claude pessoal, nem outra IA em conta pessoal, com código ou dados de projetos. O caminho inverso também vale: nada pessoal na conta corporativa.
+- **A conta não é privada.** Ela é da empresa e pode ser acessada e auditada pelo gestor a qualquer momento. Não guarde nela nada que seja seu.
+- **Senha individual e intransferível.** Não compartilhe com ninguém, nem com o outro estagiário: cada um tem a sua conta. Guarde a senha no gerenciador de senhas.
+- **A recuperação da conta fica com a empresa.** Não troque o e-mail ou o telefone de recuperação por dados pessoais. A autenticação em dois fatores é configurada junto com o gestor.
+- **Não encaminhe os e-mails para a sua conta pessoal**, nem configure redirecionamento automático.
+- **Não fale em nome da empresa.** Não envie e-mail a clientes ou fornecedores por essa conta sem alinhamento com o gestor.
+- **Não faça login em computador público ou emprestado.** Use só na sua máquina de trabalho, seguindo o Bloco de Segurança do [Módulo 05](./05-setup-ambiente-linux.md).
+- **Recebeu algo suspeito?** Não clique, e avise o gestor. Conta corporativa também é alvo de phishing.
+
+**No fim do estágio:** a conta é devolvida. O gestor troca a senha, encerra as sessões e a conta passa para o próximo estagiário. Não leve cópia de conversas, arquivos ou e-mails; o dever de sigilo continua valendo ([Módulo 13](./13-sigilo-etica-e-confidencialidade.md)).
+
+### 👤 O seu e-mail pessoal ou acadêmico
+
+Para comunicação e código, seguimos usando o **mesmo e-mail cadastrado na sua conta do GitHub** (o pessoal ou o acadêmico `@alunos.utfpr.edu.br`). Ele é o seu passaporte para:
 - O servidor oficial da Studio4You no **Discord**.
 - O Workspace e quadros de projeto no **Trello**.
 - As permissões e repositórios de código no **GitHub**.
+
+O seu perfil do GitHub é pessoal e continua sendo seu: o histórico de contribuições faz parte do seu portfólio.
 
 ---
 
