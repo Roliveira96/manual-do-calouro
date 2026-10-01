@@ -137,7 +137,7 @@ Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 ### ⚙️ Trilha 2: Engenharia, Setup & Gestão
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
 | :--- | :---: | :--- | :--- |
-| **05. Setup de Ambiente & Segurança** | `6 min` | Linux, Windows com WSL 2, macOS, Docker e o Bloco de Segurança Virtual. | [05-setup-ambiente-linux.md](./05-setup-ambiente-linux.md) |
+| **05. Setup de Ambiente & Segurança** | `15 min` | Linux, Windows com WSL 2, macOS, Docker e o Bloco de Segurança: 2FA, as 6 ameaças, LGPD e o que fazer em um incidente. | [05-setup-ambiente-linux.md](./05-setup-ambiente-linux.md) |
 | **06. Git & GitHub Workflow** | `5 min` | Fluxo de branches, commits, Pull Requests para a `develop` e resolução de conflitos. | [06-git-github-workflow.md](./06-git-github-workflow.md) |
 | **07. Gestão Interna (Manual do Gestor)** | `5 min` | Documento do gestor para conduzir rituais, 1:1, reembolsos e retenção. | [07-guia-de-gestao-interna.md](./07-guia-de-gestao-interna.md) |
 | **16. Padrões de Commit, Branch & PR** | `7 min` | Referência oficial: `TIPO/ descrição`, branch com card, PR com revisor, autorrevisão e uso de IA. | [16-padroes-de-commit-branch-e-pr.md](./16-padroes-de-commit-branch-e-pr.md) |

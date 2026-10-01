@@ -20,7 +20,7 @@ Como estagiário ou colaborador, você terá acesso a partes reais desse ecossis
 
 Ao ingressar na Studio4You, todo membro é vinculado a um termo de confidencialidade (**Non-Disclosure Agreement - NDA**):
 1. **Propriedade Intelectual:** Todo código-fonte, arquitetura, design de banco de dados, documentações e regras de negócio pertencem exclusivamente aos clientes e à Studio4You.
-2. **Dados Pessoais & LGPD:** Dados de usuários finais (nomes, e-mails, telefones, CPFs, cartões) são estritamente protegidos pela Lei Geral de Proteção de Dados (Lei nº 13.709/2018).
+2. **Dados Pessoais & LGPD:** Dados de usuários finais (nomes, e-mails, telefones, CPFs, cartões) são estritamente protegidos pela Lei Geral de Proteção de Dados (Lei nº 13.709/2018). O que a lei exige de você no dia a dia está no [Módulo 05](./05-setup-ambiente-linux.md).
 3. **Vigência:** O compromisso de sigilo não termina quando o seu estágio acaba; ele permanece válido permanentemente.
 
 ---
