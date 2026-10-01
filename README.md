@@ -92,7 +92,7 @@ Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 | :--- | :---: | :--- | :--- |
 | **11. Trilha de Decolagem (7 Dias)** | `5 min` | Checklist prático do Day 1 ao Day 5: acessos, Docker local e o primeiro PR! | [11-onboarding-primeiros-7-dias.md](docs/11-onboarding-primeiros-7-dias.md) |
 | **12. Primeiros Socorros / Troubleshooting** | `6 min` | Guia de sobrevivência: portas do Docker em uso, socket daemon, commit na main e merge. | [12-troubleshooting-primeiros-socorros.md](docs/12-troubleshooting-primeiros-socorros.md) |
-| **13. Sigilo, NDA & Redes Sociais** | `4 min` | Ética profissional, LGPD, o que NUNCA postar de clientes e o que postar com orgulho. | [13-sigilo-etica-e-confidencialidade.md](docs/13-sigilo-etica-e-confidencialidade.md) |
+| **13. Sigilo, NDA & Redes Sociais** | `6 min` | Ética profissional, LGPD, conduta pública, o que NUNCA postar e o que postar com orgulho. | [13-sigilo-etica-e-confidencialidade.md](docs/13-sigilo-etica-e-confidencialidade.md) |
 | **14. Dicionário do Calouro** | `5 min` | Glossário do dev moderno: Deploy, Staging, Migration, Seed, Payload, CORS e SLA. | [14-glossario-do-dev-moderno.md](docs/14-glossario-do-dev-moderno.md) |
 | **15. Critérios de Sucesso & Carreira** | `4 min` | Os 5 pilares de avaliação, feedbacks 1:1, projetos freela remunerados e efetivação. | [15-criterios-de-sucesso-e-carreira.md](docs/15-criterios-de-sucesso-e-carreira.md) |
 
