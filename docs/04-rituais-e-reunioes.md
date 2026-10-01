@@ -8,44 +8,43 @@
 
 ---
 
-## 📹 A Regra Suprema: Câmera Ligada!
+## 📹 Reuniões com Câmera: Conexão Humana & Presença Real
 
-Vamos começar falando da regra mais comentada (e mais cobrada pelo gestor):
+Na **Studio4You**, nossos encontros e rituais acontecem com a **câmera ligada**:
 
 > [!IMPORTANT]
-> **A CÂMERA DEVE ESTAR LIGADA EM TODAS AS REUNIÕES.**  
-> Não aceitamos ícone estático, tela preta, teto do quarto ou transmissão de fantasma.  
-> - Penteie o cabelo, coloque uma camiseta legal e ajeite a iluminação.  
-> - Estágio remoto requer conexão humana, confiança visual e foco mútuo.  
-> - Se você estiver com a câmera desligada sem um motivo de força maior pré-comunicado, a reunião nem começa!
+> **A câmera aberta é sobre aproximação, foco mútuo e empatia.**  
+> O estágio é remoto, mas a nossa equipe é feita de pessoas reais. Ver o rosto uns dos outros encurta distâncias, constrói confiança e torna a convivência muito mais acolhedora.  
+> - Não precisa de superprodução nem terno: uma camiseta limpa, o rosto visível e uma iluminação básica são mais que suficientes.  
+> - Teve um imprevisto (internet oscilando, webcam travou, ambiente barulhento)? Sem estresse: avise no canal antes de começar e participamos normalmente.
 
-### 🤔 Por que a câmera ligada é obrigatória?
+### 🤔 Por que a câmera ligada faz tanta diferença?
 
-Não é implicância nem vigilância. A regra existe porque, em um time remoto, a câmera é o único canal que devolve o que uma sala de reunião presencial entrega de graça.
+Não se trata de vigilância ou formalidade excessiva. Em um ambiente remoto, a câmera cumpre um papel fundamental para o time:
 
-- **Quem conduz a reunião precisa ver se está sendo acompanhado.** Com a câmera ligada, dá para perceber quem está prestando atenção e quem está distraído: olhando o celular, conversando com outra pessoa na sala, mexendo em outra aba. Uma tela preta não informa nada, e quem está explicando fica falando sozinho sem saber.
-- **A expressão do rosto avisa antes da voz.** Uma cara de dúvida mostra que a explicação não ficou clara e permite ao gestor parar e explicar de novo. Sem câmera, a dúvida só aparece dias depois, na forma de um card feito errado.
-- **Câmera ligada segura o seu próprio foco.** Sabendo que está sendo visto, você não abre outra aba nem pega o celular. A regra protege a sua atenção, não só a de quem fala.
-- **Presença gera confiança.** Em um time que quase nunca se encontra pessoalmente, ver o rosto um do outro é o que transforma nomes no Discord em colegas de equipe.
-- **É uma questão de respeito.** Quem preparou a reunião reservou tempo para você. Aparecer de verdade é o mínimo de retorno.
+- **Conexão humana real:** Ver o rosto dos colegas transforma nomes no Discord em companheiros de equipe, criando senso de pertencimento e proximidade no dia a dia.
+- **A expressão avisa antes da voz:** Quando alguém explica uma tarefa ou conceito, um olhar de dúvida ajuda o gestor ou mentor a perceber na hora que vale a pena pausar e explicar de outro jeito, evitando que a dúvida vire um travamento depois.
+- **Sintonia e foco conjunto:** Como as reuniões são muito breves, estar presente visualmente ajuda todo mundo a manter a mesma frequência e alinhar as prioridades do dia sem ruídos.
+- **Cultura de igualdade:** O gestor, os mentores e os estagiários ligam a câmera juntos. É um hábito compartilhado por toda a equipe, sem exceções.
 
-#### 🤝 Em reunião com cliente, vale em dobro
+#### 🤝 Em reuniões com clientes
 
-Quando você participa de uma reunião com cliente, a câmera ligada deixa de ser só uma regra interna e passa a ser a imagem da empresa:
+Quando você participa de uma conversa com clientes, a câmera ligada transmite segurança e comprometimento:
 
-- **Câmera ligada dá presença.** O cliente vê um time real, atento e comprometido com o projeto dele, e não uma lista de nomes mudos na chamada.
-- **Tela preta passa desinteresse.** O cliente não tem como saber se você está ouvindo, e a impressão que fica é a de alguém que não está nem aí.
-- **Você representa a Studio4You.** Postura, ambiente e atenção valem tanto quanto o que é dito. Capriche no enquadramento e na iluminação ([Módulo 09](./09-rotina-e-boas-praticas-remotas.md)).
+- **Transparência e credibilidade:** O cliente vê profissionais reais, dedicados ao projeto dele e atentos às suas necessidades.
+- **Desenvolvimento profissional:** É um ótimo laboratório para você praticar a postura e a comunicação interpessoal que o mercado de tecnologia valoriza.
 
-#### 📊 O que dizem as pesquisas
+#### 😌 Fique tranquilo: a câmera é para aproximar, não para vigiar
 
-- **Câmera desligada é lida como desengajamento.** Em uma pesquisa da Wakefield Research para a Vyopta (2022), com 200 executivos de empresas americanas com 500 funcionários ou mais, **93%** disseram considerar que quem desliga a câmera está, em geral, menos engajado no trabalho, e **92%** afirmaram que profissionais que ficam com frequência no mudo ou sem câmera provavelmente não têm futuro de longo prazo na empresa. Além disso, 43% suspeitam que quem está sem câmera está navegando na internet ou nas redes sociais ([Axios](https://www.axios.com/2022/04/15/trouble-for-workers-who-turn-cameras-off-zoom)). É uma pesquisa de opinião: ela não prova que a câmera melhora o trabalho, mas mostra como o mercado enxerga a tela preta.
-- **Câmera ligada também cansa, e nós sabemos disso.** Um experimento publicado no *Journal of Applied Psychology* (Shockley e colegas, 2021), com 103 participantes ao longo de quatro semanas, concluiu que manter a câmera ligada aumenta o cansaço em reuniões virtuais, com efeito maior em quem é novo no time ([Universidade da Geórgia](https://news.uga.edu/cameras-not-meetings-cause-zoom-fatigue/)).
+Ligar a câmera nos primeiros dias dá um friozinho na barriga em quase todo mundo, e isso é absolutamente natural. Para você participar com tranquilidade:
 
-Por isso a regra vem acompanhada de um compromisso nosso: **reuniões curtas e objetivas**. A Daily dura de 10 a 15 minutos justamente para que a câmera ligada seja um momento de presença, e não uma maratona.
+- **Ninguém está avaliando a sua casa ou sua aparência:** Não precisa de cenário decorado, iluminação profissional ou silêncio de estúdio. Se preferir mais privacidade, sinta-se à vontade para ativar o fundo desfocado (*blur*) ou um fundo virtual neutro.
+- **As reuniões são curtas de verdade:** A Daily dura apenas de 10 a 15 minutos! Não é uma maratona na frente da tela, mas sim um momento rápido de alinhamento diário.
+- **Imprevistos acontecem e ninguém vai se estressar:** A conexão caiu? A câmera não abriu? Tem barulho de obra no vizinho? Respire fundo, mande uma mensagem no canal avisando e acompanhe a chamada. Imprevistos técnicos acontecem com todo mundo.
+- **É um hábito que fica natural em poucos dias:** O nervosismo do início passa logo. Em pouco tempo, a câmera aberta se torna algo leve, espontâneo e confortável.
 
 > [!TIP]
-> **Para cansar menos:** oculte a sua própria imagem na chamada (você não passa o dia se olhando no espelho em uma reunião presencial), posicione a câmera na altura dos olhos e, em reuniões longas, combine uma pausa. Teve um imprevisto de verdade, como problema na câmera, na internet ou no ambiente? Avise antes da reunião começar: motivo de força maior comunicado com antecedência é sempre aceito.
+> **Dica de ouro para diminuir a timidez e o cansaço:** no Discord ou Google Meet, ative a opção de **ocultar a sua própria imagem**. Você continua visível para o time, mas para de ficar se olhando e se policiando na tela. É exatamente como em uma conversa presencial: a gente olha para os colegas, e não para o espelho!
 
 ---
 

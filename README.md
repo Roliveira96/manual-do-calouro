@@ -50,7 +50,7 @@ Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole n
 
 | # | Lei Sagrada | O Princípio que Você Deve Seguir |
 | :-: | :--- | :--- |
-| **1** | 📹 **Câmera Ligada nas Reuniões** | Nada de foto estática ou tela preta de podcast fantasma. Nas dailies e rituais, olho no olho. A presença humana gera confiança e aproxima o time remoto. |
+| **1** | 📹 **Câmera Ligada nas Reuniões** | Nas dailies e rituais, olho no olho. A presença visual gera acolhimento, confiança mútua e aproxima a equipe no dia a dia remoto. |
 | **2** | 🎯 **1 Card por Vez no Trello** | A regra inegociável do `Em Andamento`. Termine uma coisa antes de começar outra. Foco e consistência sempre vencem multitarefa desordenada. |
 | **3** | 🪜 **A Escadinha do Desbloqueio** | Travou em um erro? Siga a escadinha: **1º Pesquisa Ativa (15 min)** ➡️ **2º Ajuda com o Colega de Estágio** ➡️ **3º Ricardo (Gestor)** trazendo o contexto do que já foi testado. |
 | **4** | 💥 **Quebrou? Não Esconda!** | Cometeu um erro de Git ou quebrou a build? Avise imediatamente! Lembra da analogia da luz da injeção do carro: fita isolante preta por cima da lâmpada não impede o motor de fundir na estrada. |
@@ -75,7 +75,7 @@ Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 ### ⚙️ Trilha 2: Engenharia, Setup & Gestão
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
 | :--- | :---: | :--- | :--- |
-| **05. Setup de Ambiente & Segurança** | `15 min` | Linux, Windows com WSL 2, macOS, Docker e o Bloco de Segurança: 2FA, as 6 ameaças, LGPD e o que fazer em um incidente. | [05-setup-ambiente-linux.md](docs/05-setup-ambiente-linux.md) |
+| **05. Setup de Ambiente & Segurança** | `15 min` | Usuário de SO dedicado, Linux, Windows com WSL 2, macOS, Docker e o Bloco de Segurança: 2FA, 6 ameaças e LGPD. | [05-setup-ambiente-linux.md](docs/05-setup-ambiente-linux.md) |
 | **06. Git & GitHub Workflow** | `5 min` | Fluxo de branches, commits, Pull Requests para a `develop` e resolução de conflitos. | [06-git-github-workflow.md](docs/06-git-github-workflow.md) |
 | **07. Gestão Interna (Manual do Gestor)** | `5 min` | Documento do gestor para conduzir rituais, 1:1, reembolsos e retenção. | [07-guia-de-gestao-interna.md](docs/07-guia-de-gestao-interna.md) |
 | **16. Padrões de Commit, Branch & PR** | `7 min` | Referência oficial: `TIPO/ descrição`, branch com card, PR com revisor, autorrevisão e uso de IA. | [16-padroes-de-commit-branch-e-pr.md](docs/16-padroes-de-commit-branch-e-pr.md) |

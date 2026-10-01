@@ -23,7 +23,55 @@ O nosso requisito inegociável é que o seu ambiente consiga executar **Bash, Gi
 
 ---
 
-## 🪟 Para quem usa Windows: A Opção do WSL 2 (Windows Subsystem for Linux)
+## 👤 2. A Primeira Coisa a Fazer: Usuário Dedicado no SO (Isolamento Empresa vs. Pessoal)
+
+> [!IMPORTANT]
+> **Antes de instalar qualquer pacote, gerar chaves ou clonar repositórios:** crie um usuário no seu sistema operacional exclusivo para as atividades da Studio4You.  
+> Esta deve ser a sua **primeiríssima etapa de setup**. Ela cria uma barreira física e direta entre o seu ambiente de trabalho e o seu ambiente pessoal/acadêmico.
+
+### Por que isolar o ambiente da empresa do seu usuário pessoal?
+
+1. **Zero conflitos de ambiente e dependências:**
+   - Trabalhos de faculdade e projetos pessoais costumam exigir versões diferentes de Node.js, Python, bancos de dados e variáveis de ambiente globais.
+   - Com um usuário exclusivo, seu `~/.gitconfig` (com e-mail profissional/acadêmico da empresa), suas chaves SSH corporativas e as extensões do editor não se misturam nem quebram seus projetos particulares.
+2. **Segurança do código e proteção da sua privacidade:**
+   - No usuário pessoal do dia a dia é normal baixar jogos, mods, programas acadêmicos, torrents e extensões aleatórias no navegador. Se algum desses arquivos contiver um *infostealer*, suas credenciais e os repositórios da empresa não estarão acessíveis a ele, pois residem em outro perfil do sistema operacional.
+   - Sua privacidade também fica 100% protegida: seus arquivos pessoais, fotos e histórico de navegação não entram em contato com o ambiente de desenvolvimento da empresa.
+3. **Compartilhamento de tela sem constrangimentos:**
+   - Em reuniões de Daily, alinhamentos ou sessões de pareamento (*Pair Programming*), seu navegador e sua área de trabalho estarão limpos, sem o risco de abrir acidentalmente abas de WhatsApp Web, fotos ou conversas pessoais.
+4. **Desconexão saudável (saúde mental):**
+   - Ao encerrar a jornada de 6 horas do estágio, basta sair do usuário de trabalho. Isso ajuda você a "desligar a chave" mentalmente e focar no descanso ou na faculdade sem notificações de trabalho apitando.
+
+### Como criar seu usuário dedicado em cada sistema:
+
+#### 🐧 No Linux Nativo:
+Crie um usuário padrão dedicado (ex.: `studio4you`) com permissões de `sudo` e adicione ao grupo do Docker:
+```bash
+# 1. Cria o usuário studio4you
+sudo adduser studio4you
+
+# 2. Concede acesso de administrador e ao Docker
+sudo usermod -aG sudo,docker studio4you
+
+# 3. Alterne para o novo usuário para realizar os próximos passos deste manual
+su - studio4you
+```
+
+#### 🪟 No Windows (com WSL 2):
+Crie uma conta local dedicada no Windows:
+1. Vá em **Configurações** (`Win + I`) → **Contas** → **Outros usuários** (ou *Família e outros usuários*).
+2. Clique em **Adicionar conta** → *"Não tenho as informações de entrada desta pessoa"* → *"Adicionar um usuário sem uma conta Microsoft"*.
+3. Crie o usuário com o nome `Studio4You` (ou `Trabalho`) e defina uma senha.
+4. Entre nessa nova conta do Windows. A partir dela, você configurará o WSL 2, o VS Code e os navegadores de trabalho com total isolamento.
+
+#### 🍎 No macOS:
+1. Abra **Ajustes do Sistema** (ou *Preferências do Sistema*) → **Usuários e Grupos**.
+2. Clique em **Adicionar Conta...** e crie um usuário do tipo **Padrão** (ou Administrador) chamado `Studio4You`.
+3. Alterne para esse usuário para prosseguir com o setup de ferramentas.
+
+---
+
+## 🪟 3. Para quem usa Windows: A Opção do WSL 2 (Windows Subsystem for Linux)
 
 Se você tem Windows na sua máquina, **não precisa formatar o PC nem arriscar dual-boot!**  
 O Windows possui o **WSL 2**, uma tecnologia incrível da Microsoft que roda um kernel Linux Ubuntu genuíno diretamente dentro do Windows, com consumo mínimo de memória e integração total com o VS Code.
@@ -41,7 +89,7 @@ O Windows possui o **WSL 2**, uma tecnologia incrível da Microsoft que roda um 
 
 ---
 
-## 📦 Kit de Sobrevivência (Ubuntu Nativo ou WSL 2)
+## 📦 4. Kit de Sobrevivência (Ubuntu Nativo ou WSL 2)
 
 Dentro do seu terminal Linux (Ubuntu nativo ou WSL 2), prepare as ferramentas essenciais:
 
@@ -86,7 +134,7 @@ sudo usermod -aG docker $USER
 
 ---
 
-## 🛡️ 2. Bloco de Segurança Virtual & Higiene Cibernética
+## 🛡️ 5. Bloco de Segurança Virtual & Higiene Cibernética
 
 > [!CAUTION]
 > **A segurança da sua máquina é a segurança da empresa.**  
@@ -96,12 +144,13 @@ Desenvolvedor é alvo preferencial justamente por isso. Um atacante não precisa
 
 ---
 
-### 🧱 2.1 A base: a máquina blindada
+### 🧱 5.1 A base: a máquina blindada
 
 Vale para qualquer sistema operacional. Configure no primeiro dia.
 
 | Proteção | O que fazer | Por quê |
 | :--- | :--- | :--- |
+| **Usuário de SO dedicado** | Criar um usuário no sistema exclusivamente para o estágio antes de qualquer instalação ([conforme Seção 2](#-2-a-primeira-coisa-a-fazer-usuário-dedicado-no-so-isolamento-empresa-vs-pessoal)). | Isola o ambiente da empresa (chaves, senhas, código) dos seus arquivos pessoais, jogos e downloads, além de evitar conflito de versões e dependências. |
 | **Atualizações** | Sistema, navegador e editor sempre na última versão. Não adie a reinicialização por semanas. | A maioria das invasões explora falhas que já tinham correção publicada. |
 | **Bloqueio de tela** | Senha ou biometria, com bloqueio automático em poucos minutos. Levantou da mesa, bloqueou (`Win + L` no Windows, `Super + L` no Linux, `Ctrl + Cmd + Q` no macOS). | Um notebook aberto em um café ou na faculdade é acesso livre a tudo. |
 | **Disco criptografado** | BitLocker ou Criptografia do Dispositivo (Windows), FileVault (macOS), LUKS (Linux, escolhido na instalação). | Se o notebook for roubado, quem levou não consegue ler o disco. |
@@ -114,7 +163,7 @@ Vale para qualquer sistema operacional. Configure no primeiro dia.
 
 ---
 
-### 🔐 2.2 Contas e senhas
+### 🔐 5.2 Contas e senhas
 
 A sua conta do GitHub vale mais para um atacante do que a sua máquina.
 
@@ -127,7 +176,7 @@ A sua conta do GitHub vale mais para um atacante do que a sua máquina.
 
 ---
 
-### 🚨 2.3 As 6 Ameaças Reais do Mundo Dev
+### 🚨 5.3 As 6 Ameaças Reais do Mundo Dev
 
 ```mermaid
 flowchart TD
@@ -207,12 +256,12 @@ Você roda código de terceiros o dia inteiro. É a chamada cadeia de suprimento
 * **Wi-Fi público** (café, aeroporto, rede aberta) não é lugar de acessar servidor nem painel de cliente. Na dúvida, roteie a internet pelo celular.
 * **Roteador de casa:** troque a senha padrão de administração e use WPA2 ou WPA3 com uma senha forte.
 * **Pendrive desconhecido não se conecta**, nem "só para ver o que tem".
-* **Máquina de trabalho não é máquina da família.** Se o computador é compartilhado, crie um usuário separado para você, com senha.
+* **Usuário exclusivo de trabalho (mesmo se o computador for só seu):** seu primeiro passo foi criar um usuário no SO exclusivo para o estágio ([Seção 2](#-2-a-primeira-coisa-a-fazer-usuário-dedicado-no-so-isolamento-empresa-vs-pessoal)). Isso isola suas chaves SSH, sessões e código corporativo de downloads pessoais, jogos ou softwares acadêmicos. Se o computador for compartilhado com a família, essa separação é ainda mais indispensável para evitar acessos acidentais.
 * **Em lugar público**, cuidado com quem está vendo a sua tela, e nunca deixe o notebook sozinho.
 
 ---
 
-### ⚖️ 2.4 LGPD: a lei por trás dos dados que você manipula
+### ⚖️ 5.4 LGPD: a lei por trás dos dados que você manipula
 
 A **Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018)** define como empresas podem coletar, usar, guardar e compartilhar dados de pessoas. Ela vale para todo sistema que a Studio4You desenvolve e é fiscalizada pela **ANPD** (Autoridade Nacional de Proteção de Dados).
 
@@ -263,7 +312,7 @@ A lei lista dez princípios (art. 6º). Quatro deles aparecem no seu dia a dia:
 
 ---
 
-### 🩺 2.5 Sinais de que algo está errado
+### 🩺 5.5 Sinais de que algo está errado
 
 Nenhum deles é prova, mas todos merecem um aviso ao gestor:
 
@@ -275,7 +324,7 @@ Nenhum deles é prova, mas todos merecem um aviso ao gestor:
 
 ---
 
-### 🚒 2.6 Suspeitou de invasão? Os primeiros 15 minutos
+### 🚒 5.6 Suspeitou de invasão? Os primeiros 15 minutos
 
 > [!WARNING]
 > **Avise primeiro, investigue depois.** É a [Lei 4](../README.md) do manual: *Quebrou? Não Esconda!* Ninguém é punido por avisar cedo. O prejuízo de verdade vem do incidente escondido por vergonha, que dá ao invasor dias de vantagem.
@@ -285,13 +334,14 @@ Nenhum deles é prova, mas todos merecem um aviso ao gestor:
 3. **De outro dispositivo confiável**, troque as senhas, começando pelo e-mail e pelo GitHub.
 4. **Encerre as sessões e revogue os acessos:** no GitHub, saia de todas as sessões e remova chaves SSH e tokens. Faça o mesmo no Google e no Discord.
 5. **Liste as credenciais de projeto** que estavam na máquina (`.env`, tokens, acessos a servidor) para que o gestor possa trocá-las.
-6. **Informe se havia dados pessoais de clientes** na máquina ou ao alcance dos acessos comprometidos. Isso aciona as obrigações da LGPD (seção 2.4).
+6. **Informe se havia dados pessoais de clientes** na máquina ou ao alcance dos acessos comprometidos. Isso aciona as obrigações da LGPD (seção 5.4).
 7. **Só volte a usar a máquina** depois de combinar com o gestor a limpeza ou a reinstalação do sistema.
 
 ---
 
-### ✅ 2.7 Checklist de Segurança do Calouro
+### ✅ 5.7 Checklist de Segurança do Calouro
 
+- [ ] Usuário dedicado no sistema operacional configurado exclusivamente para o estágio (ambiente profissional isolado do pessoal).
 - [ ] Sistema operacional, navegador e editor atualizados.
 - [ ] Bloqueio de tela automático e disco criptografado.
 - [ ] Microsoft Defender ativo (Windows) e nenhum crack ou ativador instalado.
@@ -307,7 +357,7 @@ Nenhum deles é prova, mas todos merecem um aviso ao gestor:
 
 ---
 
-## 📜 Regra de Ouro: Documente o README.md do Projeto!
+## 📜 6. Regra de Ouro: Documente o README.md do Projeto!
 
 > [!IMPORTANT]
 > Toda vez que você clonar um repositório da Studio4You para trabalhar:

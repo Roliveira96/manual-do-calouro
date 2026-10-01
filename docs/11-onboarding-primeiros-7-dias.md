@@ -16,7 +16,7 @@ Na **Studio4You**, você **não precisa adivinhar**. Criamos esta **Trilha de De
 
 ```mermaid
 flowchart LR
-    D1["📅 Dia 1\nAcessos, Chave SSH\ne Leitura do Manual"] --> D2["💻 Dia 2\nHello World Local\n(Docker & Banco)"]
+    D1["📅 Dia 1\nUsuário Dedicado,\nAcessos e Manual"] --> D2["💻 Dia 2\nHello World Local\n(Docker & Banco)"]
     D2 --> D3["🎯 Dia 3\nPrimeiro Card Trello\n(Good First Issue)"]
     D3 --> D4["⚡ Dia 4\nCódigo & Commits\nSemânticos"]
     D4 --> D5["🎉 Dia 5\nPrimeiro Pull Request\ne Ritual de Sexta"]
@@ -29,6 +29,10 @@ flowchart LR
 Seu foco no primeiro dia é **deixar suas ferramentas prontas** para nunca mais perder tempo configurando ambiente.
 
 ### Checklist do Dia 1:
+- [ ] **Usuário Dedicado no Sistema Operacional (Passo Zero):**
+  - Antes de instalar ferramentas ou gerar chaves, crie um usuário no seu SO exclusivo para as atividades do estágio (`studio4you` ou `Trabalho`);
+  - Esse passo é fundamental para isolar o ambiente da empresa (chaves SSH, tokens, dependências, VS Code) de seus arquivos pessoais, jogos e dados acadêmicos, evitando conflitos de bibliotecas e vazamentos;
+  - Siga o passo a passo completo no [Módulo 05](./05-setup-ambiente-linux.md).
 - [ ] **Configuração do Discord:**
   - Entre no servidor da Studio4You pelo convite enviado pelo Ricardo;
   - Configure sua foto de perfil (rosto visível ou avatar profissional) e seu nome real;
