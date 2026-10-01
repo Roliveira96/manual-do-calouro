@@ -1,4 +1,4 @@
-> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 6 min*
 
 ---
 
@@ -70,7 +70,7 @@ flowchart TD
 * Pesquisou, testou e ainda está na dúvida? **Não venha direto no gestor ainda!**
 * Chame seu colega de estágio no Discord (canal `#duvidas` ou puxem uma salinha de voz).
 * Muitas vezes o seu colega acabou de passar por esse mesmo problema ontem ao configurar o ambiente dele, ou consegue enxergar uma vírgula ou dependência que você não viu por estar cansado.
-* **Ajudar o colega consolida o aprendizado dos dois.**
+* **Ajudar o colega consolida o aprendizado dos dois**, desde que seja ajuda de verdade: explicar e apontar o caminho, não fazer a tarefa por ele (veja o item 4 logo abaixo).
 
 #### 🚨 Nível 3: Aí sim, venha falar com o Gestor (Ricardo)!
 * Se você pesquisou com calma (Nível 1) e você e seu colega tentaram juntos e continuam travados (Nível 2): **agora é a hora perfeita de me chamar!**
@@ -88,6 +88,35 @@ Você terá liberdade para testar abordagens, sugerir melhorias e organizar seu 
 
 ### 4. Camaradagem e Espírito de Time
 Trabalho em equipe significa que a vitória de um é a vitória de todos. Ajudar um colega a destravar uma dependência ou compartilhar um link útil no Discord enriquece toda a equipe.
+
+#### 🤝 Ajudar é ensinar o caminho, não fazer pelo outro
+
+> *"Quem recebe a resposta pronta resolve o problema de hoje. Quem entende a resposta resolve os problemas de amanhã."*
+
+Existe uma diferença enorme entre **pedir ajuda** e **pedir para fazer**. A primeira faz os dois crescerem. A segunda cria o colega "sanguessuga": aquele que sempre pede socorro, recebe a solução, não aprende nada e volta no dia seguinte com a mesma dúvida. Ele não evolui e ainda atrasa quem está ajudando, que deixa o próprio card de lado para fazer o trabalho de dois.
+
+| | ✅ Ajudar | ❌ Fazer pelo outro |
+| :--- | :--- | :--- |
+| **Quem digita** | Quem pediu a ajuda. | Quem está ajudando. |
+| **O que se entrega** | Uma pista, uma pergunta, o link da documentação, a explicação do conceito. | O código pronto para copiar e colar. |
+| **Como termina** | Quem pediu consegue explicar a solução com as próprias palavras. | O card anda, mas quem pediu não sabe por quê. |
+| **Na próxima vez** | Resolve sozinho. | Pede de novo. |
+
+**Se você está pedindo ajuda:**
+- **Chegue com a lição de casa feita.** Passe pelo Nível 1 da escadinha antes: mostre o erro, o que você pesquisou e o que já tentou.
+- **Peça para entender, não para resolver.** *"Me explica por que isso acontece?"* em vez de *"arruma pra mim?"*.
+- **O teclado é seu.** Compartilhe a tela e digite você mesmo, mesmo que demore mais.
+- **Anote o que aprendeu.** Perguntar a mesma coisa duas vezes é sinal de que você recebeu a resposta, mas não aprendeu.
+- **Retribua.** Quando souber algo que o colega não sabe, é a sua vez de ensinar.
+
+**Se você está ajudando:**
+- **Não assuma o teclado nem mande o código pronto.** Faça perguntas, aponte onde olhar e deixe o colega chegar à solução.
+- **O seu card continua sendo a sua prioridade.** Ajudar é parte do trabalho; fazer o trabalho do outro não é.
+- **Você pode dizer não.** Um *"agora estou no meio do meu card, te chamo em 30 minutos"* ou *"o que você já tentou?"* é uma resposta profissional, não falta de coleguismo.
+- **Virou rotina? Fale com o gestor.** Se o mesmo colega pede a mesma coisa toda semana, ou os pedidos estão atrapalhando as suas entregas, traga isso no 1:1. Não é dedurar: é sinal de que alguém precisa de um apoio diferente, e isso é papel do gestor.
+
+> [!WARNING]
+> **Entregar o que você não sabe explicar não conta como entrega.** No code review e no 1:1 você vai ser perguntado sobre o seu próprio código. Autonomia e evolução são critérios de avaliação do estágio ([Módulo 15](./15-criterios-de-sucesso-e-carreira.md)), e isso vale tanto para o código feito pelo colega quanto para o código feito pela IA ([Módulo 16](./16-padroes-de-commit-branch-e-pr.md)).
 
 ### 5. Maturidade Profissional: Menos Melindre, Mais Engenharia (Zero "Mimimi") 🎯
 
@@ -129,7 +158,7 @@ Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 ### 🏛️ Trilha 1: Boas-Vindas, Cultura & Rituais
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
 | :--- | :---: | :--- | :--- |
-| **01. Boas-Vindas & Cultura** | `4 min` | *(Você está aqui)* Mindset de crescimento, postura profissional e escadinha de dúvidas. | [01-boas-vindas-e-cultura.md](./01-boas-vindas-e-cultura.md) |
+| **01. Boas-Vindas & Cultura** | `6 min` | *(Você está aqui)* Mindset de crescimento, postura profissional e escadinha de dúvidas. | [01-boas-vindas-e-cultura.md](./01-boas-vindas-e-cultura.md) |
 | **02. Comunicação no Discord** | `5 min` | Conta corporativa do estágio, regras dos canais de texto (`#avisos`, `#duvidas`), salas de voz e etiqueta. | [02-comunicacao-discord.md](./02-comunicacao-discord.md) |
 | **03. O Tao do Trello & Sprints** | `4 min` | Fluxo das 5 colunas Kanban, limite de WIP e anatomia do card perfeito. | [03-fluxo-trello-e-sprints.md](./03-fluxo-trello-e-sprints.md) |
 | **04. Rituais & Reuniões** | `4 min` | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas UTFPR. | [04-rituais-e-reunioes.md](./04-rituais-e-reunioes.md) |
