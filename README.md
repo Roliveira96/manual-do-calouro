@@ -40,7 +40,7 @@ Se você chegou até aqui, significa que vimos potencial em você para construir
 Este repositório é o seu **Manual de Bordo Oficial**. Ele foi desenhado para preparar você para a rotina real de desenvolvimento, alinhar expectativas, eliminar o medo de errar e guiar sua evolução rumo à senioridade e autonomia.
 
 > [!TIP]
-> **Como ler este manual:** Reserve seu 1º dia para ler as **Trilhas 1 e 2**. Em seguida, siga passo a passo a [Trilha de Decolagem dos Primeiros 7 Dias](docs/11-onboarding-primeiros-7-dias.md) para subir seu ambiente sem atrito!
+> **Como ler este manual:** Ele é [atualizado constantemente](#-este-manual-é-vivo-acompanhe-e-contribua), então volte sempre. Reserve seu 1º dia para ler as **Trilhas 1 e 2**. Em seguida, siga passo a passo a [Trilha de Decolagem dos Primeiros 7 Dias](docs/11-onboarding-primeiros-7-dias.md) para subir seu ambiente sem atrito!
 
 ---
 
@@ -104,6 +104,44 @@ Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 | **📢 Divulgação da Vaga** | Modelos prontos para LinkedIn, WhatsApp e Murais da UTFPR. | [divulgacao-da-vaga.md](docs/divulgacao-da-vaga.md) |
 | **📝 Template: Relatório Quinzenal** | Modelo oficial UTFPR pronto para preenchimento a cada 15 dias. | [relatorio-quinzenal-utfpr.md](docs/templates/relatorio-quinzenal-utfpr.md) |
 | **💡 Exemplo de Relatório Preenchido** | Modelo real preenchido com humor e clareza como referência. | [exemplo-preenchido-relatorio.md](docs/templates/exemplo-preenchido-relatorio.md) |
+
+---
+
+## 📝 Este Manual é Vivo: Acompanhe e Contribua
+
+> [!IMPORTANT]
+> **Este manual é atualizado o tempo todo.** Regras, padrões e processos mudam conforme a empresa evolui, e a versão que vale é sempre a que está na branch `main` deste repositório, não a que você leu no primeiro dia. *"Eu não sabia que tinha mudado"* não é justificativa: ficar atento às atualizações faz parte do seu trabalho.
+
+### 👀 Como ficar esperto com as mudanças
+
+- **Atualize a sua cópia toda segunda-feira**, antes da Sprint Planning, e veja o que mudou:
+  ```bash
+  git pull origin main
+  git log --oneline -10
+  ```
+- **Leia o histórico de commits** no GitHub (aba **Commits**) para ver exatamente o que foi alterado em cada módulo.
+- **Fique de olho no `#avisos`** do Discord: mudanças importantes de regra são comunicadas por lá.
+- **Releia o módulo quando for usá-lo.** Vai abrir um PR? Confira o [Módulo 16](docs/16-padroes-de-commit-branch-e-pr.md) de novo, ele pode ter mudado.
+
+### 🤝 Achou algo para melhorar? Abra um PR!
+
+Este manual também é seu. Você, que acabou de passar pelo onboarding, é quem melhor enxerga o que está confuso, desatualizado ou faltando. **Qualquer estagiário pode e deve abrir Pull Requests de melhoria**, por exemplo:
+
+- Erro de digitação, link quebrado ou texto confuso;
+- Comando que não funcionou no seu ambiente, com a correção que funcionou;
+- Um passo que faltava e que você descobriu na prática;
+- Um problema novo e a solução para o [Módulo 12 (Primeiros Socorros)](docs/12-troubleshooting-primeiros-socorros.md);
+- Um termo que você não conhecia para o [Módulo 14 (Dicionário)](docs/14-glossario-do-dev-moderno.md).
+
+**Como contribuir:**
+
+1. Crie uma branch no padrão do [Módulo 16](docs/16-padroes-de-commit-branch-e-pr.md), por exemplo `docs/corrige-comando-docker-wsl`;
+2. Faça a alteração e o commit, por exemplo `DOCS/ corrige comando do docker no WSL`;
+3. Abra o PR com a descrição preenchida e marque o gestor como revisor. Este repositório tem apenas a branch `main`, então aqui o PR aponta para ela;
+4. Aguarde a revisão. Nada entra sem aprovação.
+
+> [!NOTE]
+> **Correção e melhoria de texto: é só abrir o PR. Mudança de regra: converse antes.** Se a sua sugestão altera um processo ou uma política da empresa, leve a ideia ao gestor na Daily ou no 1:1; a decisão é dele. E, como em qualquer repositório, nada de dado de cliente, credencial ou print de projeto real nos exemplos.
 
 ---
 

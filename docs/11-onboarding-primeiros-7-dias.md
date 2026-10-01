@@ -44,7 +44,8 @@ Seu foco no primeiro dia é **deixar suas ferramentas prontas** para nunca mais 
   - Cadastre a chave pública no seu perfil do GitHub (**Settings -> SSH and GPG keys**).
 - [ ] **Leitura Atenta do Manual do Calouro:**
   - Leia do [Módulo 01](./01-boas-vindas-e-cultura.md) ao [Módulo 06](./06-git-github-workflow.md);
-  - Anote termos que você não conhecia para consultar no [Dicionário do Calouro](./14-glossario-do-dev-moderno.md).
+  - Anote termos que você não conhecia para consultar no [Dicionário do Calouro](./14-glossario-do-dev-moderno.md);
+  - Anote também o que estava confuso, desatualizado ou faltando: o manual é [atualizado constantemente](../README.md) e você pode abrir um PR de melhoria.
 - [ ] **Aviso de Conclusão:**
   - Mande uma mensagem no canal `#avisos` ou no privado do Ricardo: *"Ambiente base e Git configurados, pronto para o próximo passo!"*.
 

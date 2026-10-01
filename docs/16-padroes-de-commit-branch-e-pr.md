@@ -14,6 +14,8 @@ O [Módulo 06](./06-git-github-workflow.md) mostra o fluxo do dia a dia. Este m�
 
 Se houver dúvida entre o que está aqui e o que está em outro módulo, vale o que está aqui.
 
+Estes padrões são revisados com frequência. Releia este módulo de tempos em tempos e, se encontrar algo a melhorar, abra um PR no repositório do manual (veja o [README](../README.md)).
+
 ### As regras em uma tela
 
 | # | Regra | Resumo |
