@@ -33,10 +33,11 @@ Seu foco no primeiro dia é **deixar suas ferramentas prontas** para nunca mais 
   - Antes de instalar ferramentas ou gerar chaves, crie um usuário no seu SO exclusivo para as atividades do estágio (`studio4you` ou `Trabalho`);
   - Esse passo é fundamental para isolar o ambiente da empresa (chaves SSH, tokens, dependências, VS Code) de seus arquivos pessoais, jogos e dados acadêmicos, evitando conflitos de bibliotecas e vazamentos;
   - Siga o passo a passo completo no [Módulo 05](./05-setup-ambiente-linux.md).
-- [ ] **Configuração do Discord:**
+- [ ] **Configuração do Discord & Contato de Emergência:**
   - Entre no servidor da Studio4You pelo convite enviado pelo Ricardo;
   - Configure sua foto de perfil (rosto visível ou avatar profissional) e seu nome real;
-  - Apresente-se no canal `#geral-bate-papo` com um olá para o time.
+  - Apresente-se no canal `#geral-bate-papo` com um olá para o time;
+  - Salve na agenda do seu celular o telefone oficial da Studio4You para avisos rápidos e emergências: **`+55 (42) 98867-7888`** ([Módulo 02](./02-comunicacao-contas-e-discord.md)).
 - [ ] **Conta Corporativa do Estágio:**
   - Receba do Ricardo o e-mail da Studio4You destinado ao estágio e a senha inicial;
   - Faça o primeiro login, guarde a senha no gerenciador de senhas e configure a autenticação em dois fatores junto com o gestor;

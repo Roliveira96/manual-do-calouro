@@ -117,7 +117,7 @@ Basta você fazer a ponte e apresentar o contato para o gestor (**Ricardo**). A 
 1. **Quem pode participar:** Qualquer estagiário ou colaborador ativo da Studio4You.
 2. **Gatilho de Pagamento:** A bonificação de 5% é creditada via PIX proporcionalmente aos valores efetivamente quitados pelo cliente na conta da empresa (ex: se o projeto for pago em 2 parcelas de R$ 5.000, você recebe R$ 250 a cada parcela recebida).
 3. **Sem Teto de Ganhos:** Não existe limite! Quanto mais clientes você indicar que fecharem com a empresa, mais bonificações você acumula no mês.
-4. **Como Fazer a Indicação:** Basta chamar o Ricardo no Discord ou WhatsApp informando o nome da pessoa/empresa, contato e a demanda.
+4. **Como Fazer a Indicação:** Basta chamar o Ricardo no Discord ou no WhatsApp corporativo [**+55 (42) 98867-7888**](https://api.whatsapp.com/send?phone=5542988677888&text=Ol%C3%A1%21+Gostaria+de+tirar+d%C3%BAvidas+e+entender+melhor+as+solu%C3%A7%C3%B5es+para+o+meu+neg%C3%B3cio.) informando o nome da pessoa/empresa, contato e a demanda.
 5. **Relação Ganha-Ganha:** O cliente recebe engenharia de ponta, a empresa cresce e você é reconhecido e recompensado financeiramente com dinheiro na mão!
 
 ---

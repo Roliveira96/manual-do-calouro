@@ -40,7 +40,7 @@ Ligar a câmera nos primeiros dias dá um friozinho na barriga em quase todo mun
 
 - **Ninguém está avaliando a sua casa ou sua aparência:** Não precisa de cenário decorado, iluminação profissional ou silêncio de estúdio. Se preferir mais privacidade, sinta-se à vontade para ativar o fundo desfocado (*blur*) ou um fundo virtual neutro.
 - **As reuniões são curtas de verdade:** A Daily dura apenas de 10 a 15 minutos! Não é uma maratona na frente da tela, mas sim um momento rápido de alinhamento diário.
-- **Imprevistos acontecem e ninguém vai se estressar:** A conexão caiu? A câmera não abriu? Tem barulho de obra no vizinho? Respire fundo, mande uma mensagem no canal avisando e acompanhe a chamada. Imprevistos técnicos acontecem com todo mundo.
+- **Imprevistos acontecem e ninguém vai se estressar:** A conexão caiu? A câmera não abriu? Tem barulho de obra no vizinho? Respire fundo, mande uma mensagem no canal avisando (ou envie um WhatsApp rápido para **[(42) 98867-7888](https://api.whatsapp.com/send?phone=5542988677888)** caso esteja sem internet no PC) e acompanhe a chamada. Imprevistos técnicos acontecem com todo mundo.
 - **É um hábito que fica natural em poucos dias:** O nervosismo do início passa logo. Em pouco tempo, a câmera aberta se torna algo leve, espontâneo e confortável.
 
 > [!TIP]
@@ -60,6 +60,7 @@ A **Studio4You** opera de **segunda a sexta-feira** nos seguintes turnos oficiai
 
 > [!NOTE]
 > - **Carga horária do estágio:** Os estagiários cumprem sua jornada contratual (normalmente 6h diárias / 30h semanais) distribuída dentro dessa janela de operação, alinhada diretamente com o gestor para conciliar perfeitamente com as aulas e compromissos na UTFPR.
+> - **Contato rápido para emergências:** Se você estiver sem acesso ao Discord por queda de luz ou internet, avise a gestão pelo WhatsApp ou ligação no **[(42) 98867-7888](https://api.whatsapp.com/send?phone=5542988677888)** ([Módulo 02](./02-comunicacao-contas-e-discord.md)).
 > - **Desconexão respeitada:** Fora desse expediente (antes das 09h, durante o almoço das 12h às 14h, após as 18h e nos fins de semana), você não tem obrigação de responder mensagens nem trabalhar. O descanso e os estudos são sagrados!
 
 ---

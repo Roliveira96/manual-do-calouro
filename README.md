@@ -26,9 +26,9 @@
 
 ## ⚡ Central de Comando Rápido (Quick Links)
 
-| 💬 Discord Oficial | 📋 Quadro do Trello | 🕒 Expediente Oficial | 🌐 Site Studio4You |
-| :---: | :---: | :---: | :---: |
-| **QG & Dailies**<br>[👉 Ir para Canais](#) | **Gestão de Sprints**<br>[👉 Ver Meus Cards](#) | **Segunda a Sexta**<br>`09h–12h` & `14h–18h` | **Software House**<br>[👉 studio4you.com.br](https://studio4you.com.br) |
+| 💬 Discord Oficial | 📋 Quadro do Trello | 🕒 Expediente Oficial | 📱 WhatsApp & Linha Direta | 🌐 Site Studio4You |
+| :---: | :---: | :---: | :---: | :---: |
+| **QG & Dailies**<br>[👉 Ir para Canais](#) | **Gestão de Sprints**<br>[👉 Ver Meus Cards](#) | **Segunda a Sexta**<br>`09h–12h` & `14h–18h` | **Avisos & Urgências**<br>[👉 (42) 98867-7888](https://api.whatsapp.com/send?phone=5542988677888&text=Ol%C3%A1%21+Gostaria+de+tirar+d%C3%BAvidas+e+entender+melhor+as+solu%C3%A7%C3%B5es+para+o+meu+neg%C3%B3cio.) | **Software House**<br>[👉 studio4you.com.br](https://studio4you.com.br) |
 
 ---
 

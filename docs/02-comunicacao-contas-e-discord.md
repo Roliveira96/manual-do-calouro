@@ -148,6 +148,26 @@ O nosso servidor opera nos horários oficiais de expediente da Studio4You (de **
 
 ---
 
+## 📱 Avisos Rápidos, Emergências & WhatsApp
+
+Embora o **Discord** seja o nosso canal oficial para trabalho e rotina diária, há situações em que você precisa de contato imediato ou está sem internet no computador (ex.: luz acabou, internet caiu antes da Daily ou incidente de segurança).
+
+Para **avisos rápidos, urgências ou emergências**, utilize nossa linha direta:
+
+* 📞 **Ligação telefônica & WhatsApp:** [`+55 (42) 98867-7888`](https://api.whatsapp.com/send?phone=5542988677888&text=Ol%C3%A1%21+Gostaria+de+tirar+d%C3%BAvidas+e+entender+melhor+as+solu%C3%A7%C3%B5es+para+o+meu+neg%C3%B3cio.)
+* 💬 **Link direto para mensagem no WhatsApp:** [Iniciar Conversa no WhatsApp](https://api.whatsapp.com/send?phone=5542988677888&text=Ol%C3%A1%21+Gostaria+de+tirar+d%C3%BAvidas+e+entender+melhor+as+solu%C3%A7%C3%B5es+para+o+meu+neg%C3%B3cio.)
+
+### Quando acionar por WhatsApp ou ligação?
+- ⚡ **Queda de conexão ou energia:** Se sua internet ou luz cair e você não conseguir entrar no Discord para a Daily, mande um WhatsApp rápido pelo celular avisando o time.
+- 🚨 **Suspeita de invasão cibernética:** Conforme o [Módulo 05](./05-setup-ambiente-linux.md), desconecte o computador da rede e ligue imediatamente para o gestor.
+- 🏥 **Imprevistos de saúde ou familiares:** Situações urgentes de força maior comunicadas com agilidade.
+- 🤝 **Indicação comercial de clientes:** Envio de novos leads para o programa Indique e Ganhe ([Módulo 08](./08-beneficios-e-ferramentas-premium.md)).
+
+> [!TIP]
+> Salve o número **(42) 98867-7888** na agenda do seu celular logo no primeiro dia de estágio como **"Studio4You - Emergências / Gestão"**.
+
+---
+
 ## 🤝 Manual de Boas Maneiras no Discord
 
 1. **A Escadinha do Canal `#duvidas` (Pesquise ➡️ Colega ➡️ Gestor):**

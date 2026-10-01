@@ -330,7 +330,7 @@ Nenhum deles é prova, mas todos merecem um aviso ao gestor:
 > **Avise primeiro, investigue depois.** É a [Lei 4](../README.md) do manual: *Quebrou? Não Esconda!* Ninguém é punido por avisar cedo. O prejuízo de verdade vem do incidente escondido por vergonha, que dá ao invasor dias de vantagem.
 
 1. **Desconecte a máquina da internet** (Wi-Fi e cabo). Não desligue nem formate: isso apaga pistas importantes.
-2. **Avise o gestor imediatamente**, por ligação ou pelo celular. Conte o que aconteceu, o que você clicou ou instalou e a que horas.
+2. **Avise o gestor imediatamente**, por ligação telefônica ou WhatsApp no número **[+55 (42) 98867-7888](https://api.whatsapp.com/send?phone=5542988677888)**. Conte o que aconteceu, o que você clicou ou instalou e a que horas.
 3. **De outro dispositivo confiável**, troque as senhas, começando pelo e-mail e pelo GitHub.
 4. **Encerre as sessões e revogue os acessos:** no GitHub, saia de todas as sessões e remova chaves SSH e tokens. Faça o mesmo no Google e no Discord.
 5. **Liste as credenciais de projeto** que estavam na máquina (`.env`, tokens, acessos a servidor) para que o gestor possa trocá-las.
