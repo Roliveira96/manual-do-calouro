@@ -15,7 +15,7 @@ Chegar em uma empresa de tecnologia dá aquele friozinho na barriga:
 - *"E se eu fizer uma pergunta óbvia e acharem que não sei nada?"* (A única pergunta boba é aquela que você guarda para si e te faz perder dois dias).
 - *"Será que preciso fingir que domino tudo?"* (Definitivamente não. Seja sincero sobre o que sabe e o que ainda não viu).
 
-O estágio na Studio4You é uma ponte entre o mundo acadêmico (aulas, provas, teoria da UTFPR) e o mercado de software real (clientes, prazos, código sustentável, trabalho colaborativo). Nosso objetivo é que você saia desse período infinitamente melhor do que quando entrou.
+O estágio na Studio4You é fruto de uma parceria com a [Universidade Tecnológica Federal do Paraná (UTFPR)](https://www.utfpr.edu.br), criando uma ponte entre o mundo acadêmico (aulas, provas, teoria) e o mercado de software real (clientes, prazos, código sustentável, trabalho colaborativo). Nosso objetivo é que você saia desse período infinitamente melhor do que quando entrou.
 
 ---
 

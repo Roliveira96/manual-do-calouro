@@ -64,7 +64,7 @@ Quando você se apresenta como parte da Studio4You, o que você publica é lido 
 | **Gestor e colegas** | Piadas, prints de conversas, críticas ao código ou ao trabalho de alguém. |
 | **Clientes e seus negócios** | *"Olha que código horrível desse cliente X"*, comentários sobre pedidos ou prazos do cliente. |
 | **As tecnologias que usamos nos projetos** | *"Essa stack é ultrapassada"*, *"me obrigam a usar tal framework"*, reclamações sobre sistema legado de cliente. |
-| **Parceiros** | UTFPR, Inova Guarapuava, fornecedores e ferramentas contratadas. |
+| **Parceiros** | [UTFPR (Universidade Tecnológica Federal do Paraná)](https://www.utfpr.edu.br), Inova Guarapuava, fornecedores e ferramentas contratadas. |
 
 **Onde a regra vale:** em qualquer lugar fora dos canais internos. Isso inclui perfil pessoal, Stories para "melhores amigos", grupos de WhatsApp e Discord da faculdade, fóruns, comentários em vídeos, GitHub pessoal e também mensagens privadas, que viram print em segundos.
 

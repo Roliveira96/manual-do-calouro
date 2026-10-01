@@ -112,7 +112,7 @@ Com a rotina quinzenal estabelecida:
 
 ### 🛡️ Gestão de Dias de Prova (Folga Integral para Estudos):
 - **Trabalho não permitido:** Em dias de provas, avaliações teóricas/práticas ou bancas da UTFPR, **o estagiário tem folga total**. Ele não deve mexer em código, não deve participar de cerimônias e não deve ter cards atribuídos no Trello nesses dias.
-- **Conformidade Legal & Parceria:** Essa política atende à Lei Federal de Estágio (Lei nº 11.788/2008) e fortalece o compromisso formativo da Studio4You com a UTFPR.
+- **Conformidade Legal & Parceria:** Essa política atende à Lei Federal de Estágio (Lei nº 11.788/2008) e fortalece o compromisso formativo da Studio4You em parceria com a [Universidade Tecnológica Federal do Paraná (UTFPR)](https://www.utfpr.edu.br).
 - Exija apenas o aviso prévio das datas para organizar o backlog da semana sem surpresas.
 
 ### 🍔 Diretriz de Reembolso do Happy Hour Mensal:
