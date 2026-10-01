@@ -70,7 +70,7 @@ Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 | **01. Boas-Vindas & Cultura** | `6 min` | Mindset de crescimento, postura profissional e escadinha de dúvidas. | [01-boas-vindas-e-cultura.md](docs/01-boas-vindas-e-cultura.md) |
 | **02. Comunicação, Contas & Discord** | `8 min` | Conta corporativa do estágio, bloco legal sobre cópia de dados, canais do Discord (`#avisos`, `#duvidas`) e etiqueta. | [02-comunicacao-contas-e-discord.md](docs/02-comunicacao-contas-e-discord.md) |
 | **03. O Tao do Trello & Sprints** | `4 min` | Fluxo das 5 colunas Kanban, limite de WIP e anatomia do card perfeito. | [03-fluxo-trello-e-sprints.md](docs/03-fluxo-trello-e-sprints.md) |
-| **04. Rituais & Reuniões** | `4 min` | Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas UTFPR. | [04-rituais-e-reunioes.md](docs/04-rituais-e-reunioes.md) |
+| **04. Rituais & Reuniões** | `6 min` | Por que a câmera fica ligada, Dailies (10-15m), Segundas (Plan), Sextas (Review), Pairing e folga em provas UTFPR. | [04-rituais-e-reunioes.md](docs/04-rituais-e-reunioes.md) |
 
 ### ⚙️ Trilha 2: Engenharia, Setup & Gestão
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |

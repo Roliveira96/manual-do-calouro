@@ -1,4 +1,4 @@
-> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 4 min*
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 6 min*
 
 ---
 
@@ -18,6 +18,34 @@ Vamos começar falando da regra mais comentada (e mais cobrada pelo gestor):
 > - Penteie o cabelo, coloque uma camiseta legal e ajeite a iluminação.  
 > - Estágio remoto requer conexão humana, confiança visual e foco mútuo.  
 > - Se você estiver com a câmera desligada sem um motivo de força maior pré-comunicado, a reunião nem começa!
+
+### 🤔 Por que a câmera ligada é obrigatória?
+
+Não é implicância nem vigilância. A regra existe porque, em um time remoto, a câmera é o único canal que devolve o que uma sala de reunião presencial entrega de graça.
+
+- **Quem conduz a reunião precisa ver se está sendo acompanhado.** Com a câmera ligada, dá para perceber quem está prestando atenção e quem está distraído: olhando o celular, conversando com outra pessoa na sala, mexendo em outra aba. Uma tela preta não informa nada, e quem está explicando fica falando sozinho sem saber.
+- **A expressão do rosto avisa antes da voz.** Uma cara de dúvida mostra que a explicação não ficou clara e permite ao gestor parar e explicar de novo. Sem câmera, a dúvida só aparece dias depois, na forma de um card feito errado.
+- **Câmera ligada segura o seu próprio foco.** Sabendo que está sendo visto, você não abre outra aba nem pega o celular. A regra protege a sua atenção, não só a de quem fala.
+- **Presença gera confiança.** Em um time que quase nunca se encontra pessoalmente, ver o rosto um do outro é o que transforma nomes no Discord em colegas de equipe.
+- **É uma questão de respeito.** Quem preparou a reunião reservou tempo para você. Aparecer de verdade é o mínimo de retorno.
+
+#### 🤝 Em reunião com cliente, vale em dobro
+
+Quando você participa de uma reunião com cliente, a câmera ligada deixa de ser só uma regra interna e passa a ser a imagem da empresa:
+
+- **Câmera ligada dá presença.** O cliente vê um time real, atento e comprometido com o projeto dele, e não uma lista de nomes mudos na chamada.
+- **Tela preta passa desinteresse.** O cliente não tem como saber se você está ouvindo, e a impressão que fica é a de alguém que não está nem aí.
+- **Você representa a Studio4You.** Postura, ambiente e atenção valem tanto quanto o que é dito. Capriche no enquadramento e na iluminação ([Módulo 09](./09-rotina-e-boas-praticas-remotas.md)).
+
+#### 📊 O que dizem as pesquisas
+
+- **Câmera desligada é lida como desengajamento.** Em uma pesquisa da Wakefield Research para a Vyopta (2022), com 200 executivos de empresas americanas com 500 funcionários ou mais, **93%** disseram considerar que quem desliga a câmera está, em geral, menos engajado no trabalho, e **92%** afirmaram que profissionais que ficam com frequência no mudo ou sem câmera provavelmente não têm futuro de longo prazo na empresa. Além disso, 43% suspeitam que quem está sem câmera está navegando na internet ou nas redes sociais ([Axios](https://www.axios.com/2022/04/15/trouble-for-workers-who-turn-cameras-off-zoom)). É uma pesquisa de opinião: ela não prova que a câmera melhora o trabalho, mas mostra como o mercado enxerga a tela preta.
+- **Câmera ligada também cansa, e nós sabemos disso.** Um experimento publicado no *Journal of Applied Psychology* (Shockley e colegas, 2021), com 103 participantes ao longo de quatro semanas, concluiu que manter a câmera ligada aumenta o cansaço em reuniões virtuais, com efeito maior em quem é novo no time ([Universidade da Geórgia](https://news.uga.edu/cameras-not-meetings-cause-zoom-fatigue/)).
+
+Por isso a regra vem acompanhada de um compromisso nosso: **reuniões curtas e objetivas**. A Daily dura de 10 a 15 minutos justamente para que a câmera ligada seja um momento de presença, e não uma maratona.
+
+> [!TIP]
+> **Para cansar menos:** oculte a sua própria imagem na chamada (você não passa o dia se olhando no espelho em uma reunião presencial), posicione a câmera na altura dos olhos e, em reuniões longas, combine uma pausa. Teve um imprevisto de verdade, como problema na câmera, na internet ou no ambiente? Avise antes da reunião começar: motivo de força maior comunicado com antecedência é sempre aceito.
 
 ---
 
