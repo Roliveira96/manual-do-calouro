@@ -110,7 +110,7 @@ git checkout feat/minha-nova-funcionalidade
 ## ⚔️ 4. Git: Conflito de Merge Travado (`Merge Conflict`)
 
 ### 🔴 O Sintoma:
-Ao rodar `git merge main`, o terminal avisa:
+Ao rodar `git merge develop`, o terminal avisa:
 ```text
 CONFLICT (content): Merge conflict in src/App.vue
 Automatic merge failed; fix conflicts and then commit the result.
@@ -127,12 +127,12 @@ Outro desenvolvedor alterou exatamente as mesmas linhas que você no mesmo arqui
    <button class="bg-blue-600 text-white">Salvar Alterações</button>
    =======
    <button class="bg-indigo-600 text-white font-bold">Salvar Dados</button>
-   >>>>>>> main (Versão que veio da main)
+   >>>>>>> develop (Versão que veio da develop)
    ```
 2. **Escolha o que deve ficar:**
    - O VS Code exibirá botões rápidos no topo:
      - `Accept Current Change` (mantém o seu código);
-     - `Accept Incoming Change` (mantém o código que veio da main);
+     - `Accept Incoming Change` (mantém o código que veio da develop);
      - `Accept Both Changes` (mantém os dois);
    - Ou simplesmente apague as linhas de controle (`<<<<<<<`, `=======`, `>>>>>>>`) e edite o arquivo para ficar exatamente como você deseja.
 3. **Teste se o código roda:**
@@ -140,7 +140,7 @@ Outro desenvolvedor alterou exatamente as mesmas linhas que você no mesmo arqui
 4. **Finalize o merge no Git:**
    ```bash
    git add .
-   git commit -m "fix: resolve conflito de merge com a main"
+   git commit -m "CHORE/ resolve conflitos com a develop"
    ```
 5. **E se você fez besteira e quer cancelar tudo?**
    ```bash

@@ -34,10 +34,10 @@ Se você não entendeu nada da frase acima, não se preocupe! Este glossário é
 
 | Termo | O que significa na prática? | Exemplo de uso no dia a dia |
 | :--- | :--- | :--- |
-| **Pull Request (PR)** | Pedido formal no GitHub para que a sua branch seja revisada e integrada à branch principal (`main`). | *"Abri o PR da tela de login, alguém pode revisar?"* |
+| **Pull Request (PR)** | Pedido formal no GitHub para que a sua branch seja revisada e integrada à branch de integração (`develop`). | *"Abri o PR da tela de login, alguém pode revisar?"* |
 | **Code Review** | A análise do seu código feita por outro desenvolvedor antes de aprovar o merge, sugerindo melhorias de legibilidade ou segurança. | *"Recebi sugestões excelentes no code review do Ricardo."* |
 | **Merge** | A união oficial do código da sua branch com a branch principal do projeto. | *"O PR foi aprovado e o merge foi concluído."* |
-| **Merge Conflict** | Quando duas pessoas alteram as mesmas linhas no mesmo arquivo e o Git precisa que um humano escolha qual versão manter. | *"Deu conflito na main, vou resolver antes de abrir o PR."* |
+| **Merge Conflict** | Quando duas pessoas alteram as mesmas linhas no mesmo arquivo e o Git precisa que um humano escolha qual versão manter. | *"Deu conflito com a develop, vou resolver antes de abrir o PR."* |
 | **Refatoração (Refactor)** | Melhorar a qualidade interna do código (deixá-lo mais limpo, modular e rápido) sem alterar em nada o que ele faz na tela. | *"Vou refatorar essa função de cálculo para ficar mais legível."* |
 | **Dívida Técnica (Tech Debt)** | O atalho rápido ("gambiarra") feito hoje para entregar correndo, que vai cobrar juros altos e precisará ser reescrito amanhã. | *"Não vamos acumular dívida técnica aqui; vamos fazer direito."* |
 

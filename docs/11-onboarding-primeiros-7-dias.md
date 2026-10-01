@@ -82,12 +82,12 @@ Hora de interagir com o fluxo oficial de tarefas da empresa.
   - Mova o card para a coluna **`Em Andamento`** (lembre-se: nunca tenha mais de 1 card em andamento);
 - [ ] **Criar sua Branch de Trabalho:**
   ```bash
-  # Garanta que a main está atualizada
-  git checkout main
-  git pull origin main
+  # Garanta que a develop está atualizada
+  git checkout develop
+  git pull origin develop
   
-  # Crie sua branch semântica
-  git checkout -b fix/ajuste-link-rodape
+  # Crie sua branch no padrão tipo/codigo-do-card-descricao
+  git checkout -b fix/12-ajuste-link-rodape
   ```
 
 ---
@@ -108,15 +108,15 @@ Hoje é o dia de escrever código, testar localmente e salvar seu progresso.
 - [ ] **Criar Commits Atômicos e Semânticos:**
   ```bash
   git add caminho/do/arquivo.vue
-  git commit -m "fix: corrige alinhamento do botao no rodape"
+  git commit -m "FIX/ corrige alinhamento do botão no rodapé"
   ```
-- [ ] **Sincronizar com a Main:**
-  - Antes de enviar o código, puxe eventuais novidades da `main` para garantir zero conflitos:
+- [ ] **Sincronizar com a Develop:**
+  - Antes de enviar o código, puxe eventuais novidades da `develop` para garantir zero conflitos:
   ```bash
-  git checkout main
-  git pull origin main
-  git checkout fix/ajuste-link-rodape
-  git merge main
+  git checkout develop
+  git pull origin develop
+  git checkout fix/12-ajuste-link-rodape
+  git merge develop
   ```
   *(Se der conflito, respire fundo e consulte o [Guia de Primeiros Socorros](./12-troubleshooting-primeiros-socorros.md)).*
 
@@ -129,12 +129,14 @@ O grande dia do seu primeiro Pull Request oficial entrar na base de código da e
 ### Checklist do Dia 5:
 - [ ] **Subir sua Branch para o GitHub:**
   ```bash
-  git push -u origin fix/ajuste-link-rodape
+  git push -u origin fix/12-ajuste-link-rodape
   ```
 - [ ] **Abrir o Pull Request (PR):**
   - Acesse o GitHub do projeto;
   - Clique em **Compare & pull request**;
-  - Preencha o título e a descrição explicando o que foi feito;
+  - Confira que a `base` do PR é a **`develop`**, nunca a `main`;
+  - Preencha o título e a descrição explicando o que foi feito, seguindo o [Módulo 16](./16-padroes-de-commit-branch-e-pr.md);
+  - Marque o seu gestor em **Reviewers**;
   - Anexe um print da tela com o antes e o depois da sua alteração;
 - [ ] **Atualizar o Trello:**
   - Mova o seu card da coluna `Em Andamento` para a coluna **`Em Revisão`**;
@@ -142,7 +144,7 @@ O grande dia do seu primeiro Pull Request oficial entrar na base de código da e
 - [ ] **Participar da Reunião de Sexta (17h):**
   - Conecte no Discord com a **câmera ligada**;
   - Compartilhe brevemente como foi sua primeira semana e o card que você colocou em revisão;
-  - Veja seu código ser revisado ao vivo com o Ricardo e comemore o merge na `main`! 🥂
+  - Veja seu código ser revisado ao vivo com o Ricardo e comemore o merge na `develop`! 🥂
 
 ---
 

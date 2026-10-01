@@ -124,7 +124,7 @@ Na **Studio4You**, tratamos você como um futuro engenheiro de software, não co
 
 ## 🗺️ Mapa de Navegação das 4 Trilhas do Conhecimento
 
-Nossos 15 módulos estão organizados em **4 Trilhas Estratégicas** para guiar você desde o primeiro comando até a sua efetivação:
+Nossos 16 módulos estão organizados em **4 Trilhas Estratégicas** para guiar você desde o primeiro comando até a sua efetivação:
 
 ### 🏛️ Trilha 1: Boas-Vindas, Cultura & Rituais
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
@@ -138,8 +138,9 @@ Nossos 15 módulos estão organizados em **4 Trilhas Estratégicas** para guiar 
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |
 | :--- | :---: | :--- | :--- |
 | **05. Setup de Ambiente & Segurança** | `6 min` | Linux, Windows com WSL 2, macOS, Docker e o Bloco de Segurança Virtual. | [05-setup-ambiente-linux.md](./05-setup-ambiente-linux.md) |
-| **06. Git & GitHub Workflow** | `5 min` | Padrão de branches, Conventional Commits, Pull Requests e resolução de conflitos. | [06-git-github-workflow.md](./06-git-github-workflow.md) |
+| **06. Git & GitHub Workflow** | `5 min` | Fluxo de branches, commits, Pull Requests para a `develop` e resolução de conflitos. | [06-git-github-workflow.md](./06-git-github-workflow.md) |
 | **07. Gestão Interna (Manual do Gestor)** | `5 min` | Documento do gestor para conduzir rituais, 1:1, reembolsos e retenção. | [07-guia-de-gestao-interna.md](./07-guia-de-gestao-interna.md) |
+| **16. Padrões de Commit, Branch & PR** | `7 min` | Referência oficial: `TIPO/ descrição`, branch com card, PR com revisor, autorrevisão e uso de IA. | [16-padroes-de-commit-branch-e-pr.md](./16-padroes-de-commit-branch-e-pr.md) |
 
 ### 🎁 Trilha 3: Benefícios, Rotina & DNA da Empresa
 | Módulo | ⏱️ Leitura | O que você vai dominar | Documento |

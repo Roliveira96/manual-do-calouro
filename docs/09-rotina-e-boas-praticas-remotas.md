@@ -33,7 +33,7 @@ flowchart TD
     A["☀️ 1. Despertar & Café\nAcordar com antecedência\nTomar café da manhã"] --> B["🧘 2. Alongamento & Corpo\nEsticar lombar e pescoço\nDespertar as articulações"]
     B --> C["🧹 3. Organizar a Mesa\nMesa limpa = mente focada\nGarrafa de água + Xícara de café"]
     C --> D["🖥️ 4. Inicialização & Comunicação\nLigar PC Linux, ler e-mails\nResponder Discord, abrir Trello"]
-    D --> E["🐙 5. O Ritual Sagrado do Git\nPull na main, merge na branch\nResolver conflitos e subir Docker"]
+    D --> E["🐙 5. O Ritual Sagrado do Git\nPull na develop, merge na branch\nResolver conflitos e subir Docker"]
     E --> F["🚀 6. Foco Total na Demanda\nMão na massa até a entrega!"]
 ```
 
@@ -67,20 +67,20 @@ Ao sentar na máquina e ligar o seu sistema Linux:
 
 > [!IMPORTANT]
 > **NUNCA comece a codar diretamente de onde você parou ontem sem sincronizar o repositório!**  
-> Seus colegas ou gestor podem ter subido novas funcionalidades para a branch principal (`main`) enquanto você dormia.
+> Seus colegas ou gestor podem ter subido novas funcionalidades para a branch de integração (`develop`) enquanto você dormia.
 
 Siga religiosamente este ritual no terminal:
 
 ```bash
-# 1. Vá para a branch principal e baixe as novidades da equipe
-git checkout main
-git pull origin main
+# 1. Vá para a develop e baixe as novidades da equipe
+git checkout develop
+git pull origin develop
 
 # 2. Volte para a sua branch de trabalho da demanda atual
-git checkout feat/minha-tarefa-do-trello
+git checkout feat/42-minha-tarefa-do-trello
 
-# 3. Traga as novidades da main para dentro da sua branch
-git merge main
+# 3. Traga as novidades da develop para dentro da sua branch
+git merge develop
 ```
 
 > **🙏 Momento "Reza para não dar conflito":**  

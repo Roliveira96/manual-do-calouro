@@ -44,7 +44,7 @@ flowchart TD
 
 ### 4. 💻 Qualidade Técnica & Boas Práticas
 * Respeito à regra de ouro do Trello: **apenas 1 card em andamento por vez**;
-* Commits semânticos, atômicos e bem descritos (`feat:`, `fix:`, `docs:`);
+* Commits curtos, atômicos e bem descritos (`FEAT/`, `FIX/`, `DOCS/`), seguindo o [Módulo 16](./16-padroes-de-commit-branch-e-pr.md);
 * Abrir Pull Requests organizados, com descrição clara e prints do antes e depois.
 
 ### 5. 🤝 Postura Adulta & Espírito de Equipe
@@ -88,4 +88,4 @@ O encerramento do seu período de estágio na Studio4You não precisa ser o fim 
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 14. Dicionário do Calouro](./14-glossario-do-dev-moderno.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Divulgação da Vaga ➡️](./divulgacao-da-vaga.md)
+[⬅️ Anterior: 14. Dicionário do Calouro](./14-glossario-do-dev-moderno.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 16. Padrões de Commit, Branch & PR ➡️](./16-padroes-de-commit-branch-e-pr.md)

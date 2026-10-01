@@ -120,4 +120,4 @@ Fala galera da área de TI! 👋 A *Studio4You* abriu vaga de estágio voluntár
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 15. Critérios de Sucesso & Carreira](./15-criterios-de-sucesso-e-carreira.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)
+[⬅️ Anterior: 16. Padrões de Commit, Branch & PR](./16-padroes-de-commit-branch-e-pr.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: Template Relatório UTFPR ➡️](./templates/relatorio-quinzenal-utfpr.md)
