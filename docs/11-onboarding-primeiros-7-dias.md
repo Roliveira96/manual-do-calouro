@@ -37,7 +37,7 @@ Seu foco no primeiro dia é **deixar suas ferramentas prontas** para nunca mais 
   - Receba do Ricardo o e-mail da Studio4You destinado ao estágio e a senha inicial;
   - Faça o primeiro login, guarde a senha no gerenciador de senhas e configure a autenticação em dois fatores junto com o gestor;
   - Entre no Claude com essa conta, nunca com a sua conta pessoal;
-  - Leia as regras de uso no [Módulo 02](./02-comunicacao-discord.md).
+  - Leia as regras de uso no [Módulo 02](./02-comunicacao-contas-e-discord.md).
 - [ ] **Configuração de Git & SSH:**
   - Configure seu `git config --global user.name` e `user.email` com o mesmo e-mail do seu GitHub;
   - Gere sua chave SSH (`ssh-keygen -t ed25519 -C "seu-email@..."`);

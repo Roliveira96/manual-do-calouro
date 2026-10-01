@@ -23,6 +23,9 @@ Ao ingressar na Studio4You, todo membro é vinculado a um termo de confidenciali
 2. **Dados Pessoais & LGPD:** Dados de usuários finais (nomes, e-mails, telefones, CPFs, cartões) são estritamente protegidos pela Lei Geral de Proteção de Dados (Lei nº 13.709/2018). O que a lei exige de você no dia a dia está no [Módulo 05](./05-setup-ambiente-linux.md).
 3. **Vigência:** O compromisso de sigilo não termina quando o seu estágio acaba; ele permanece válido permanentemente.
 
+> [!CAUTION]
+> **Não é só contrato, é lei.** Copiar ou divulgar código, dados e mensagens da empresa pode configurar crime, com processo, indenização e, em alguns casos, prisão. As leis e as penas estão no [Bloco Legal do Módulo 02](./02-comunicacao-contas-e-discord.md).
+
 ---
 
 ## 📱 Regras para Redes Sociais: O que NUNCA Postar!

@@ -21,7 +21,7 @@
   1. Troque a senha e encerre todas as sessões ativas;
   2. Revise ou remova o acesso ao Claude e a qualquer serviço cadastrado com a conta;
   3. Limpe a caixa e o histórico antes de entregar a conta ao próximo estagiário.
-- **Deixe claro desde o Dia 1** que a conta é corporativa e auditável, conforme o [Módulo 02](./02-comunicacao-discord.md).
+- **Deixe claro desde o Dia 1** que a conta é corporativa e auditável, conforme o [Módulo 02](./02-comunicacao-contas-e-discord.md).
 - **Discord, Trello e GitHub continuam no e-mail do aluno.** Convide o e-mail que ele já utiliza (pessoal ou acadêmico da UTFPR) diretamente para:
   1. O Workspace do Trello da empresa.
   2. O servidor do Discord da Studio4You.

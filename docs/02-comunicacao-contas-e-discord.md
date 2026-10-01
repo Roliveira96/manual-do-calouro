@@ -1,8 +1,8 @@
-> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 5 min*
+> 📍 **Manual do Calouro** » **Trilha 1: Cultura & Rituais** » [🏠 Hub Central (README)](../README.md) &nbsp;|&nbsp; ⏱️ *Tempo de leitura: 8 min*
 
 ---
 
-# 💬 02. Comunicação Oficial :: Discord & E-mails
+# 💬 02. Comunicação Oficial :: Contas, E-mails & Discord
 
 > *"Se não está no Discord ou no Trello, não aconteceu no mundo real."*
 
@@ -46,7 +46,7 @@ Você vai trabalhar com **duas identidades**, e cada uma tem o seu lugar:
 - **Não faça login em computador público ou emprestado.** Use só na sua máquina de trabalho, seguindo o Bloco de Segurança do [Módulo 05](./05-setup-ambiente-linux.md).
 - **Recebeu algo suspeito?** Não clique, e avise o gestor. Conta corporativa também é alvo de phishing.
 
-**No fim do estágio:** a conta é devolvida. O gestor troca a senha, encerra as sessões e a conta passa para o próximo estagiário. Não leve cópia de conversas, arquivos ou e-mails; o dever de sigilo continua valendo ([Módulo 13](./13-sigilo-etica-e-confidencialidade.md)).
+**No fim do estágio:** a conta é devolvida, e copiar o conteúdo dela é crime (veja o Bloco Legal mais abaixo). O gestor troca a senha, encerra as sessões e a conta passa para o próximo estagiário. Não leve cópia de conversas, arquivos ou e-mails; o dever de sigilo continua valendo ([Módulo 13](./13-sigilo-etica-e-confidencialidade.md)).
 
 ### 👤 O seu e-mail pessoal ou acadêmico
 
@@ -56,6 +56,57 @@ Para comunicação e código, seguimos usando o **mesmo e-mail cadastrado na sua
 - As permissões e repositórios de código no **GitHub**.
 
 O seu perfil do GitHub é pessoal e continua sendo seu: o histórico de contribuições faz parte do seu portfólio.
+
+---
+
+## ⚖️ Bloco Legal: Copiar Dados da Empresa é Crime
+
+> [!CAUTION]
+> **Tudo o que você acessa no estágio pertence à Studio4You ou aos clientes dela:** código-fonte, bancos de dados, documentos, credenciais, e-mails e mensagens. Copiar, levar, repassar ou divulgar esse material sem autorização não é só quebra de regra interna. **É crime previsto em lei**, e quem faz pode ser processado, condenado a indenizar e, em alguns casos, preso.
+
+### O que conta como cópia ou uso indevido
+
+- Subir código de projeto para repositório, Drive, pendrive ou e-mail pessoal;
+- Baixar ou exportar banco de dados, planilha de clientes ou documentos internos;
+- Copiar, exportar ou tirar print de mensagens do Discord, de e-mails e de reuniões para mostrar a alguém de fora;
+- Levar credenciais, tokens ou acessos, ou continuar usando qualquer acesso depois do fim do estágio;
+- Entrar na conta de um colega ou acessar o que não foi liberado para você;
+- Reaproveitar código ou dados da empresa em projeto pessoal, trabalho da faculdade, freela ou em outra empresa;
+- Encaminhar conversas do Claude ou arquivos da conta corporativa para uma conta pessoal.
+
+### O que a lei diz
+
+| Conduta | Lei | Pena prevista |
+| :--- | :--- | :--- |
+| **Usar ou divulgar, sem autorização, informações confidenciais** a que teve acesso por relação contratual, **mesmo depois do fim do contrato**. | Lei de Propriedade Industrial (Lei nº 9.279/1996), art. 195, XI: crime de concorrência desleal. | Detenção de 3 meses a 1 ano, ou multa. |
+| **Copiar ou reproduzir programa de computador** sem autorização do titular. | Lei do Software (Lei nº 9.609/1998), art. 12. | Detenção de 6 meses a 2 anos, ou multa. Se a cópia for para fins de comércio, **reclusão de 1 a 4 anos** e multa. |
+| **Invadir dispositivo ou sistema alheio** para obter, alterar ou destruir dados sem autorização. Inclui usar a conta de outra pessoa. | Código Penal, art. 154-A. | **Reclusão de 1 a 4 anos** e multa. Se forem obtidas comunicações privadas, segredos comerciais ou informações sigilosas, **reclusão de 2 a 5 anos** e multa. |
+| **Divulgar conteúdo de documento particular ou de correspondência confidencial**, causando dano a alguém. | Código Penal, art. 153. | Detenção de 1 a 6 meses, ou multa. |
+| **Revelar segredo conhecido em razão da função ou profissão**, causando dano a alguém. | Código Penal, art. 154. | Detenção de 3 meses a 1 ano, ou multa. |
+| **Copiar ou divulgar dados pessoais de usuários e clientes.** | LGPD (Lei nº 13.709/2018) e Código Civil, arts. 186 e 927. | Indenização às pessoas prejudicadas, além das sanções aplicadas à empresa. |
+
+> [!NOTE]
+> **O código que você escreve no estágio também é da empresa.** A Lei do Software (art. 4º) determina que os direitos sobre o programa desenvolvido durante o contrato pertencem ao contratante, e o § 3º estende essa regra expressamente a **bolsistas e estagiários**. Ter sido você quem escreveu não dá o direito de levar o código.
+
+### As três consequências, que se somam
+
+1. **Criminal:** inquérito policial e processo, com as penas da tabela acima.
+2. **Civil:** indenização pelos prejuízos causados à empresa, aos clientes e aos titulares dos dados.
+3. **No estágio:** desligamento imediato e comunicação à UTFPR, conforme o termo de compromisso e o acordo de confidencialidade.
+
+O compromisso **não acaba com o estágio**: o dever de sigilo continua valendo depois da sua saída ([Módulo 13](./13-sigilo-etica-e-confidencialidade.md)).
+
+### O que é seu e você leva
+
+O objetivo deste bloco é deixar o limite claro, não assustar. Você sai do estágio com tudo o que realmente importa para a sua carreira:
+
+- ✅ O conhecimento e a experiência que adquiriu;
+- ✅ As tecnologias, técnicas e boas práticas que aprendeu, para usar onde quiser;
+- ✅ O seu perfil do GitHub e o histórico de contribuições;
+- ✅ O que você pode contar e postar, dentro das regras do [Módulo 13](./13-sigilo-etica-e-confidencialidade.md).
+
+> [!IMPORTANT]
+> Este bloco é um resumo informativo e não substitui o texto das leis nem orientação jurídica. **Na dúvida se pode copiar, guardar ou compartilhar algo, pergunte ao gestor antes de fazer.**
 
 ---
 

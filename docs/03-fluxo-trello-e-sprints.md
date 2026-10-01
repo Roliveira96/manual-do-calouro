@@ -83,4 +83,4 @@ Para que um card seja produtivo e não vire uma charada, ele deve conter:
 
 ## 🧭 Navegação Rápida
 
-[⬅️ Anterior: 02. Comunicação no Discord](./02-comunicacao-discord.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 04. Rituais & Reuniões ➡️](./04-rituais-e-reunioes.md)
+[⬅️ Anterior: 02. Comunicação, Contas & Discord](./02-comunicacao-contas-e-discord.md) &nbsp;|&nbsp; [🏠 Início (README)](../README.md) &nbsp;|&nbsp; [Próximo: 04. Rituais & Reuniões ➡️](./04-rituais-e-reunioes.md)
