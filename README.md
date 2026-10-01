@@ -54,7 +54,7 @@ Antes de abrir qualquer terminal, grave estas regras no seu coração (ou cole n
 | **2** | 🎯 **1 Card por Vez no Trello** | A regra inegociável do `Em Andamento`. Termine uma coisa antes de começar outra. Foco e consistência sempre vencem multitarefa desordenada. |
 | **3** | 🪜 **A Escadinha do Desbloqueio** | Travou em um erro? Siga a escadinha: **1º Pesquisa Ativa (15 min)** ➡️ **2º Ajuda com o Colega de Estágio** ➡️ **3º Ricardo (Gestor)** trazendo o contexto do que já foi testado. |
 | **4** | 💥 **Quebrou? Não Esconda!** | Cometeu um erro de Git ou quebrou a build? Avise imediatamente! Lembra da analogia da luz da injeção do carro: fita isolante preta por cima da lâmpada não impede o motor de fundir na estrada. |
-| **5** | 💻 **Ambiente Livre & Seguro** | Desenvolva em Linux, Windows com WSL 2 ou macOS. O que importa é um ambiente reprodutível e uma máquina blindada contra malwares, ativadores piratas e links suspeitos. |
+| **5** | 💻 **Ambiente Livre & Seguro** | Preferimos Linux, mas Windows com WSL 2 e macOS são bem-vindos. O que importa é um ambiente reprodutível e uma máquina blindada contra malwares, ativadores piratas e links suspeitos. |
 | **6** | 📝 **Relatório Quinzenal em Dia** | O estágio é uma parceria com a **UTFPR (TSI)**. Relatório feito e assinado a cada 15 dias poupa noites de desespero e correria no final do semestre. |
 | **7** | 👔 **Postura Adulta & Sem Melindres** | Foco, maturidade e conversas profissionais. Code review não é ataque pessoal; é controle de qualidade de software. Descontração tem hora e lugar: no `#geral-bate-papo` e no Happy Hour mensal! |
 

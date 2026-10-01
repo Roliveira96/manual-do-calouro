@@ -10,11 +10,14 @@
 
 ## 🧭 1. Flexibilidade de Sistema Operacional: Escolha o Seu
 
-Na **Studio4You**, **você NÃO é obrigado a usar exclusivamente Linux nativo**.  
-Reconhecemos que cada estudante possui sua própria máquina, e você tem total liberdade para trabalhar em:
-* 🐧 **Linux Nativo (Ubuntu / Debian / Fedora / Arch)**;
-* 🪟 **Windows (com WSL 2)**;
-* 🍎 **macOS**.
+Na **Studio4You**, **a nossa preferência é o Linux**. É o sistema que roda nos nossos servidores de produção e homologação, o Docker funciona nele de forma nativa e os comandos deste manual foram escritos pensando nele. Quem desenvolve em Linux trabalha no mesmo ambiente em que o código vai rodar.
+
+Mas preferência não é obrigação. **Se a sua máquina é Windows, não tem problema nenhum**: você não precisa formatar o computador nem comprar outro. Com o WSL 2 (explicado logo abaixo), você tem um Linux de verdade rodando dentro do Windows.
+
+Reconhecemos que cada estudante possui sua própria máquina, e você pode trabalhar em:
+* 🐧 **Linux Nativo (Ubuntu / Debian / Fedora / Arch)**: a opção preferida;
+* 🪟 **Windows (com WSL 2)**: totalmente aceito;
+* 🍎 **macOS**: totalmente aceito.
 
 O nosso requisito inegociável é que o seu ambiente consiga executar **Bash, Git, Node.js e Docker** com fidelidade aos nossos ambientes de produção e homologação.
 

@@ -33,7 +33,7 @@ Fluxo obrigatório em 5 colunas:
 5. **`Concluído`**: Entregas aprovadas e integradas à branch principal.
 
 ### Ambiente de Desenvolvimento & Segurança da Máquina
-- **Flexibilidade de SO:** O estudante pode utilizar Linux nativo (Ubuntu sugerido), Windows com **WSL 2** ou macOS. O essencial é um ambiente compatível e reprodutível com containers Docker e terminal Bash.
+- **Flexibilidade de SO:** A preferência da empresa é Linux nativo (Ubuntu sugerido), mas o estudante pode utilizar Windows com **WSL 2** ou macOS sem problema. O essencial é um ambiente compatível e reprodutível com containers Docker e terminal Bash.
 - **Segurança Cibernética Primordial:** Cobrar postura rigorosa contra malwares, especialmente em Windows (antivírus ativo e atualizado), proibição de ativadores/cracks (vetores clássicos de roubo de chaves SSH e senhas) e atenção a phishing e pacotes maliciosos do GitHub.
 - **Documentação de Dependências:** Os alunos continuam obrigados a **documentar no `README.md`** qualquer nova biblioteca, migração ou dependência necessária para rodar o projeto.
 
