@@ -26,9 +26,9 @@
 
 ## ⚡ Central de Comando Rápido (Quick Links)
 
-| 💬 Discord Oficial | 📋 Quadro do Trello | 🌐 Site Studio4You | 🛠️ Gerador de Relatório |
+| 💬 Discord Oficial | 📋 Quadro do Trello | 🕒 Expediente Oficial | 🌐 Site Studio4You |
 | :---: | :---: | :---: | :---: |
-| **QG & Dailies**<br>[👉 Ir para Canais](#) | **Gestão de Sprints**<br>[👉 Ver Meus Cards](#) | **Software House**<br>[👉 studio4you.com.br](https://studio4you.com.br) | **Automação UTFPR**<br>`./scripts/novo-relatorio.sh` |
+| **QG & Dailies**<br>[👉 Ir para Canais](#) | **Gestão de Sprints**<br>[👉 Ver Meus Cards](#) | **Segunda a Sexta**<br>`09h–12h` & `14h–18h` | **Software House**<br>[👉 studio4you.com.br](https://studio4you.com.br) |
 
 ---
 

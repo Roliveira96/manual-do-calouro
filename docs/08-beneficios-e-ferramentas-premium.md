@@ -124,6 +124,7 @@ Basta você fazer a ponte e apresentar o contato para o gestor (**Ricardo**). A 
 
 ## ⏰ Horário Altamente Flexível & Apoio aos Estudos (UTFPR)
 
+* **Expediente da Empresa:** A Studio4You opera de **segunda a sexta-feira**, das **09:00 às 12:00** e das **14:00 às 18:00** (com pausa de almoço das 12h às 14h). A sua jornada de estágio é distribuída dentro dessa janela operacional, alinhada com o gestor de acordo com suas matérias e horários de aula.
 * **Formação em 1º Lugar:** O principal objetivo da sua graduação na UTFPR é formar você com excelência. Nós nunca colocaremos uma demanda da empresa na frente do seu rendimento escolar.
 * **Dia de Prova = FOLGA TOTAL para Estudar:** Em dias de avaliação e exames na UTFPR, **não é permitido trabalhar no estágio**. É folga garantida para você se dedicar aos livros e tirar uma excelente nota!
 * **Zero Culpa, Máxima Transparência:** Você não precisa inventar desculpas nem justificar com vergonha. A única exigência é a **comunicação prévia**: informe o cronograma de provas com antecedência para que o gestor deixe sua agenda 100% livre.

@@ -48,6 +48,22 @@ Ligar a câmera nos primeiros dias dá um friozinho na barriga em quase todo mun
 
 ---
 
+## ⏰ Horário de Funcionamento & Expediente da Empresa
+
+A **Studio4You** opera de **segunda a sexta-feira** nos seguintes turnos oficiais:
+
+| Turno | Horário | O que acontece |
+| :--- | :---: | :--- |
+| ☀️ **Manhã** | `09:00 às 12:00` | Início do expediente, Daily matinal, alinhamentos de sprint e foco em código. |
+| 🍽️ **Almoço / Intervalo** | `12:00 às 14:00` | Pausa para almoço, descanso e recarregar as energias da equipe. |
+| 🌆 **Tarde** | `14:00 às 18:00` | Continuidade do desenvolvimento, revisões de PRs, pareamentos e fechamento do dia. |
+
+> [!NOTE]
+> - **Carga horária do estágio:** Os estagiários cumprem sua jornada contratual (normalmente 6h diárias / 30h semanais) distribuída dentro dessa janela de operação, alinhada diretamente com o gestor para conciliar perfeitamente com as aulas e compromissos na UTFPR.
+> - **Desconexão respeitada:** Fora desse expediente (antes das 09h, durante o almoço das 12h às 14h, após as 18h e nos fins de semana), você não tem obrigação de responder mensagens nem trabalhar. O descanso e os estudos são sagrados!
+
+---
+
 ## 🗓️ O Calendário Semanal de Rituais
 
 ```mermaid

@@ -135,6 +135,19 @@ Nosso servidor no Discord é enxuto e organizado para ninguém perder foco com s
 
 ---
 
+## ⏰ Horário de Atendimento & Comunicação no Discord
+
+O nosso servidor opera nos horários oficiais de expediente da Studio4You (de **segunda a sexta-feira**):
+- ☀️ **Manhã:** `09:00 às 12:00`
+- 🍽️ **Intervalo de Almoço:** `12:00 às 14:00` (pausa geral do time)
+- 🌆 **Tarde:** `14:00 às 18:00`
+
+> [!NOTE]
+> Durante esses turnos, o time está online para tirar dúvidas, realizar Dailies, pareamento e alinhamentos.  
+> Mensagens enviadas fora do expediente comercial ou nos finais de semana serão respondidas no próximo turno útil. Ninguém é cobrado a responder fora do horário!
+
+---
+
 ## 🤝 Manual de Boas Maneiras no Discord
 
 1. **A Escadinha do Canal `#duvidas` (Pesquise ➡️ Colega ➡️ Gestor):**

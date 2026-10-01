@@ -65,8 +65,13 @@ flowchart TD
     S_Rev -.-> FB
 ```
 
+### Expediente Operacional
+- **Horário oficial:** Segunda a sexta-feira, das `09:00 às 12:00` e das `14:00 às 18:00`.
+- **Intervalo:** `12:00 às 14:00` (almoço e descanso da equipe).
+- A carga horária dos estagiários (normalmente 6h/dia) é distribuída dentro dessa janela de acordo com a grade horária da UTFPR.
+
 ### 1. Daily Diária (10 a 15 min)
-- **Cobrança Expressa:** Câmera ligada obrigatória.
+- **Cultura de time:** Reuniões com câmera aberta para gerar conexão visual, acolhimento e presença real.
 - **Roteiro dos 3 pontos:**
   1. O que fez ontem.
   2. O que vai fazer hoje.

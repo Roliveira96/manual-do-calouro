@@ -22,6 +22,10 @@ Quando as pessoas pensam em trabalho remoto, muitos imaginam aquela cena de film
 
 Na **Studio4You**, nós valorizamos a flexibilidade remota, mas cobramos **postura profissional de engenharia**. Para ajudar você a construir esse hábito vencedor, documentamos abaixo a **rotina real do nosso Tech Lead (Ricardo)**, um passo a passo testado no campo de batalha para você adotar no seu dia a dia.
 
+> [!NOTE]
+> **Horário Oficial de Funcionamento:**  
+> A Studio4You opera de **segunda a sexta-feira**, das **09:00 às 12:00** e das **14:00 às 18:00**. O intervalo das 12:00 às 14:00 é a pausa para almoço e descanso da equipe.
+
 ---
 
 ## ☕ O Ritual Matinal do Ricardo (O Checklist do Desenvolvedor)
@@ -100,7 +104,7 @@ docker compose up -d
 
 * **Isolamento de Ruídos:** Se na sua casa há barulho de vizinhos, obras ou família, utilize fones de ouvido (músicas instrumentais, synthwave ou lofi ajudam a entrar em estado de fluxo).
 * **Posicionamento da Câmera:** Nas dailies e reuniões, posicione a câmera na altura dos olhos e de frente para a luz (evite ficar de costas para uma janela brilhante, o que deixa você em sombra total).
-* **Defina limites claros:** Avise seus familiares ou colegas de república: *"Pessoal, agora das Xh às Yh estou no expediente de estágio da empresa, com câmera ligada e reuniões"*. Respeite o seu horário para que os outros também o respeitem.
+* **Defina limites claros:** Avise seus familiares ou colegas de república: *"Pessoal, agora estou no horário de expediente da empresa (dentro das 09h às 12h e/ou 14h às 18h), com câmera ligada e reuniões"*. Respeite o seu horário para que os outros também o respeitem.
 
 ---
 
